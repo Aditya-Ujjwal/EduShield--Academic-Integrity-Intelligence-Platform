@@ -1,0 +1,1524 @@
+student_id,first_name,last_name,gender,year_level,major_id,gpa,enrollment_date,expected_graduation_year,attendance_rate,academic_standing,scholarship_status,active_status
+S00001,Cameron,Turner,Male,Sophomore,MAJ022,3.39,2024-10-05 00:00:00,2028,74.38,Good,None,Active
+S00002,Jamie,Cooper,Female,Sophomore,MAJ016,2.28,2024-10-19 00:00:00,2028,96.29,Academic Warning,None,Active
+S00003,Casey,Parker,Male,Freshman,MAJ016,3.1,2025-10-20 00:00:00,2029,77.47,Good,Partial,Active
+S00004,Morgan,Reed,Male,Sophomore,MAJ019,3.14,2024-10-06 00:00:00,2028,93.52,Good,Partial,Active
+S00005,Parker,Mitchell,Female,junior,MAJ007,2.72,2023-08-22 00:00:00,2027,81.54,Good,None,Active
+S00006,Alex,Parker,Male,Freshman,MAJ011,2.38,2025-10-28 00:00:00,2029,74.34,Academic Warning,Partial,Active
+S00007,Parker,Parker,Non-Binary,Senior,MAJ015,4.0,2022-10-13 00:00:00,2026,86.53,Honors,None,Active
+S00008,Alex,Cooper,Female,Junior,MAJ004,2.32,2023-09-08 00:00:00,2027,79.0,Academic Warning,None,Graduated
+S00009,Alex,Reed,Female,Junior,MAJ010,3.47,2023-08-15 00:00:00,2027,77.54,Good,None,Active
+S00010,Avery,Foster,Male,junior,MAJ022,3.17,2023-09-20 00:00:00,2027,92.73,Good,Partial,Graduated
+S00011,Blake,Reed,Male,Sophomore,MAJ007,3.02,2024-08-24 00:00:00,2028,73.92,Good,Partial,Active
+S00012,Reese,Hayes,Male,Junior,MAJ024,2.2,2023-10-16 00:00:00,2027,90.97,Academic Warning,Partial,Active
+S00013,Casey,Parker,Male,Freshman,MAJ003,2.93,2025-09-11 00:00:00,2029,96.87,Good,Full,Active
+S00014,Cameron,Turner,Female,Freshman,MAJ009,2.8,2025-10-07 00:00:00,2029,100.0,Good,None,Active
+S00015,Cameron,Morgan,Female,Junior,MAJ018,3.16,2023-09-13 00:00:00,2027,100.0,Good,Full,Active
+S00016,Reese,Cooper,Non-Binary,Junior,MAJ004,2.03,2023-09-16 00:00:00,2027,83.48,Academic Warning,None,Active
+S00017,Reese,Cooper,Male,Junior,MAJ006,3.7,2023-10-24 00:00:00,2027,77.95,Honors,Partial,Active
+S00018, Drew ,Parker,Male,Senior,MAJ020,2.78,2022-09-16 00:00:00,2026,98.68,Good,None,Active
+S00019,Cameron,Turner,Female,Junior,MAJ013,2.04,2023-09-05 00:00:00,2027,75.13,Academic Warning,Full,Active
+S00020,Parker,Foster,Non-Binary,Senior,MAJ020,3.2,2022-08-03 00:00:00,2026,100.0,Good,Partial,Active
+S00021,Alex,Brooks,Male,Sophomore,MAJ012,4.0,2024-09-07 00:00:00,2028,80.01,Honors,None,Active
+S00022,Casey,Ward,Male,Senior,MAJ007,2.55,2022-09-27 00:00:00,2026,78.32,Good,None, Active 
+S00023,Riley,Parker,Non-Binary,Junior,MAJ019,3.17,2023-08-25 00:00:00,2027,88.75,Good,Full,Active
+S00024,Morgan,Parker,Female,Freshman,MAJ017,2.69,2025-10-05 00:00:00,2029,90.45,Good,None,Active
+S00025,Morgan,Collins,Non-Binary,Freshman,MAJ020,3.67,2025-09-25 00:00:00,2029,83.87,Good,None,Active
+S00026,Jamie,Carter,Female,Senior,MAJ009,2.74,2022-09-04 00:00:00,2026,100.0,Good,None, Graduated 
+S00027,Blake,Bennett,Male,Junior,MAJ009,3.73,2023-10-07 00:00:00,2027,86.97,Honors,None,Active
+S00028,Jordan,Turner,Male,Junior,MAJ010,2.92,2023-10-20 00:00:00,2027,89.17,Good,Partial,Active
+S00029,Alex,Mitchell,Non-Binary,Junior,MAJ011,2.97,2023-09-22 00:00:00,2027,73.93,Good,None,Active
+S00030,Reese,Bennett,Male,Sophomore,MAJ023,2.56,2024-08-14 00:00:00,2028,100.0,Good,Full,Active
+S00031,Jamie,Wilson,Male,Senior,MAJ005,3.08,2022-08-24 00:00:00,2026,78.98,Good,,Active
+S00032,Blake,Reed,Male,Junior,MAJ024,3.93,2023-09-14 00:00:00,2027,98.45,Honors,Partial,Active
+S00033,Morgan,Price,Female,Sophomore,MAJ020,2.51,2024-09-15 00:00:00,2028,81.24,Good,None,Active
+S00034,Cameron,Mitchell,Female,Junior,MAJ004,3.0,2023-09-28 00:00:00,2027,90.53,Good,None,Active
+S00035,Casey, Mitchell ,Male, Sophomore ,MAJ001,2.39,2024-10-23 00:00:00,2028,72.06,Academic Warning,Full,Active
+S00036,Morgan,Carter,Female,Junior,MAJ013,3.89,2023-10-14 00:00:00,2027,71.19,Honors,,Active
+S00037,Sam,Turner,Male,Junior,MAJ014,2.74,2023-09-26 00:00:00,2027,68.43,Good,None,Active
+S00038,Morgan,Brooks,Non-Binary,Sophomore,MAJ002,3.87,2024-10-12 00:00:00,2028,100.0,Honors,None,Active
+S00039,Jamie,Reed,Male,Sophomore,MAJ012,2.25,2024-09-23 00:00:00,2028,90.53,Academic Warning,None,Active
+S00040,Jamie,Parker,Male,Freshman,MAJ017,3.13,2025-08-24 00:00:00,2029,89.28,GOOD,None,Active
+S00041,Morgan,Turner,Male,Freshman,MAJ006,2.21,2025-09-24 00:00:00,2029,94.38,Academic Warning,None,Active
+S00042,Jordan,Price,Female,Junior,MAJ007,2.97,2023-09-08 00:00:00,2027,87.13,Good,None,Active
+S00043,Taylor,Brooks,Female,Junior,MAJ014,3.62,2023-08-18 00:00:00,2027,99.81,Good,None,Graduated
+S00044,Quinn,Collins,Female,Junior,MAJ001,3.49,2023-08-19 00:00:00,2027,94.81,Good,,Active
+S00045,Alex,Brooks,Male,Sophomore,MAJ012,2.06,2024-08-27 00:00:00,2028,89.57,Academic Warning,None,Active
+S00046,Sam,Morgan,,Junior,MAJ003,3.18,2023-08-26 00:00:00,2027,100.0,Good, None ,Active
+S00047,Jordan,Reed,Male,Senior,MAJ014,2.92,2022-10-20 00:00:00,2026,75.85,Good,Partial,Active
+S00048,Drew,Cooper,Male,Junior,MAJ014,3.4,2023-09-28 00:00:00,2027,72.05,Good,None,Active
+S00049,Alex,Foster,Non-Binary,Junior,MAJ002,2.48,2023-08-25 00:00:00,2027,79.6,Academic Warning,None,Active
+S00050,Taylor,Parker,Female,Junior,MAJ001,3.92,2023-10-03 00:00:00,2027,89.77,Honors,None,Active
+S00051,Drew,Brooks,Female,Junior,MAJ021,3.5,2023-08-10 00:00:00,2027,92.88,,Partial,Active
+S00052,Sam,Parker,Male,Sophomore,MAJ003,3.08,2024-10-19 00:00:00,2028,71.5,Good,Partial,Graduated
+S00053,Avery,Parker,,Sophomore,MAJ021,2.86,2024-08-09 00:00:00,2028,81.95,Good,Partial,Active
+S00054,Casey,Foster,Non-Binary,Freshman,MAJ008,3.77,2025-10-10 00:00:00,2029,91.02,Honors, None ,Active
+S00055,Cameron,Brooks,Non-Binary,Sophomore,MAJ007,3.64,2024-10-16 00:00:00,2028,67.86,Good,None, Active 
+S00056,Jamie,Mitchell,Non-Binary,Senior,MAJ008,3.54,2022-09-01 00:00:00,2026,89.83,Good,None,Graduated
+S00057,Parker,Foster,Female,Senior,MAJ001,2.28,2022-10-27 00:00:00,2026,87.65,Academic Warning,None,Active
+S00058,Drew,Reed,Non-Binary,Junior,MAJ014,3.28,2023-09-09 00:00:00,2027,96.85,Good,None,Active
+S00059,Drew,Carter,Male,Junior,MAJ011,2.56,2023-09-14 00:00:00,2027,66.54,Good,None,Active
+S00060,Riley,Bennett,Non-Binary,Senior,MAJ006,2.35,2022-09-10 00:00:00,2026,77.26,Academic Warning,Partial, Active 
+S00061,Alex,Collins,Female,Junior,MAJ004,3.2,2023-09-09 00:00:00,2027,77.67,Good,None,Graduated
+S00062,Avery,Price,Female,Sophomore,MAJ024,4.0,2024-10-28 00:00:00,2028,76.07,Honors,None,Active
+S00063,Riley,Foster,Male,Freshman,MAJ018,3.31,2025-10-15 00:00:00,2029,92.61,Good,Partial,Active
+S00064,Blake,Brooks,Male,Junior,MAJ022,2.06,2023-10-16 00:00:00,2027,86.71,Academic Warning,None,Graduated
+S00065,Morgan,Turner,Female,Junior,MAJ014,3.44,2023-09-18 00:00:00,2027,91.25,Good,None,Active
+S00066,Reese,Cooper,Female,Freshman,MAJ018,3.86,2025-09-04 00:00:00,2029,74.75,Honors,Partial,Active
+S00067,Casey,Reed,Non-Binary,Senior,MAJ016,3.43,2022-09-14 00:00:00,2026,77.06,Good,Partial,Withdrawn
+S00068,Avery,Wilson,Male,Freshman,MAJ016,3.45,2025-08-20 00:00:00,2029,93.94,Good,None,Active
+S00069,Casey,Ward,Male,Senior,MAJ023,3.42,2022-09-26 00:00:00,2026,100.0,Good,None,Active
+S00070,Casey,Price,Non-Binary,Sophomore,MAJ016,2.91,2024-10-22 00:00:00,2028,77.01,Good,None,Active
+S00071,Riley,Mitchell,Non-Binary,Junior,MAJ011,2.37,2023-10-13 00:00:00,2027,76.14,Academic Warning,None,Active
+S00072,Jamie,Parker,Non-Binary, Freshman ,MAJ017,3.21,2025-09-08 00:00:00,2029,84.82,Good,Partial,Active
+S00073,Drew,Turner,Male,Sophomore,MAJ015,2.93,2024-09-22 00:00:00,2028,96.35,Good,Partial,Active
+S00074,Alex,Wilson,Non-Binary,Freshman,MAJ009,1.94,2025-10-11 00:00:00,2029,85.67,Probation,Partial,Active
+S00075,Avery,Cooper,Male,Sophomore,MAJ005,2.54,2024-08-24 00:00:00,2028,85.95,Good,None,Active
+S00076,Jordan,Collins,Male,Senior,MAJ006,3.25,2022-09-20 00:00:00,2026,75.93,Good,Partial,Active
+S00077,Reese,Hayes,Non-Binary,Senior,MAJ024,2.5,2022-09-11 00:00:00,2026,85.63,Academic Warning,Partial,Graduated
+S00078,Avery,Morgan,Non-Binary,Sophomore,MAJ007,3.19,2024-08-08 00:00:00,2028,92.59,Good,Partial,Graduated
+S00079,Jamie,Carter,Male,Senior,MAJ011,3.07,2022-08-25 00:00:00,2026,87.22,Good,Partial,Active
+S00080,Jamie,Brooks,Female,Sophomore, MAJ005 ,2.53,2024-08-11 00:00:00,2028,79.9,Good, Partial ,Active
+S00081,Taylor,Parker,Non-Binary,Sophomore,MAJ019,2.37,2024-09-19 00:00:00,2028,80.79,Academic Warning,Partial,Active
+S00082,Parker,Price,Male,Freshman,MAJ018,3.57,2025-10-22 00:00:00,2029,100.0,Good,None,Graduated
+S00083,Drew,Hayes,Male,Freshman, MAJ010 ,2.43,2025-09-09 00:00:00,2029,74.54,Academic Warning,Partial,Graduated
+S00084,Casey,Hayes,Non-Binary,Sophomore,MAJ015,2.47,2024-08-03 00:00:00,2028,85.01,Academic Warning,None,Active
+S00085,Sam,Bennett,Non-Binary,Junior,MAJ014,3.0,2023-09-15 00:00:00,2027,84.34,Good,Partial,Active
+S00086,Drew,Carter,Female,Sophomore,MAJ005,1.81,2024-09-19 00:00:00,2028,73.03,Probation,None,Active
+S00087,Alex,Price,Non-Binary,Junior,MAJ002,2.68,2023-09-09 00:00:00,2027,72.38,Good,None,Active
+S00088,Alex,Cooper,Non-Binary,Senior,MAJ002,3.89,2022-10-16 00:00:00,2026,94.07,Honors,Partial,Graduated
+S00089,Morgan,Foster,Male,Senior,MAJ011,3.0,2022-08-21 00:00:00,2026,86.17,Good,None,Active
+S00090,Quinn,Hayes,Non-Binary,Junior,MAJ016,2.03,2023-08-21 00:00:00,2027,92.59,Academic Warning,None,Active
+S00091,Quinn,Collins,Female,Freshman,MAJ014,3.87,2025-10-12 00:00:00,2029,93.02,Honors,Partial,Active
+S00092,Jamie,Bennett,Female,Sophomore,MAJ012,3.06,2024-08-05 00:00:00,2028,89.76,Good,Partial,Active
+S00093,Avery,Cooper,Male,Sophomore,MAJ009,3.15,2024-08-09 00:00:00,2028,79.0,,Full,Graduated
+S00094,Casey,Turner,Male,Senior,MAJ024,4.0,2022-08-15 00:00:00,2026,86.77,Honors,Full,Active
+S00095,Reese,Hayes,Non-Binary,SENIOR,MAJ009,2.82,2022-10-13 00:00:00,2026,74.52,Good,Full,Active
+S00096,Quinn,Bennett,Female,Sophomore,MAJ003,3.06,2024-09-18 00:00:00,2028,91.88,Good,None,Active
+S00097,Casey,Foster,Male,Junior,MAJ022,3.27,2023-10-12 00:00:00,2027,99.43,Good,None,Active
+S00098,Blake,Reed,Male,Freshman,MAJ004,2.65,2025-10-08 00:00:00,2029,89.66,Good,Partial,Active
+S00099,Jamie,Brooks,Non-Binary,Sophomore,MAJ018,3.27,2024-09-04 00:00:00,2028,80.66,Good,None,Graduated
+S00100,Drew,Carter,Female,Sophomore,MAJ017,3.07,2024-08-18 00:00:00,2028,91.48,Good,None,Active
+S00101,Jamie,Turner,Non-Binary,Junior,MAJ004,2.25,2023-09-19 00:00:00,2027,84.81,Academic Warning,Partial,Active
+S00102,Jordan,Price,Male,Sophomore,MAJ001,2.53,2024-10-14 00:00:00,2028,87.51,good,Full,Active
+S00103,Morgan,Collins,Male,Junior,MAJ005,2.6,2023-08-28 00:00:00,2027,96.13,Good,None,Withdrawn
+S00104,Blake,Hayes,Male,Sophomore,MAJ010,,2024-08-13 00:00:00,2028,87.0,Good,None,Graduated
+S00105,Reese,Collins,Female,Senior,MAJ006,3.26,2022-10-07 00:00:00,2026,84.88,Good,Partial,Active
+S00106,Quinn,Mitchell,Female,Freshman,MAJ011,3.39,2025-08-26 00:00:00,2029,92.8,Good,None,Active
+S00107,Morgan,Foster,Female,Junior,MAJ023,2.14,2023-08-11 00:00:00,2027,87.07,Academic Warning,,Active
+S00108,Casey,Price,Female,Junior,MAJ007,2.99,2023-08-18 00:00:00,2027,81.6,Good,None,Active
+S00109,Alex,Wilson,Female,Junior,MAJ004,2.41,2023-09-26 00:00:00,2027,72.79,,Partial,Active
+S00110,Casey,Morgan,Female,Freshman,MAJ002,,2025-10-14 00:00:00,2029,78.83,Good,None,Active
+S00111,Quinn,Mitchell,Non-Binary,Sophomore,MAJ021,3.52,2024-10-04 00:00:00,2028,86.55,Good,None,Active
+S00112,Jamie,Ward,Non-Binary,Junior,MAJ007,2.69,2023-10-10 00:00:00,2027,97.27,Good,None,Graduated
+S00113,Drew,Price,Male,Freshman,MAJ009,2.65,2025-09-22 00:00:00,2029,88.79, Good , None ,Active
+S00114,Blake,Carter,Male,Sophomore,MAJ009,3.01,2024-10-05 00:00:00,2028,74.81,Good,None,Active
+S00115,Avery,Turner,Male,Junior,MAJ020,3.04,2023-09-20 00:00:00,2027,81.62,Good,None,Active
+S00116,Jordan,Ward,Non-Binary,Junior, MAJ008 ,3.7,2023-08-28 00:00:00,2027,68.75,Good,Partial,Active
+S00117,Reese,Parker,Male,Junior,MAJ003,4.0,2023-09-08 00:00:00,2027,71.92,Honors,None,Active
+S00118,Jamie,Carter,Male,Sophomore,MAJ024,,2024-09-11 00:00:00,2028,82.21,Good,Partial,Active
+S00119,Blake,Collins,Female,Freshman,MAJ020,2.96,2025-08-27 00:00:00,2029,92.0,Good,None,Active
+S00120,Riley,Ward,Female,Junior,MAJ014,2.49,2023-10-02 00:00:00,2027,100.0,Academic Warning,,Active
+S00121,Jordan,Bennett,Male,Sophomore,MAJ017,2.62,2024-10-25 00:00:00,2028,90.7,Good,None,Graduated
+S00122,Casey,Foster,Male, Freshman ,MAJ013,2.91,2025-09-04 00:00:00,2029,87.98,Good,None,Active
+S00123,Morgan,Price,Female,Junior,MAJ010,3.02,2023-09-28 00:00:00,2027,90.09,Good,None,Active
+S00124,Morgan,Ward,Male,Sophomore,MAJ018,3.05,2024-10-25 00:00:00,2028,98.18,Good,Partial,Active
+S00125,Alex,Foster,Non-Binary,Junior,MAJ021,2.77,2023-10-09 00:00:00,2027,70.63,Good,none,Active
+S00126,Blake,Mitchell,Male,Junior,MAJ011,2.36,2023-08-06 00:00:00,2027,86.7,Academic Warning,PARTIAL,Active
+S00127,Taylor,Turner,Non-Binary,Sophomore,MAJ001,2.67,2024-08-03 00:00:00,2028,87.59,Good,Partial,Active
+S00128,Riley,Wilson,Male, Sophomore ,MAJ007,2.98,2024-09-24 00:00:00,2028,76.94,Good,None,Graduated
+S00129,Blake,Morgan,Female,Junior,MAJ005,3.79,2023-08-25 00:00:00,2027,92.28,Honors,Partial,Active
+S00130,Sam,Bennett,Male,Sophomore,MAJ014,2.55,2024-10-15 00:00:00,2028,91.85,Good,None,Active
+S00131,Riley,Bennett,Female, Junior ,MAJ013,2.32,2023-09-22 00:00:00,2027,87.86,Academic Warning,Partial,Active
+S00132,Alex,Parker,Male,Junior,MAJ017,2.83,10/02/2023 00:00,2027,98.26,Good,None,Active
+S00133,Taylor,Ward,Male,Freshman,MAJ016,2.79,2025-09-11 00:00:00,2029,98.99,Good,None,Active
+S00134,Taylor,Bennett,Non-Binary,Sophomore,MAJ021,2.21,2024-10-08 00:00:00,2028,89.18,Academic Warning,None,Active
+S00135,Jordan,Bennett,Non-Binary,Senior,MAJ015,2.88,2022-08-14 00:00:00,2026,93.23,Good,None,Graduated
+S00136,Parker,Bennett,Non-Binary,Senior,MAJ012,1.98,2022-09-23 00:00:00,2026,,Probation,Partial,Active
+S00137,Riley,Wilson,Non-Binary,Sophomore,MAJ017,3.83,2024-09-27 00:00:00,2028,81.47,Honors,Partial,Active
+S00138,Jordan,Parker,Male,Sophomore,MAJ012,3.5,2024-10-13 00:00:00,2028,83.89,Good,None,Active
+S00139,Riley,Parker,Male,Sophomore,MAJ014,3.02,2024-08-03 00:00:00,2028,97.01,Good,None,Active
+S00140,Blake,Ward,Male,Junior,MAJ012,2.73,2023-09-24 00:00:00,2027,87.9,Good,Full,Active
+S00141,Jordan,Wilson,Male,Freshman,MAJ005,2.19,2025-08-06 00:00:00,2029,100.0,Academic Warning,Partial,Active
+S00142,Taylor,Ward,Non-Binary,Junior,MAJ014,3.12,2023-09-15 00:00:00,2027,96.46,Good,Partial,Active
+S00143,Blake,Cooper,Non-Binary,Sophomore,MAJ005,3.63,2024-10-21 00:00:00,2028,91.37,Good,Full,Active
+S00144,Riley,Wilson,Male,Senior,MAJ020,2.53,2022-08-16 00:00:00,2026,68.34,Good,None,Active
+S00145,Alex,Mitchell,Non-Binary,Sophomore,MAJ004,2.68,2024-08-10 00:00:00,2028,87.13,Good,None,Active
+S00146,Casey,Carter,Non-Binary,Sophomore,MAJ002,3.17,2024-08-20 00:00:00,2028,90.36,Good,None,Active
+S00147,Quinn,Turner,Female,Junior,MAJ008,3.24,2023-09-26 00:00:00,2027,67.1,Good,None,Active
+S00148,Avery,Wilson,Female,Junior,MAJ008,3.63,2023-09-04 00:00:00,2027,95.7,Good,Partial,Active
+S00149,Jordan,Reed,Non-Binary,Senior,MAJ014,4.0,2022-08-02 00:00:00,2026,81.83,Honors,None,Active
+S00150,Avery,Foster,Female,Sophomore,MAJ007,3.48,2024-09-12 00:00:00,2028,100.0,Good,Full,Active
+S00151,Sam,Foster,Female,Senior,MAJ006,3.31,2022-10-21 00:00:00,2026,69.39,Good,None,Active
+S00152,Cameron,Brooks,Male,Junior,MAJ019,2.31,2023-10-28 00:00:00,2027,74.3,Academic Warning,Partial,Graduated
+S00153,Riley,Carter,Non-Binary,Senior,MAJ020,3.53,2022-10-05 00:00:00,2026,81.05,Good,Full,Active
+S00154, Sam ,Bennett,Female,Junior,MAJ006,,2023-10-23 00:00:00,2027,100.0,Good,Full,Active
+S00155,Quinn,Mitchell,,Sophomore,MAJ013,3.25,2024-10-23 00:00:00,2028,85.27,Good,Partial,Active
+S00156,Avery,Carter,Non-Binary,Junior,MAJ001,3.66,10/14/2023 00:00,2027,87.75,Good,None,Active
+S00157,Morgan,Mitchell,Male,Sophomore,MAJ016,2.53,2024-08-08 00:00:00,2028,78.95,Good,Full,Active
+S00158,Quinn,Carter,Non-Binary,Sophomore,MAJ003,2.94,2024-10-27 00:00:00,2028,100.0,Good,Partial,Active
+S00159,Blake,Ward,Non-Binary,Junior,MAJ002,2.24,2023-08-20 00:00:00,2027,83.29,Academic Warning,None,Active
+S00160,Quinn,Foster,Female,Senior,MAJ004,2.72,2022-10-15 00:00:00,2026,84.5,Good,None,Active
+S00161,Drew,Foster,Male,Junior,MAJ006,3.22,2023-10-26 00:00:00,2027,90.8,Good,None,Active
+S00162,Quinn,Ward,Male,SOPHOMORE,MAJ016,2.33,2024-08-12 00:00:00,2028,84.04,Academic Warning,Partial,Active
+S00163,Quinn,Brooks,Male,Sophomore,MAJ007,2.56,2024-10-17 00:00:00,2028,100.0,Good,None,Active
+S00164,Parker,Wilson,Male,Freshman,MAJ015,3.23,2025-08-21 00:00:00,2029,79.41,Good,None,Active
+S00165,Jamie,Price,Non-Binary,Senior,MAJ008,2.99,2022-08-10 00:00:00,2026,86.84,Good,None,Active
+S00166,Avery,Wilson,Male,Sophomore,MAJ023,2.75,2024-08-08 00:00:00,2028,82.22,,Partial, Graduated 
+S00167,Cameron,Morgan,Male,Senior,MAJ004,3.2,2022-10-12 00:00:00,2026,83.38,Good,None,Withdrawn
+S00168,Alex,Mitchell,Female,Sophomore,MAJ009,4.0,2024-10-21 00:00:00,2028,73.12,Honors,None,Active
+S00169,Blake,Price,Male,Freshman,MAJ008,2.72,2025-10-27 00:00:00,2029,69.28,Good,None,Active
+S00170,Alex,Cooper,Female,sophomore,MAJ009,3.23,2024-08-09 00:00:00,2028,83.7,Good,None,Active
+S00171,Parker,Reed,Male,Senior,MAJ004,3.43,2022-08-25 00:00:00,2026,84.08,Good,None,Active
+S00172,Cameron, Hayes ,Non-Binary,Freshman,MAJ022,3.59,2025-09-03 00:00:00,2029,91.25,Good,None,Graduated
+S00173,Alex,Hayes,Non-Binary,Junior,MAJ006,3.28,2023-10-08 00:00:00,2027,69.17,Good,Partial,Active
+S00174,Riley,Parker,Non-Binary,Freshman,MAJ005,3.31,2025-09-06 00:00:00,2029,82.78,Good,Partial,Active
+S00175,Jordan,Reed,Non-Binary,Senior,MAJ020,3.86,2022-10-26 00:00:00,2026,89.7,Honors,Full,Active
+S00176,Drew,Morgan,Non-Binary,Sophomore,MAJ006,2.57,2024-09-12 00:00:00,2028,75.0,Good,None,Active
+S00177,Riley,Parker,Non-Binary,Senior,MAJ009,2.54,2022-10-21 00:00:00,2026,83.8,Good,None,Active
+S00178,Taylor,Morgan,Male, Junior ,MAJ016,3.2,2023-10-11 00:00:00,2027,89.26,Good, Partial ,Active
+S00179,Drew,Turner,Male,Senior,MAJ017,3.51,2022-10-06 00:00:00,2026,100.0,Good,Partial,Active
+S00180,Drew,Morgan,Male,Senior,MAJ012,2.55,2022-08-02 00:00:00,2026,79.91,Good,Partial,Graduated
+S00181,Casey,Reed,Male,Sophomore,MAJ017,2.53,2024-10-16 00:00:00,2028,82.9,Good,None,Active
+S00182,Riley,Price,Female,Freshman,MAJ003,3.09,2025-10-11 00:00:00,2029,83.27,Good,None,Active
+S00183,Cameron,Turner,Male,Sophomore,MAJ019,2.96,2024-09-11 00:00:00,2028,92.95,Good,Full,Active
+S00184,Blake,Ward,Non-Binary,Sophomore,MAJ010,3.67,2024-09-26 00:00:00,2028,98.93,Good,None,Active
+S00185,Reese,Wilson,Non-Binary,Sophomore,MAJ008,2.35,2024-09-11 00:00:00,2028,94.3,Academic Warning,None,Active
+S00186,Drew,Foster,Non-Binary,Sophomore,MAJ019,2.82,2024-09-06 00:00:00,2028,64.33,Good,Partial,Active
+S00187,Reese,Cooper,Male,Freshman,MAJ008,2.57,2025-10-14 00:00:00,2029,88.94,Good,None,Withdrawn
+S00188,Jordan,Hayes,,Senior,MAJ018,3.2,2022-09-12 00:00:00,2026,72.47,Good,None,Active
+S00189,Alex,Wilson,Non-Binary,Freshman,MAJ014,,2025-10-26 00:00:00,2029,87.22,Academic Warning,None,Active
+S00190,Sam,Mitchell,Male,Freshman,MAJ018,3.79,2025-09-19 00:00:00,2029,80.79,Honors,None,Active
+S00191,Riley,Mitchell,Male,Sophomore,MAJ008,3.21,2024-08-19 00:00:00,2028,,Good,None,Active
+S00192,Casey,Parker,Female,Sophomore,MAJ016,3.3,2024-08-24 00:00:00,2028,77.65,Good,None,Active
+S00193,Jordan,Brooks,Male,Senior,MAJ005,2.23,2022-10-15 00:00:00,2026,78.77,Academic Warning,None,Active
+S00194,Drew,Parker,Female,Junior,MAJ013,3.85,2023-08-28 00:00:00,2027,71.79,Honors,None,Active
+S00195,Jordan,Ward,Non-Binary,Junior,MAJ014,4.0,2023-09-22 00:00:00,2027,78.51,Honors,None,Active
+S00196,Blake,Brooks,Female,Junior,MAJ008,3.71,2023-10-23 00:00:00,2027,87.92,Honors,Full,Active
+S00197,Avery,Parker,Female,Senior,MAJ004,3.27,2022-08-26 00:00:00,2026,80.28,Good,None,Active
+S00198,Avery,Foster,Male,Freshman,MAJ019,2.78,2025-09-26 00:00:00,2029,83.1,Good,Full,Active
+S00199,Jordan,Brooks,Male,Senior,MAJ018,2.2,2022-10-24 00:00:00,2026,87.08,Academic Warning,None,Active
+S00200,Parker,Carter,Female,Sophomore,MAJ021,3.11,2024-09-21 00:00:00,2028,90.57,Good,None,Active
+S00201,Taylor,Cooper,Non-Binary,Junior,MAJ001,2.79,2023-10-19 00:00:00,2027,91.36,Good,None,Graduated
+S00202,Blake,Price,Female,Sophomore,MAJ015,2.55,2024-08-17 00:00:00,2028,100.0,Good,None,Active
+S00203,Jamie,Parker,Male,Sophomore,MAJ010,2.32,2024-10-10 00:00:00,2028,89.05,Academic Warning,Partial,Active
+S00204,Avery,Brooks,Female,Junior,MAJ017,3.99,2023-10-10 00:00:00,2027,72.73,Honors,Partial,Active
+S00205,Parker,Foster,Female,Junior,MAJ017,3.35,2023-08-22 00:00:00,2027,63.4,Good,Partial,Graduated
+S00206,Blake,Foster,Female,Sophomore,MAJ005,3.32,2024-08-03 00:00:00,2028,69.49,Good,None,Active
+S00207,Sam,Parker,Non-Binary,Junior,MAJ003,4.0,2023-09-20 00:00:00,2027,72.69,Honors,Partial,Active
+S00208,Casey,Hayes,Male,Junior,MAJ011,3.41,2023-09-08 00:00:00,2027,83.81,Good,Partial,Active
+S00209,Jordan,Turner,Female,Sophomore,MAJ015,3.77,2024-08-15 00:00:00,2028,93.3,,None,Active
+S00210,Taylor,Mitchell,Non-Binary,Sophomore,MAJ019,3.13,24/09/2024 00:00,2028,86.99,Good,Full,Active
+S00211,Quinn,Mitchell,Non-Binary,Sophomore,MAJ009,4.0,2024-10-04 00:00:00,2028,86.08,Honors,None,Active
+S00212,Morgan,Wilson,Female,Sophomore,MAJ023,2.94,2024-08-10 00:00:00,2028,100.0,Good,Full,Active
+S00213,Reese,Cooper,Female,Sophomore,MAJ013,2.54,2024-09-19 00:00:00,2028,98.66,Good,Partial,Active
+S00214,Avery,Collins,Male,Freshman,MAJ024,2.38,2025-09-16 00:00:00,2029,86.97,Academic Warning,None,Graduated
+S00215,Morgan,Parker,Non-Binary,Junior,MAJ023,2.19,2023-09-02 00:00:00,2027,83.43,Academic Warning,None,Active
+S00216,Sam,Hayes,Male,Senior,MAJ013,2.68,2022-09-18 00:00:00,2026,90.69,,None,Active
+S00217,Casey,Turner,Male,freshman,MAJ010,3.46,2025-09-12 00:00:00,2029,73.17,Good,None,Active
+S00218,Riley,Reed,Male,Junior,MAJ014,3.52,2023-08-13 00:00:00,2027,79.61,Good,None,Active
+S00219,Parker,Hayes,Non-Binary,Sophomore,MAJ007,3.17,2024-08-05 00:00:00,2028,74.07,Good,Full,Active
+S00220,Riley,Reed,,Senior,MAJ013,3.0,2022-08-07 00:00:00,2026,74.38,Good,Partial,Active
+S00221,Alex,Wilson,Non-Binary,Freshman,MAJ014,4.0,2025-09-26 00:00:00,2029,74.63,Honors,None,Active
+S00222,Avery,Wilson,Male,Junior,MAJ007,2.98,2023-10-11 00:00:00,2027,89.71,Good,None,Withdrawn
+S00223,Casey,Foster,Male,Junior,MAJ017,,2023-10-27 00:00:00,2027,92.14,Honors,None,Active
+S00224,Drew,Price,Female,Junior,MAJ021,3.72,2023-09-11 00:00:00,2027,76.04,Honors,Partial,Graduated
+S00225,Quinn,Cooper,Non-Binary,Junior,MAJ019,3.3,2023-10-21 00:00:00,2027,84.08,Good,None,Active
+S00226,Quinn,Ward,Non-Binary,Senior,MAJ007,3.92,2022-10-08 00:00:00,2026,100.0,Honors,Partial,Active
+S00227,Sam,Turner,Non-Binary,Freshman,MAJ022,3.65,2025-09-05 00:00:00,2029,84.03, Good ,Partial,Active
+S00228,Jamie,Carter,Female,Junior,MAJ010,2.87,2023-08-15 00:00:00,2027,83.77,Good,None,Active
+S00229,Cameron,Reed,Non-Binary,Junior,MAJ009,3.55,2023-09-28 00:00:00,2027,90.16,Good,Partial,Active
+S00230,Avery,Parker,Non-Binary,Junior,MAJ005,2.74,2023-09-22 00:00:00,2027,64.49,Good,None,Active
+S00231,Drew,Cooper,Non-Binary,Senior,MAJ022,3.0,2022-09-18 00:00:00,2026,83.84,Good,None,Active
+S00232,Sam,Ward,Non-Binary,Junior,MAJ004,3.33,2023-09-20 00:00:00,2027,78.27,Good,None,Graduated
+S00233,Casey,Parker,Male,Sophomore,MAJ013,2.78,2024-09-23 00:00:00,2028,90.56,Good,None,Active
+S00234,Riley,Reed,Non-Binary,Sophomore,MAJ003,2.74,2024-09-10 00:00:00,2028,87.52,Good,None, Active 
+S00235,Cameron,Price,Male,Sophomore,MAJ022,3.66,2024-08-10 00:00:00,2028,84.09,Good,None,Graduated
+S00236,Blake,Collins,Non-Binary,Freshman,MAJ009,2.1,2025-09-24 00:00:00,2029,87.27,Academic Warning,None,Active
+S00237,Blake,Reed,Non-Binary,Junior,MAJ006,3.15,2023-09-05 00:00:00,2027,96.3,good,None,Active
+S00238,Alex,Hayes,Non-Binary,Freshman,MAJ016,2.34,2025-08-21 00:00:00,2029,87.5,Academic Warning,None,Active
+S00239,Drew,Carter,Non-Binary,Sophomore,MAJ022,3.0,2024-08-01 00:00:00,2028,83.79,,Full,Graduated
+S00240,Sam,Cooper,Male,Freshman,MAJ003,3.75,21-09-2025 00:00,2029,99.48,Honors,None,Graduated
+S00241,Sam,Morgan,,Sophomore,MAJ016,2.6,2024-10-19 00:00:00,2028,71.39,Good,None,Active
+S00242,Alex,Cooper,Female,Senior,MAJ017,2.7,2022-09-27 00:00:00,2026,76.15,Good,None,Graduated
+S00243,Cameron,Ward,Male,Senior,MAJ006,3.93,2022-08-24 00:00:00,2026,95.0,Honors,Full,Graduated
+S00244,Alex,Brooks,Non-Binary,Senior,MAJ005,2.82,2022-10-04 00:00:00,2026,100.0,Good,Full,Active
+S00245,Sam,Reed,Non-Binary,Sophomore,MAJ002,3.65,2024-09-05 00:00:00,2028,85.12,Good,Partial,Active
+S00246,Jordan,Mitchell,Female,Freshman,MAJ008,3.0,2025-10-15 00:00:00,2029,94.78,Good,Partial,Active
+S00247,Riley,Ward,Male,Freshman,MAJ003,2.97,2025-10-22 00:00:00,2029,94.43,Good,,Active
+S00248,Blake,Bennett,Male,Senior,MAJ024,2.7,2022-10-11 00:00:00,2026,71.86,Good,None,Active
+S00249,Taylor,Collins,Male,Freshman,MAJ016,3.07,2025-08-01 00:00:00,2029,91.03,Good,None,Active
+S00250,Riley,Brooks,Non-Binary,Junior,MAJ014,2.78,2023-10-19 00:00:00,2027,83.32,Good, None ,Active
+S00251,Alex,Hayes,Female,Junior,MAJ002,3.06,2023-09-10 00:00:00,2027,72.11,Good,None,Active
+S00252,Blake,Turner,Male,Senior,MAJ009,2.71,2022-10-04 00:00:00,2026,89.39,Good,Partial,Graduated
+S00253,Morgan,Parker,Female,Sophomore,MAJ016,2.0,2024-09-05 00:00:00,2028,85.09,Probation,None,Withdrawn
+S00254,Jamie,Reed,Male,Sophomore,MAJ019,3.05,2024-10-26 00:00:00,2028,83.76,Good,Partial,Active
+S00255,Quinn,Foster,Female,Freshman,MAJ007,2.53,2025-10-15 00:00:00,2029,94.41,Good,None,Active
+S00256,Jordan,Morgan,Non-Binary,Senior,MAJ007,2.48,2022-10-07 00:00:00,2026,90.48,Academic Warning,None,Active
+S00257,Avery,Collins,Female,Sophomore,MAJ018,3.44,2024-10-07 00:00:00,2028,87.79,Good,Partial, Active 
+S00258,Drew,Ward,Female,Senior,MAJ009,2.82,2022-09-05 00:00:00,2026,87.38,Good,None,Active
+S00259,Drew,Hayes,Male,Freshman,MAJ014,2.74,2025-10-01 00:00:00,2029,100.0,Good,None,Active
+S00260,Parker,Carter,Female,Junior,MAJ009,3.27,2023-09-12 00:00:00,2027,83.87,Good,Partial,Active
+S00261,Blake, Carter ,Male,Freshman,MAJ004,3.22,2025-08-10 00:00:00,2029,84.52,Good,None,Active
+S00262,Jamie,Hayes,Male,Junior,MAJ005,2.99,2023-09-13 00:00:00,2027,82.54,Good,None,Graduated
+S00263,Jordan,Hayes,Non-Binary,Sophomore,MAJ011,3.76,2024-10-05 00:00:00,2028,76.23,Honors,Partial,Active
+S00264,Avery,Bennett,Non-Binary,Freshman,MAJ011,2.67,2025-08-24 00:00:00,2029,67.82,Good,Full,Active
+S00265,Casey,Collins,Non-Binary,Junior,MAJ003,2.54,2023-10-18 00:00:00,2027,86.58,Good,None,Active
+S00266,Drew,Mitchell,Female,Freshman,MAJ015,2.69,2025-09-07 00:00:00,2029,87.77,Good,Full,Active
+S00267,Quinn,Hayes,Male,Freshman,MAJ015,3.38,2025-10-25 00:00:00,2029,80.3,Good,Full,Graduated
+S00268,Jordan,Carter,Non-Binary,Freshman,MAJ005,3.51,2025-08-15 00:00:00,2029,85.87,Good,None,Active
+S00269,Jamie,Morgan,Male,Freshman,MAJ016,,2025-09-08 00:00:00,2029,88.39, Good ,None,Active
+S00270,Taylor,Reed,Male,Senior,MAJ002,2.61,2022-08-27 00:00:00,2026,86.84,Good,Full,Active
+S00271,Quinn,Hayes,Male,Junior,MAJ014,3.31,2023-08-10 00:00:00,2027,78.09,Good,Partial,Withdrawn
+S00272,Cameron,Brooks,Male,Junior,MAJ017,3.12,2023-08-18 00:00:00,2027,84.97,Good,Full,Active
+S00273,Sam,Hayes,Male,Senior,MAJ023,2.96,2022-10-16 00:00:00,2026,87.7,Good,None,Active
+S00274,Cameron,Ward,Non-Binary,Junior,MAJ021,2.79,2023-09-23 00:00:00,2027,84.38,Good,None,Active
+S00275,Quinn,Reed,Male,Sophomore,MAJ006,2.69,2024-08-28 00:00:00,2028,92.88,Good,None,Active
+S00276,Drew,Cooper,Female,Freshman,MAJ018,3.53,2025-10-14 00:00:00,2029,88.06,Good,Full,Active
+S00277,Morgan,Brooks,Female,Freshman,MAJ009,3.8,2025-09-21 00:00:00,2029,81.39,Honors,None,Active
+S00278,Avery,Turner,Female,Sophomore,MAJ013,3.83,2024-08-09 00:00:00,2028,91.54,,None,Active
+S00279,Jordan,Parker,Non-Binary,Freshman,MAJ003,3.46,2025-10-22 00:00:00,2029,99.2,Good,None,Active
+S00280,Riley,Brooks,Female,Senior,MAJ018,3.03,2022-08-07 00:00:00,2026,80.19,Good,Full,Active
+S00281,Drew,Cooper,Female,Senior,MAJ009,2.96,2022-10-20 00:00:00,2026,69.38,Good,Partial,Active
+S00282,Riley,Ward,Male,Freshman,MAJ010,2.39,2025-09-15 00:00:00,2029,74.77,Academic Warning,None,Active
+S00283,Avery,Cooper,Male,Sophomore,MAJ004,3.08,2024-09-04 00:00:00,2028,75.75,Good,Partial,Active
+S00284,Riley,Cooper,Female,Junior,MAJ023,3.17,2023-09-11 00:00:00,2027,85.57,Good,None,Active
+S00285,Taylor,Morgan,Male,Freshman,MAJ021,3.56,2025-10-19 00:00:00,2029,81.11,Good,None,Active
+S00286,Riley,Parker,Male,Freshman,MAJ010,,2025-10-27 00:00:00,2029,89.62,Good,None,Active
+S00287,Riley,Brooks,Male,Senior,MAJ006,3.39,2022-10-21 00:00:00,2026,74.62,Good,Partial,Active
+S00288,Riley,Wilson,Female,Junior,MAJ024,3.06,2023-10-18 00:00:00,2027,,,None,Graduated
+S00289, Sam ,Morgan,Non-Binary,Junior,MAJ005,2.67,2023-08-27 00:00:00,2027,83.21,Good,Partial,Graduated
+S00290,Quinn,Morgan,Male,Junior,MAJ015,2.88,2023-08-27 00:00:00,2027,87.64,Good,Partial,Active
+S00291,Morgan,Reed,Male,Freshman,MAJ004,3.12,2025-09-02 00:00:00,2029,70.34,Good,Partial,Active
+S00292,Drew,Hayes,Male,Junior,MAJ002,3.11,2023-08-01 00:00:00,2027,86.93,Good,None,Active
+S00293,Jamie,Brooks,Non-Binary,Freshman,MAJ008,3.25,2025-09-01 00:00:00,2029,85.79,Good,None,Active
+S00294,Blake,Wilson,Female,Sophomore,MAJ024,3.47,2024-08-17 00:00:00,2028,85.89,Good,None,Active
+S00295,Reese,Mitchell,Male,Junior,MAJ012,3.15,2023-09-03 00:00:00,2027,94.86,Good,None,Active
+S00296,Jamie,Parker,Male,Junior,MAJ001,3.38,2023-10-27 00:00:00,2027,81.73,Good,Partial,Active
+S00297,Quinn,Morgan,Female,Senior,MAJ016,3.4,2022-09-13 00:00:00,2026,91.43,Good,None,Active
+S00298,Jamie,Wilson,Female,Junior,MAJ013,2.83,2023-09-28 00:00:00,2027,75.82,Good,None,Active
+S00299,Reese,Carter,Non-Binary,Junior,MAJ017,3.55,2023-08-08 00:00:00,2027,87.25,Good,None,Active
+S00300,Drew,Brooks,Female,Senior,MAJ007,3.36,2022-08-22 00:00:00,2026,84.15,Good,Full,Graduated
+S00301,Alex,Wilson,Male,Junior,MAJ014,2.46,2023-08-07 00:00:00,2027,84.63,Academic Warning,None,Active
+S00302,Cameron,Cooper,Female,Junior,MAJ012,,2023-09-06 00:00:00,2027,88.84,Good,None,Active
+S00303,Sam,Cooper,Non-Binary,Senior,MAJ002,2.99,2022-09-13 00:00:00,2026,,Good,Partial, Active 
+S00304,Jamie,Carter,Non-Binary,Senior,MAJ013,3.92,2022-10-12 00:00:00,2026,79.43,Honors,NONE,Active
+S00305,Riley,Foster,Non-Binary,Senior,MAJ005,3.46,2022-10-13 00:00:00,2026,80.27,Good,Full,Active
+S00306,Quinn,Collins,Male,Junior,MAJ013,3.46,2023-08-12 00:00:00,2027,88.65,Good,None,Active
+S00307,Parker,Hayes,Male,Freshman,MAJ023,3.23,2025-08-25 00:00:00,2029,83.56,Good,Partial,Active
+S00308,Jordan,Brooks,Female,Junior,MAJ022,3.21,2023-09-23 00:00:00,2027,86.03,Good,Partial,Active
+S00309,Riley,Carter,Female,Sophomore,MAJ015,2.53,2024-08-10 00:00:00,2028,87.22,Good,None,Active
+S00310,Jordan,Wilson,Male,Freshman,MAJ013,4.0,2025-09-18 00:00:00,2029,85.81,Honors,None,Active
+S00311,Riley,Reed,Female,Freshman,MAJ005,4.0,2025-10-20 00:00:00,2029,91.8,Honors,Partial,Active
+S00312,Cameron,Bennett,Female,Freshman,MAJ007,2.53,2025-10-18 00:00:00,2029,93.09,Good,Full,Graduated
+S00313,Taylor,Hayes,Male,Junior,MAJ002,3.28,2023-08-05 00:00:00,2027,93.59,Good,None,Active
+S00314,Taylor,Bennett,Male,Freshman,MAJ006,3.18,2025-09-10 00:00:00,2029,90.03,Good,None,Active
+S00315,Morgan,Turner,Non-Binary,Sophomore,MAJ001,2.41,2024-09-20 00:00:00,2028,89.78,Academic Warning,Partial,Active
+S00316,Alex,Bennett,Male,Freshman,MAJ021,2.65,2025-10-13 00:00:00,2029,75.85,Good,Partial,Active
+S00317,Reese,Price,Non-Binary,Sophomore,MAJ012,3.4,2024-10-05 00:00:00,2028,84.25,Good,None,Active
+S00318,Drew,Mitchell,Female,Junior,MAJ012,3.21,2023-09-11 00:00:00,2027,87.82,Good,None,Active
+S00319,Parker,Ward,Female,Sophomore,MAJ015,3.2,2024-09-13 00:00:00,2028,81.44,Good,None,Active
+S00320,Blake,Foster,Female,Sophomore,MAJ009,3.01,2024-10-18 00:00:00,2028,79.2,Good,None,Active
+S00321,Jamie,Collins,Non-Binary,Freshman,MAJ013,1.99,2025-08-15 00:00:00,2029,73.57,Probation,Partial,Active
+S00322,Reese,Ward,Male,Freshman,MAJ015,2.71,2025-10-16 00:00:00,2029,90.16,Good,None,Active
+S00323,Taylor,Turner,Male,Sophomore,MAJ022,2.29,2024-09-03 00:00:00,2028,74.64,Academic Warning,None,Active
+S00324,Avery,Reed,Non-Binary,Junior,MAJ007,3.24,2023-09-18 00:00:00,2027,89.91,,None,Graduated
+S00325,Quinn,Reed,Non-Binary,Junior,MAJ014,4.0,2023-10-03 00:00:00,2027,73.08,Honors,None,Active
+S00326,Taylor,Hayes,Non-Binary,Junior,MAJ006,3.28,2023-08-19 00:00:00,2027,91.99,Good,Full,Active
+S00327,Quinn,Mitchell,Male, Sophomore ,MAJ004,3.13,2024-08-01 00:00:00,2028,80.16,Good,None,Active
+S00328,Avery,Foster,Non-Binary,Junior,MAJ011,2.5,2023-10-08 00:00:00,2027,88.31,Good,NONE,Active
+S00329,Parker,Turner,Non-Binary,Senior,MAJ020,2.86,2022-08-12 00:00:00,2026,83.05,Good,Full,Active
+S00330,Blake,Carter,Female,Sophomore,MAJ018,2.86,2024-10-05 00:00:00,2045,81.46,Good,None,Active
+S00331,Avery,Collins,Male,Senior,MAJ024,2.38,2022-09-04 00:00:00,2026,71.63,Academic Warning,None,Active
+S00332,Casey,Morgan,Non-Binary,Sophomore,MAJ001,3.85,2024-08-01 00:00:00,2028,77.64,Honors,,Active
+S00333,Taylor,Cooper,Non-Binary,Junior,MAJ014,2.81,2023-08-17 00:00:00,2027,79.79,Good,None,Active
+S00334,Drew,Parker,Male,Junior,MAJ011,2.54,2023-10-06 00:00:00,2027,82.43,Good,None,Active
+S00335,Jamie,Foster,Female,Sophomore,MAJ023,3.41,2024-09-19 00:00:00,2028,80.48,Good,None,Active
+S00336,Casey,Ward,Non-Binary,Freshman,MAJ002,2.44,2025-08-19 00:00:00,2029,99.92,Academic Warning,None,Active
+S00337, Riley ,Parker,Male,Freshman,MAJ003,3.09,2025-08-09 00:00:00,2029,80.72,Good,Partial,Active
+S00338,Riley,Foster,Male,Senior,MAJ018,2.94,2022-10-13 00:00:00,2026,95.28,Good,None, Active 
+S00339,Parker,Wilson,Non-Binary,Senior,MAJ021,2.35,2022-10-26 00:00:00,2026,75.71,Academic Warning,None,Active
+S00340,Taylor,Mitchell,Female,Freshman,MAJ007,2.22,2025-08-10 00:00:00,2029,74.12,Academic Warning,None,Active
+S00341,Cameron,Bennett,Non-Binary,Freshman,MAJ011,2.93,2025-08-19 00:00:00,2029,89.08,Good,None,Active
+S00342,Jamie,Cooper,Non-Binary,Junior,MAJ020,3.63,2023-08-18 00:00:00,2027,84.74,Good,None,Active
+S00343,Reese,Collins,Non-Binary,Freshman,MAJ015,2.14,2025-08-28 00:00:00,2029,83.77,Academic Warning,None, Active 
+S00344,Reese,Bennett,Non-Binary,Freshman,MAJ005,2.96,2025-10-21 00:00:00,2029,86.23,Good,None,Active
+S00345,Reese,Collins,Male,Sophomore,MAJ003,2.38,2024-08-03 00:00:00,2028,93.94,Academic Warning,None,Active
+S00346,Alex,Brooks,Female,Freshman,MAJ004,2.7,2025-10-10 00:00:00,2029,95.19,Good,None,Active
+S00347,Quinn,Collins,Non-Binary,Junior,MAJ005,3.82,2023-10-04 00:00:00,2027,96.0,Honors,NONE,Active
+S00348,Riley,Reed,Female, Junior ,MAJ016,2.0,2023-10-15 00:00:00,2027,86.85,Academic Warning,None,Withdrawn
+S00349,Reese,Hayes,Female,Freshman,MAJ019,2.85,2025-09-28 00:00:00,2029,88.18,Good,Full,Active
+S00350,Reese,Carter,Male,Sophomore,MAJ016,3.46,2024-08-25 00:00:00,2028,93.17,Good,Partial,Active
+S00351,Jamie,Mitchell,Non-Binary,Junior,MAJ021,3.85,2023-10-21 00:00:00,2027,82.73,Honors,None,Active
+S00352,Reese,Parker,Female,Senior,MAJ024,3.0,2022-10-12 00:00:00,2026,91.52,Good,None,Active
+S00353,Jamie,Brooks,,Freshman,MAJ020,2.94,2025-10-09 00:00:00,2029,89.46,good,Full,Active
+S00354,Reese,Carter,Female,Senior,MAJ012,2.02,2022-09-02 00:00:00,2026,68.87, Academic Warning ,,Active
+S00355,Reese,Wilson,Female,Freshman,MAJ021,3.06,2025-08-23 00:00:00,2029,72.81,Good,None,Active
+S00356,Cameron,Collins,,Senior,MAJ020,3.32,2022-10-21 00:00:00,2026,96.7,Good,None,Active
+S00357,Sam,Ward,Female,Sophomore,MAJ016,2.67,2024-09-17 00:00:00,2028,100.0,Good,Partial,Active
+S00358,Drew,Collins,Male,Senior,MAJ018,3.72,2022-10-01 00:00:00,2026,86.32,Honors,Partial,Active
+S00359,Drew,Hayes,Non-Binary,Freshman,MAJ018,3.56,2025-10-12 00:00:00,2029,95.36,Good,Partial,Active
+S00360,Cameron,Price,Female,Sophomore,MAJ007,2.83,2024-09-09 00:00:00,2028,76.58,Good,None,Active
+S00361,Taylor,Foster,Male,Junior,MAJ021,3.4,2023-09-22 00:00:00,2027,100.0,Good,Partial,Active
+S00362,Reese,Collins,Female,Junior,MAJ006,2.94,2023-08-28 00:00:00,2027,84.53,Good,None,Active
+S00363,Cameron,Parker,Non-Binary,Senior,MAJ011,3.09,2022-08-21 00:00:00,2026,97.01,Good,None,Active
+S00364,Jordan,Hayes,Male,Senior,MAJ011,3.03,2022-09-03 00:00:00,2026,100.0,Good,None,Graduated
+S00365,Cameron,Hayes,Male,Freshman,MAJ002,1.75,2025-10-23 00:00:00,2029,88.82,Probation,Partial,Active
+S00366,Jordan,Morgan,Female,Freshman,MAJ021,2.59,2025-09-03 00:00:00,2029,90.72,Good,None,Active
+S00367,Alex,Morgan,Non-Binary,Junior,MAJ010,3.13,2023-09-27 00:00:00,2027,94.92,Good,None,Active
+S00368,Drew,Carter,Female,Junior,MAJ004,3.43,2023-09-03 00:00:00,2027,81.7,Good,Partial,Active
+S00369,Blake,Brooks,Female,Sophomore,MAJ006,3.42,2024-09-25 00:00:00,2028,81.25,Good,Partial,Active
+S00370,Sam,Wilson,Female,Junior,MAJ002,2.99,2023-10-19 00:00:00,2027,82.6,Good,None,Active
+S00371,Jamie,Parker,Non-Binary,Sophomore,MAJ007,3.36,2024-10-05 00:00:00,2028,81.36,Good,Full,Active
+S00372,Morgan,Carter,Female,Sophomore,MAJ004,2.9,2024-08-25 00:00:00,2028,91.76,Good,None,Active
+S00373,Cameron,Mitchell,Female,sophomore,MAJ018,3.3,2024-08-09 00:00:00,2028,78.25,Good,Partial,Active
+S00374,Jamie,Foster,Male,Junior,MAJ020,3.54,2023-10-01 00:00:00,2027,87.23,Good,Partial,Active
+S00375,Avery,Foster,Non-Binary,Sophomore,MAJ012,2.66,2024-08-24 00:00:00,2028,90.38,Good,None,Active
+S00376,Quinn,Parker,Male,Senior,MAJ018,3.19,2022-09-04 00:00:00,2026,84.7,Good,None,Active
+S00377,Blake,Morgan,Male,Freshman,MAJ017,3.39,2025-09-05 00:00:00,2029,87.27,Good,None,Active
+S00378,Avery,Hayes,Female,Sophomore,MAJ014,2.38,2024-09-25 00:00:00,2028,80.09,Academic Warning,None,Active
+S00379,Morgan,Morgan,Female,Freshman,MAJ009,2.79,2025-09-17 00:00:00,2029,90.31,Good,None,Active
+S00380,Cameron,Turner,Male,Junior,MAJ015,3.73,2023-08-21 00:00:00,2027,83.96,Honors,None,Active
+S00381, Casey ,Carter,Non-Binary,Sophomore,MAJ017,4.0,2024-08-26 00:00:00,2028,86.31,Honors,None,Active
+S00382,Quinn,Price,Non-Binary,Junior,MAJ017,3.61,2023-10-21 00:00:00,2027,83.25,Good,None,Active
+S00383,Reese,Parker,Female,Junior,MAJ005,4.0,2023-08-03 00:00:00,2027,81.21,Honors,Full,Active
+S00384,Alex,Brooks,Non-Binary,Junior,MAJ006,2.04,2023-10-22 00:00:00,2027,,Academic Warning,Partial,Active
+S00385,Jamie,Morgan,Female,Junior,MAJ016,2.99,2023-09-12 00:00:00,2027,,Good,None,Active
+S00386,Taylor,Mitchell,Female,Junior,MAJ014,2.06,2023/10/25 00:00:00,2027,99.27,Academic Warning,Partial,Active
+S00387,Blake,Morgan,Male,Freshman,MAJ005,,2025-09-09 00:00:00,2029,91.24,honors,None,Active
+S00388,Sam,Carter,Male,Senior,MAJ010,2.81,2022-09-17 00:00:00,2026,,Good,None,Active
+S00389,Riley,Wilson,,Junior,MAJ005,2.72,2023-08-19 00:00:00,2027,86.47,Good,Partial,Active
+S00390,Alex,Morgan,Female,Junior,MAJ022,3.25,2023-08-02 00:00:00,2027,82.36,Good,None,Active
+S00391, Blake ,Price,Female,Freshman,MAJ014,2.97,2025-10-26 00:00:00,2029,88.77,Good,Full,Active
+S00392,Riley,Parker,Male,Sophomore,MAJ016,3.52,2024-10-11 00:00:00,2028,84.35,Good,none,Active
+S00393,Avery,Hayes,Female,Sophomore,MAJ024,2.59,2024-08-08 00:00:00,2028,89.49,Good,Partial,Withdrawn
+S00394,Jordan,Cooper,Male,Senior,MAJ005,3.12,2022-09-25 00:00:00,2026,93.0,Good,Partial,Active
+S00395,Alex,Mitchell,Female,Junior,MAJ012,3.69,2023-09-19 00:00:00,2027,85.93,Good,Partial,Active
+S00396,Riley,Foster,Male,Freshman,MAJ016,2.67,2025-08-24 00:00:00,2029,93.9,Good,Full,Active
+S00397,Alex,Cooper,Male,Freshman,MAJ013,3.67,2025-08-08 00:00:00,2029,91.99,Good,None,Active
+S00398,Alex,Mitchell,Female,Junior,MAJ016,2.02,2023-10-13 00:00:00,2027,72.51,Academic Warning,Partial,Active
+S00399,Avery,Parker,Male,Freshman,MAJ005,2.96,2025-09-02 00:00:00,2029,95.89,Good,Full,Active
+S00400,Alex,Cooper,Female,Sophomore,MAJ015,2.04,2024-10-14 00:00:00,2028,85.97,Academic Warning,Partial,Active
+S00401,Jordan,Foster,Female,Senior,MAJ008,2.89,2022-10-05 00:00:00,2026,81.47,Good,Partial,Active
+S00402,Alex,Bennett,,Junior,MAJ007,3.55,2023-08-08 00:00:00,2027,98.22,Good,None,Active
+S00403,Cameron,Turner,Non-Binary,Senior,MAJ014,3.99,2022-09-11 00:00:00,2026,85.37,Honors,None,Active
+S00404,Taylor,Ward,Non-Binary,Senior,MAJ002,2.65,2022-08-05 00:00:00,2026,81.85,Good,None,Active
+S00405,Jordan,Reed,Male,Sophomore,MAJ009,2.76,2024-08-15 00:00:00,2028,82.67,Good,None,Active
+S00406,Taylor,Ward,Non-Binary,Freshman,MAJ015,1.98,2025-09-27 00:00:00,2029,,Probation,Partial,Active
+S00407,Reese,Mitchell,Female,Freshman,MAJ009,3.47,2025-08-23 00:00:00,2029,,Good,None,Active
+S00408,Sam,Brooks,Male,Junior,MAJ010,2.47,2023-08-01 00:00:00,2027,85.86,Academic Warning,Full,Active
+S00409,Avery,Parker,Female,Junior,MAJ005,3.41,2023-09-04 00:00:00,2027,88.71,Good,Partial,Active
+S00410,Reese,Ward,Female,Freshman,MAJ015,3.17,08/07/2025 00:00,2029,77.03,Good,Partial,Active
+S00411,Sam,Carter,Non-Binary,Junior,MAJ004,3.34,2023-10-09 00:00:00,2027,67.71,Good,Full,Active
+S00412,Morgan,Cooper,Non-Binary,Senior,MAJ017,3.35,2022-09-26 00:00:00,2026,90.65,Good,None,Graduated
+S00413,Riley,Carter,Female,Senior,MAJ018,4.0,2022-09-02 00:00:00,2026,65.23,Honors,None,Active
+S00414, Cameron ,Collins,Female,Senior,MAJ010,2.09,2022-09-22 00:00:00,2026,83.48,Academic Warning,None,Active
+S00415,Casey,Brooks,Male,Senior,MAJ002,3.11,2022-08-02 00:00:00,2026,79.8,Good,Partial,Active
+S00416,Drew,Bennett,Non-Binary,Junior,MAJ011,2.71,2023-09-02 00:00:00,2027,67.55,Good,None,Active
+S00417,Sam,Cooper,Non-Binary,Sophomore,MAJ013,2.7,2024-08-21 00:00:00,2028,87.22,Good,Full,Active
+S00418,Cameron,Ward,Non-Binary,Freshman,MAJ007,3.17,2025-09-16 00:00:00,2029,89.44,Good,None,Active
+S00419,Avery,Mitchell,Male,Senior,MAJ010,3.25,2022-09-06 00:00:00,2026,92.32,Good,None,Active
+S00420,Quinn,Ward,Male,Freshman,MAJ003,2.84,2025-08-26 00:00:00,2029,92.31,Good,Full,Active
+S00421,Morgan,Wilson,Female,Junior,MAJ024,3.73,2023-08-22 00:00:00,2027,94.42,Honors,None,Active
+S00422,Jamie,Morgan,Female,Senior,MAJ009,3.23,2022-10-28 00:00:00,2026,86.81,Good,Full,Active
+S00423,Reese,Wilson,Female,Senior,MAJ019,3.78,2022-08-19 00:00:00,2026,86.57,Honors,None,Active
+S00424,Parker,Morgan,Non-Binary,Sophomore,MAJ002,3.59,2024-10-12 00:00:00,2028,91.84,Good,Full,Active
+S00425,Morgan,Price,Male,Junior,MAJ017,2.79,2023-10-10 00:00:00,2027,84.38,Good,None,Active
+S00426,Parker, Parker ,Female,Freshman,MAJ024,1.95,2025-10-16 00:00:00,2029,89.72,Probation,None,Graduated
+S00427,Taylor,Mitchell,Non-Binary,Freshman, MAJ006 ,3.17,2025-08-26 00:00:00,2018,,Good,Partial,Active
+S00428,Parker,Turner,Female,Freshman,MAJ004,3.38,2025-08-28 00:00:00,2029,86.72,Good,None,Active
+S00429,Jamie,Hayes,Male,Freshman,MAJ010,2.61,2025-10-04 00:00:00,2029,67.04,Good,None,Active
+S00430,Jamie,Bennett,Non-Binary,Senior,MAJ001,4.0,2022-09-21 00:00:00,2026,93.22,Honors,None,Active
+S00431,Blake,Cooper,Non-Binary,Junior,MAJ009,2.74,2023-09-08 00:00:00,2027,84.48,Good,Partial,Active
+S00432,Jamie,Turner,Male,Sophomore,MAJ015,3.54,2024-08-06 00:00:00,2028,,Good,Partial,Graduated
+S00433,Cameron,Price,Non-Binary,Senior,MAJ006,3.07,2022-08-06 00:00:00,2026,98.58,Good,Partial,Graduated
+S00434,Morgan,Hayes,Non-Binary,Senior,MAJ018,3.58,2022-08-16 00:00:00,2026,,Good,None,Active
+S00435,Riley,Wilson,Non-Binary,Freshman,MAJ020,2.78,2025-08-27 00:00:00,2029,79.61,Good,Partial,Active
+S00436,Drew,Morgan,Male,Senior,MAJ013,3.18,2022-08-08 00:00:00,2026,80.32,Good,Partial,Active
+S00437,Jamie,Morgan,Female,Senior,MAJ012,2.42,2022-09-15 00:00:00,2026,86.7,Academic Warning,Partial,Graduated
+S00438,Drew,Cooper,Male,Senior,MAJ015,2.52,2022-09-18 00:00:00,2026,71.55,Good,None,Active
+S00439,Parker,Hayes,Non-Binary,Senior,MAJ015,3.08,2022-08-06 00:00:00,2026,73.77,,None,Active
+S00440,Alex,Mitchell,Male,Freshman,MAJ001,2.82,2025-08-03 00:00:00,2029,90.46,Good,None,Graduated
+S00441,Jordan,Reed,Female,Freshman,MAJ022,3.36,2025-09-20 00:00:00,2029,94.66,Good,Full,Graduated
+S00442,Cameron,Hayes,Female,Junior,MAJ003,3.03,2023-10-14 00:00:00,2027,85.06,Good,None,Active
+S00443,Morgan,Bennett,Non-Binary,Freshman,MAJ017,3.28,24-10-2025 00:00,2029,94.92,Good,Full,Active
+S00444,Casey,Parker,Female,Junior,MAJ018,3.57,2023-08-13 00:00:00,2027,83.27,Good,None,Active
+S00445,Riley,Morgan,Male, Freshman ,MAJ003,2.72,2025-08-10 00:00:00,2029,75.75,Good,Partial,Active
+S00446,Jordan,Morgan,Female,Sophomore,MAJ003,2.34,2024-08-21 00:00:00,2028,96.62,Academic Warning,None,Active
+S00447,Casey,Ward,Male,Senior,MAJ015,3.57,2022-09-16 00:00:00,2026,67.87,Good,Full,Active
+S00448,Cameron,Wilson,,Junior,MAJ023,3.35,2023-09-12 00:00:00,2027,98.02,Good,None,Active
+S00449,Casey,Parker,Male,Sophomore,MAJ015,,2024-10-02 00:00:00,2028,82.25,Good,None,Active
+S00450,Sam,Mitchell,Non-Binary,Freshman,MAJ021,2.94,2025-09-25 00:00:00,2029,90.17,Good,None,Active
+S00451,Reese,Reed,Male,Senior,MAJ012,3.21,2022-10-22 00:00:00,2026,90.28,Good,Partial,Active
+S00452,Drew,Brooks,Female,Senior,MAJ023,3.23,2022-09-28 00:00:00,2026,89.65,Good,Partial,Active
+S00453,Quinn,Foster,Non-Binary,Senior,MAJ013,2.15,2022-10-05 00:00:00,2026,85.54,Academic Warning,None,Active
+S00454,Taylor,Parker,Female,Freshman,MAJ004,3.28,2025-08-02 00:00:00,2029,85.06,Good,None,Withdrawn
+S00455,Reese,Hayes,Female,Sophomore,MAJ013,2.84,2024-10-09 00:00:00,2028,86.76,Good,NONE,Active
+S00456,Jordan,Bennett,Non-Binary,Senior,MAJ016,3.9,2022-09-18 00:00:00,2026,95.71,Honors,None,Active
+S00457,Reese,Morgan,Non-Binary,Sophomore,MAJ020,3.76,2024-10-19 00:00:00,2028,100.0,Honors,None,Active
+S00458,Taylor,Foster,Non-Binary,Sophomore,MAJ014,4.0,2024-10-25 00:00:00,2028,73.43,Honors,Full,Active
+S00459,Quinn,Carter,Male,Freshman, MAJ013 ,3.78,2025-10-12 00:00:00,2029,88.33,Honors,Partial,Active
+S00460,Parker,Foster,Male,Junior,MAJ015,2.2,2023-08-06 00:00:00,2027,,Academic Warning,None,Active
+S00461,Jamie,Bennett,Female,Junior,MAJ021,2.35,2023-09-11 00:00:00,2027,83.99,Academic Warning,Partial,Active
+S00462,Casey,Cooper,Male,Sophomore,MAJ002,2.82,2024-08-11 00:00:00,2028,79.2,Good,Partial,Active
+S00463,Drew,Price,Non-Binary,Sophomore,MAJ003,2.69,2024-10-04 00:00:00,2028,100.0,Good,Full,Active
+S00464,Jamie,Collins,Male,Sophomore,MAJ011,3.03,2024-09-24 00:00:00,2028,100.0,Good,None,Active
+S00465,Morgan,Cooper,Male,Freshman,MAJ018,3.19,2025-10-16 00:00:00,2029,94.05,Good,Partial,Active
+S00466,Avery,Ward,Female,Senior,MAJ023,,2022-08-10 00:00:00,2026,100.0,Good,Partial,Active
+S00467,Avery,Cooper,,Senior,MAJ013,3.11,2022-08-06 00:00:00,2026,77.06,Good,None,Active
+S00468,Morgan,Morgan,Male,Senior,MAJ011,3.46,2022-08-12 00:00:00,2026,99.47,Good,Partial,Active
+S00469,Avery,Bennett,Non-Binary,Senior,MAJ012,2.83,2022-08-22 00:00:00,2026,85.91,Good,None,Active
+S00470,Taylor,Price,Male,Junior,MAJ011,2.26,2023-10-18 00:00:00,2027,91.68,Academic Warning,None,Active
+S00471,Jamie,Price,Non-Binary,Senior,MAJ023,3.32,2022-08-10 00:00:00,2026,71.68, Good ,None,Active
+S00472,Quinn,Parker,Female,Senior,MAJ008,2.02,2022-10-08 00:00:00,2026,78.39,Academic Warning,Partial,Active
+S00473,Alex,Price,Non-Binary,Sophomore,MAJ014,2.86,2024-08-16 00:00:00,2028,91.6,Good,Full,Active
+S00474,Alex,Parker,Male,Junior,MAJ014,2.83,2023-10-26 00:00:00,2027,57.06,Good,Full,Active
+S00475,Casey,Bennett,Male,Junior,MAJ010,2.83,2023-09-15 00:00:00,2027,78.87,Good,None,Active
+S00476,Reese,Foster,Male,Junior,MAJ003,3.74,2023-10-04 00:00:00,2027,78.55,Honors,None,Withdrawn
+S00477,Reese,Mitchell,Non-Binary,Senior,MAJ005,3.37,2022-10-20 00:00:00,2026,85.64,Good,Partial,Active
+S00478,Jordan,Mitchell,Male,Freshman,MAJ022,3.65,2025-10-11 00:00:00,2029,72.27,Good,Partial,Active
+S00479,Blake,Hayes,Male,Junior,MAJ023,2.46,2023-08-05 00:00:00,2027,87.38,academic warning,None,Active
+S00480,Reese,Ward,Non-Binary,Freshman,MAJ016,2.73,2025-09-22 00:00:00,2029,90.55,Good,None,Active
+S00481,Drew,Brooks,Male,Freshman,MAJ019,2.66,2025-09-13 00:00:00,2029,85.08,Good,None,Active
+S00482,Parker,Price,Female,Junior,MAJ023,3.71,2023-09-24 00:00:00,2027,89.87,Honors,Partial,Active
+S00483,Drew,Cooper,Non-Binary,Junior,MAJ018,3.39,2023-09-17 00:00:00,2027,86.82,Good,None,Active
+S00484,Avery,Wilson,Male,Junior,MAJ022,,2023-08-16 00:00:00,2027,75.91,Good,None,Active
+S00485,Quinn,Cooper,Female,Senior,MAJ019,1.98,2022-10-11 00:00:00,2026,75.37, Probation , Partial ,Active
+S00486,Reese,Brooks,Male,Freshman,MAJ012,3.05,2025-09-12 00:00:00,2029,85.63,Good,None,Active
+S00487,Drew,Morgan,Non-Binary,Senior,MAJ023,2.67,2022-10-19 00:00:00,2026,93.58,,Full,Active
+S00488,Avery,Carter,Non-Binary,Senior,MAJ021,2.37,2022-09-17 00:00:00,2026,65.24,Academic Warning,None,Active
+S00489,Taylor,Parker,Male,Senior,MAJ018,3.22,2022-09-19 00:00:00,2026,74.0,Good,Full,Withdrawn
+S00490,Reese,Turner,Female,Freshman,MAJ016,3.76,2025-08-16 00:00:00,2029,82.72,Honors,None,Withdrawn
+S00491,Alex,Morgan,Male,Sophomore,MAJ011,3.3,2024-09-07 00:00:00,2028,99.2,Good, Partial ,Active
+S00492,Drew,Ward,Female,Junior,MAJ021,3.48,2023-08-20 00:00:00,2027,74.95,Good,None,Active
+S00493,Drew,Bennett,Female,Sophomore,MAJ023,3.43,2024-08-18 00:00:00,2028,99.85,Good,None,Active
+S00494,Riley,Ward,Non-Binary,Freshman,MAJ020,3.61,2025-08-01 00:00:00,2029,87.97,Good,Partial,Active
+S00495,Jamie,Cooper,Male,Freshman,MAJ023,3.55,2025-09-05 00:00:00,2029,79.13,Good,None,Active
+S00496,Jordan,Price,Female,Sophomore,MAJ015,3.6,2024-09-10 00:00:00,2028,77.13,Good,None,Active
+S00497,Cameron,Cooper,Non-Binary,Junior,MAJ011,3.64,2023-08-11 00:00:00,2027,100.0,Good,Full,Active
+S00498,Taylor,Cooper,Male,Junior,MAJ004,4.0,2023-08-08 00:00:00,2027,94.91,Honors,None,Withdrawn
+S00499,Alex,Foster,Non-Binary,Freshman,MAJ003,2.53,2025-08-04 00:00:00,2029,78.3,Good,None,Active
+S00500,Blake,Hayes,Male,Freshman,MAJ013,3.33,2025-10-20 00:00:00,2029,,Good,None,Withdrawn
+S00501,Sam,Price,Female,Junior,MAJ023,3.87,2023-08-23 00:00:00,2027,72.89,Honors,None,Active
+S00502,Casey,Collins,Non-Binary,Freshman,MAJ008,3.48,2025-08-07 00:00:00,2029,76.1,,Partial,Active
+S00503,Sam,Carter,Non-Binary,Sophomore,MAJ022,3.82,2024-10-09 00:00:00,2028,67.66,Honors,Partial,Active
+S00504,Blake,Carter,Non-Binary,Sophomore,MAJ023,3.45,2024-10-20 00:00:00,2028,83.3,Good,None,Active
+S00505,Morgan,Foster,Female,Freshman,MAJ023,2.88,2025-09-27 00:00:00,2029,100.0,Good,None,Active
+S00506,Casey,Wilson,Female,Junior,MAJ021,2.31,2023-10-16 00:00:00,2027,94.8,Academic Warning,Full,Active
+S00507,Morgan,Morgan,Female,Sophomore,MAJ005,2.36,2024-10-03 00:00:00,2028,95.64, Academic Warning ,Full,Active
+S00508,Taylor,Carter,Non-Binary,Junior,MAJ006,4.0,2023-08-24 00:00:00,2027,90.2,Honors,Partial,Graduated
+S00509,Drew,Brooks,Male,Junior,MAJ010,2.86,2023-09-02 00:00:00,2027,87.67,Good, None ,Active
+S00510,Casey,Mitchell,Non-Binary,Freshman,MAJ010,3.9,2025-09-14 00:00:00,2029,73.87,Honors,Partial,Active
+S00511,Alex,Morgan,Female,Junior,MAJ002,2.88,2023-10-21 00:00:00,2027,96.8,Good,None,Active
+S00512,Parker,Brooks,Non-Binary,Sophomore,MAJ024,2.24,2024-08-12 00:00:00,2028,73.37,Academic Warning,Partial,Active
+S00513,Drew,Brooks,Male,Sophomore,MAJ011,2.44,2024-10-28 00:00:00,2028,92.93,Academic Warning,None,Active
+S00514,Taylor,Carter,Female,Senior,MAJ021,3.34,2022-10-24 00:00:00,2026,97.45,Good,None,Graduated
+S00515,Cameron,Cooper,Non-Binary,Freshman,MAJ012,3.97,2025-09-26 00:00:00,2029,95.6,Honors,None,Active
+S00516,Quinn,Mitchell,Non-Binary,Junior,MAJ005,2.5,2023-08-28 00:00:00,2027,93.62,Good,Partial,Active
+S00517,Taylor,Collins,Male,Senior,MAJ020,3.63,2022-08-14 00:00:00,2026,81.5,Good,None,Active
+S00518,Alex,Turner,Non-Binary,Junior,MAJ003,3.17,2023-10-25 00:00:00,2027,78.73,Good,Partial,Active
+S00519,Sam,Price,Male,Freshman,MAJ010,2.17,2025-10-17 00:00:00,2029,79.82,Academic Warning,Partial,Active
+S00520,Jamie,Parker,Male,Sophomore,MAJ003,3.29,2024-09-22 00:00:00,2028,69.56,Good,Partial,Active
+S00521,Avery,Cooper,Non-Binary,Senior,MAJ024,3.05,2022-08-01 00:00:00,2026,83.72,Good,Partial,Active
+S00522,Reese,Collins,Female,Senior,MAJ002,2.74,2022-08-25 00:00:00,2026,68.48,Good,None,Active
+S00523,Alex,Reed,Female,Senior,MAJ019,2.05,2022-10-21 00:00:00,2026,78.6,Academic Warning,None,Active
+S00524,Drew,Ward,Non-Binary,Freshman,MAJ010,2.43,2025-09-03 00:00:00,2029,100.0,Academic Warning,Partial,Active
+S00525,Drew,Turner,Non-Binary,Freshman,MAJ003,3.82,2025-08-04 00:00:00,2029,67.57,Honors,None,Active
+S00526,Reese,Carter,Non-Binary,Junior,MAJ017,3.52,2023-10-21 00:00:00,2027,85.45,Good,None,Active
+S00527,Sam,Collins,Male,Freshman,MAJ005,,2025-09-27 00:00:00,2029,98.05,Good,None,Active
+S00528,Avery,Ward,Non-Binary,Sophomore,MAJ010,3.61,2024-10-16 00:00:00,2028,89.48,Good, Partial ,Active
+S00529,Jordan,Ward,Non-Binary,Sophomore,MAJ012,3.87,2024-08-01 00:00:00,2028,92.74,Honors,None,Active
+S00530,Casey,Reed,Non-Binary,Senior,MAJ010,4.0,2022-09-23 00:00:00,2026,78.96,,None,Graduated
+S00531,Reese,Turner,Non-Binary,Sophomore,MAJ021,3.1,2024-10-14 00:00:00,2028,81.06,Good,None,Active
+S00532,Blake,Price,Male,Freshman,MAJ012,3.0,2025-08-15 00:00:00,2029,100.0,Good,Partial,Active
+S00533,Quinn,Bennett,Female,Sophomore,MAJ009,2.94,2024-10-27 00:00:00,2028,96.29,Good,Partial,Active
+S00534,Drew,Hayes,Non-Binary,Senior,MAJ023,2.78,2022-10-05 00:00:00,2026,84.01,Good,Full,Active
+S00535,Avery,Cooper,Male,Junior,MAJ017,3.39,2023-10-16 00:00:00,2027,88.31,Good,Full,Active
+S00536,Jamie,Foster,Female,Senior,MAJ018,2.93,2022-10-27 00:00:00,2026,85.99,Good,None,Active
+S00537,Blake,Mitchell,Non-Binary,Junior,MAJ018,2.79,2023-09-14 00:00:00,2027,62.19,Good,Full, Graduated 
+S00538,Casey,Bennett,Male,Junior,MAJ001,4.0,2023-09-15 00:00:00,2027,70.65,Honors,Partial,Active
+S00539,Blake,Turner,Non-Binary,Junior,MAJ020,2.84,2023-09-27 00:00:00,2027,100.0,Good, Partial ,Active
+S00540,Blake,Reed,Non-Binary,Junior,MAJ018,3.13,2023-08-07 00:00:00,2027,87.75,Good,None,Active
+S00541,Blake,Hayes,Female,Junior,MAJ013,2.92,2023-10-21 00:00:00,2027,89.5,Good,Full,Active
+S00542,Sam,Mitchell,Non-Binary,Junior,MAJ009,3.07,2023-08-25 00:00:00,2027,89.25,Good,None,Active
+S00543,Sam,Turner,Male,Junior,MAJ010,2.88,2023-10-24 00:00:00,2027,85.71,Good,Full,Active
+S00544,Cameron,Ward,Female,Senior,MAJ002,3.33,2022-10-04 00:00:00,2026,96.88,Good,None,Active
+S00545,Morgan,Brooks,Female,Junior,MAJ018,2.57,2023-09-22 00:00:00,2027,97.6,Good,None,Active
+S00546,Casey,Parker,Non-Binary,Junior,MAJ013,3.24,2023-08-12 00:00:00,2027,69.23,Good,Partial,Active
+S00547,Jamie,Reed,Female,Senior,MAJ007,3.1,2022-10-21 00:00:00,2026,100.0,Good,None,Active
+S00548,Quinn,Turner,Male,Senior,MAJ010,3.53,2022-10-22 00:00:00,2026,87.88,Good,None,Active
+S00549,Quinn,Hayes,Male,Sophomore,MAJ016,3.06,2024-10-02 00:00:00,2028,77.12,Good,None,Active
+S00550,Quinn,Price,Male,Junior,MAJ017,2.96,2023-08-21 00:00:00,2027,91.61,Good,Partial,Active
+S00551,Avery,Turner,Non-Binary, Junior ,MAJ007,3.36,2023-08-25 00:00:00,2027,95.6,Good,Partial,Active
+S00552,Sam,Carter,Female,Sophomore,MAJ016,4.0,2024-08-24 00:00:00,2028,85.02,,None,Active
+S00553,Avery,Brooks,Female,Sophomore,MAJ024,3.39,2024-08-19 00:00:00,2028,79.84,Good,Partial,Active
+S00554,Blake,Wilson,Female,Sophomore,MAJ017,3.31,2024-08-11 00:00:00,2028,80.46,Good,None,Active
+S00555,Reese,Hayes,Male,Junior,MAJ021,2.48,2023-09-26 00:00:00,2027,91.05,Academic Warning,None,Active
+S00556,Riley,Reed,Female,Senior,MAJ001,2.23,2022-08-17 00:00:00,2026,90.09,Academic Warning,None,Active
+S00557,Avery,Bennett,Female,Sophomore,MAJ013,3.5,2024-09-08 00:00:00,2028,88.94,Good,Full,Active
+S00558,Casey,Parker,Non-Binary,Sophomore,MAJ012,2.58,2024-10-16 00:00:00,2028,85.32,Good,,Active
+S00559,Alex,Carter,Non-Binary,Senior,MAJ009,3.0,2022-09-15 00:00:00,2026,68.27,Good, None ,Active
+S00560,Morgan,Morgan,Non-Binary,Senior,MAJ003,3.11,2022-09-13 00:00:00,2026,67.1,Good,,Graduated
+S00561,Avery,Turner,Male,Sophomore,MAJ013,3.47,2024-08-17 00:00:00,2028,84.05,Good,Partial,Active
+S00562,Drew,Collins,Female,Senior,MAJ023,3.75,2022-09-21 00:00:00,2026,78.87,Honors,, Active 
+S00563,Taylor,Ward,Non-Binary,Senior,MAJ002,3.8,2022-10-01 00:00:00,2026,74.37, Honors ,Partial,Active
+S00564,Morgan,Price,Non-Binary,Junior,MAJ005,3.21,2023-09-27 00:00:00,2027,91.72,Good,None,Active
+S00565,Jamie,Ward,Male,Junior,MAJ013,3.7,2023-10-27 00:00:00,2027,96.69,Honors,Full,Active
+S00566,Drew,Turner,Male,Freshman,MAJ009,4.0,2025-08-03 00:00:00,2029,96.46,Honors,None,Active
+S00567,Jordan,Foster,Female,Sophomore,MAJ023,2.84,2024-09-14 00:00:00,2028,81.73,Good,None,Active
+S00568,Alex,Bennett,Non-Binary,Sophomore, MAJ020 ,3.01,2024-08-18 00:00:00,2028,83.42,Good,None,Active
+S00569,Jamie,Foster,Female,Freshman,MAJ009,2.83,2025-10-28 00:00:00,2029,71.09,Good,None,Graduated
+S00570,Quinn,Hayes,Male,Freshman,MAJ020,3.12,2025-10-03 00:00:00,2029,85.53,Good, None ,Graduated
+S00571,Reese,Hayes,Female,Sophomore,MAJ002,3.34,2024-09-06 00:00:00,2028,72.62,Good,None,Active
+S00572,Quinn,Price,Non-Binary,Sophomore,MAJ006,3.39,2024-09-21 00:00:00,2028,88.9,Good,None,Active
+S00573,Quinn,Price,Non-Binary,Senior,MAJ019,2.35,12/10/2022 00:00,2026,94.04,Academic Warning,Full,Active
+S00574,Taylor,Carter,Female,Senior,MAJ006,2.29,2022-08-19 00:00:00,2026,89.88,Academic Warning,None,Active
+S00575,Casey,Parker,Non-Binary,Senior,MAJ012,3.84,2022-10-24 00:00:00,2026,91.08,Honors,None,Active
+S00576,Avery,Wilson,Female,Junior,MAJ022,2.97,2023-08-08 00:00:00,2027,85.46,Good,Partial,Active
+S00577,Sam,Ward,Non-Binary,Freshman,MAJ022,3.0,2025-08-28 00:00:00,2029,93.44,Good,Partial,Withdrawn
+S00578,Sam,Reed,Female,Junior,MAJ016,2.24,2023-09-22 00:00:00,2027,94.44,Academic Warning,None,Active
+S00579,Drew,Mitchell,Male,Junior,MAJ010,3.55,2023-08-22 00:00:00,2027,79.98,Good,Partial,Active
+S00580,Blake,Parker,Male,Junior,MAJ008,3.2,2023-09-15 00:00:00,2027,79.88,Good,None,Active
+S00581,Taylor,Foster,Non-Binary,Junior,MAJ022,3.83,2023-09-26 00:00:00,2027,81.71,Honors,None,Active
+S00582,Morgan,Ward,Female,Freshman,MAJ019,2.46,2025-10-24 00:00:00,2029,93.86,Academic Warning,Partial,Active
+S00583,Sam,Turner,Male,Sophomore,MAJ018,3.09,2024-09-15 00:00:00,2028,79.1, Good ,None,Active
+S00584,Jordan,Wilson,Non-Binary,Sophomore,MAJ007,2.88,2024-10-03 00:00:00,2028,93.66,Good,Partial,Active
+S00585,Avery,Parker,Male,Freshman,MAJ008,3.78,2025-10-21 00:00:00,2029,86.3,Honors,None,Active
+S00586,Avery,Hayes,Female,Freshman, MAJ022 ,2.63,2025-10-19 00:00:00,2029,97.02,Good,None,Active
+S00587,Avery,Brooks,Non-Binary,Senior,MAJ013,3.68,2022-10-16 00:00:00,2026,100.0,Good,Partial,Active
+S00588,Blake,Ward,Non-Binary,Sophomore,MAJ023,3.39,2024-10-28 00:00:00,2028,88.09,Good,None,Active
+S00589,Cameron,Mitchell,Non-Binary,Junior,MAJ012,3.29,2023-08-22 00:00:00,2027,78.73,Good,None,Graduated
+S00590,Sam,Wilson,Non-Binary,Senior,MAJ001,2.67,2022-08-15 00:00:00,2026,80.12,Good,None,Active
+S00591,Reese,Wilson,Non-Binary,Junior,MAJ016,3.85,2023-10-16 00:00:00,2027,98.73,Honors,Full,Active
+S00592,Morgan,Carter,Male,Junior,MAJ012,3.18,2023-09-08 00:00:00,2027,93.98,Good,None,Active
+S00593,Riley,Bennett,Male,Senior,MAJ002,3.2,2022-09-02 00:00:00,2026,84.3,Good,None,Active
+S00594,Avery,Hayes,Male,Freshman,MAJ012,2.65,2025-10-09 00:00:00,2029,90.9,Good,None,Active
+S00595,Cameron,Mitchell,,Sophomore,MAJ021,-0.4,2024-10-27 00:00:00,2028,98.99,Honors,None,Active
+S00596,Morgan,Reed,Male,Senior,MAJ008,2.56,2022-09-27 00:00:00,2026,92.06,Good,Partial,Active
+S00597,Parker,Morgan,Non-Binary,Sophomore,MAJ008,3.1,2024-08-15 00:00:00,2028,76.93, Good ,None,Active
+S00598,Morgan,Wilson,Female,Junior,MAJ012,2.35,2023-08-12 00:00:00,2027,,Academic Warning,Partial,Active
+S00599,Cameron,Ward,,Junior,MAJ019,3.59,2023-10-04 00:00:00,2027,95.08,Good,,Active
+S00600,Taylor,Hayes,Male,Freshman,MAJ006,2.43,2025-08-08 00:00:00,2029,82.54,Academic Warning,None,Active
+S00601,Sam,Reed,Female,Freshman,MAJ022,4.0,2025-10-05 00:00:00,2029,72.15,Honors,None,Active
+S00602,Cameron,Foster,Non-Binary,Freshman,MAJ020,2.95,2025-10-01 00:00:00,2029,87.22,Good,Partial,Active
+S00603,Jordan,Parker,Male,Senior,MAJ001,3.1,2022-10-16 00:00:00,2026,,Good,Partial,Active
+S00604,Parker,Wilson,Non-Binary,Senior,MAJ017,2.7,2022-08-20 00:00:00,2026,82.19,Good,Partial,Active
+S00605,Riley,Cooper,Male,Junior,MAJ008,3.05,2023-10-19 00:00:00,2027,76.39,Good,None,Active
+S00606,Alex,Parker,Non-Binary,Freshman,MAJ006,2.94,2025-10-22 00:00:00,2029,85.72,Good,None,Active
+S00607,Drew,Cooper,Non-Binary,Freshman,MAJ010,3.5,2025-10-02 00:00:00,2029,82.19,Good,Partial,Active
+S00608,Jordan,Collins,Non-Binary,Junior,MAJ002,2.41,2023-08-20 00:00:00,2027,77.97,Academic Warning,None,Active
+S00609,Sam,Hayes,Male,Senior, MAJ019 ,3.18,2022-10-14 00:00:00,2026,76.56,Good,None, Active 
+S00610,Morgan,Ward,Male,Junior,MAJ014,2.57,2023-09-12 00:00:00,2027,89.91,Good,None,Active
+S00611,Jamie,Foster,Female,Junior,MAJ019,3.55,2023-09-05 00:00:00,2027,,Good,None,Active
+S00612,Jordan,Brooks,Non-Binary,Senior,MAJ013,2.71,2022-10-14 00:00:00,2026,87.72,Good,None,Active
+S00613,Alex,Foster,Non-Binary,Junior,MAJ004,3.67,2023-08-17 00:00:00,2027,79.24,Good,None,Active
+S00614,Riley,Bennett,Male,Junior,MAJ014,,2023-08-05 00:00:00,2027,100.0,Good, None ,Active
+S00615,Avery,Bennett,Non-Binary,Sophomore,MAJ017,2.56,2024-09-20 00:00:00,2028,100.0,Good,None,Active
+S00616,Cameron,Reed,Non-Binary,Junior,MAJ020,2.95,2023-09-06 00:00:00,2027,82.36,Good,None,Active
+S00617,Casey,Foster,Male,Sophomore,MAJ004,3.47,2024-10-13 00:00:00,2028,97.09,Good,Partial,Active
+S00618,Jamie,Parker,Male,Junior,MAJ011,2.92,2023-10-06 00:00:00,2027,89.37,Good,None,Active
+S00619,Quinn,Reed,Non-Binary,Senior,MAJ020,,2022-10-22 00:00:00,2026,79.63,Good,Partial,Active
+S00620,Alex,Ward,Female,Senior,MAJ006,2.82,2022-08-16 00:00:00,2026,71.92,Good,Full,Active
+S00621,Morgan,Mitchell,Female,Freshman,MAJ011,3.57,2025-10-02 00:00:00,2029,88.86,Good,Partial,Graduated
+S00622,Sam,Reed,Male,Sophomore,MAJ014,2.41,2024-10-20 00:00:00,2028,100.0,Academic Warning,None,Active
+S00623,Drew,Collins,Female,Freshman,MAJ011,2.37,2025-08-28 00:00:00,2029,86.09,Academic Warning,Partial,Active
+S00624,Alex,Ward,Non-Binary, Sophomore ,MAJ019,,2024-10-17 00:00:00,2028,79.77,Good,Partial,Active
+S00625,Riley,Parker,Non-Binary,Junior,MAJ014,3.88,2023-08-06 00:00:00,2027,98.75,Honors,None,Active
+S00626,Sam,Bennett,Male,Sophomore,MAJ023,2.49,2024-10-07 00:00:00,2028,96.65,Academic Warning,None,Active
+S00627,Jordan,Reed,Male,Freshman,MAJ013,3.28,2025-10-27 00:00:00,2029,96.6,Good,None,Active
+S00628,Reese,Brooks,Female,Sophomore,MAJ011,3.14,2024-10-07 00:00:00,2028,85.73,Good,None,Active
+S00629,Taylor,Bennett,Non-Binary,Freshman,MAJ001,2.7,2025-08-18 00:00:00,2029,66.05,Good,None,Active
+S00630,Quinn,Reed,Male,Senior,MAJ013,3.52,2022-10-27 00:00:00,2026,90.65,Good,PARTIAL,Active
+S00631,Cameron,Foster,Male,Sophomore,MAJ012,3.36,2024-08-25 00:00:00,2028,86.55,Good,None,Active
+S00632,Blake,Foster,Female,Junior,MAJ024,2.42,2023-09-04 00:00:00,2027,88.21,Academic Warning,None,Active
+S00633,Morgan,Hayes,Non-Binary, Senior ,MAJ023,2.74,2022-08-26 00:00:00,2026,89.43,Good,None,Graduated
+S00634,Alex,Turner,Male,Junior,MAJ006,2.67,2023-08-10 00:00:00,2027,89.24,Good,None,Active
+S00635,Jordan,Reed,Female,Senior,MAJ006,2.25,2022-09-11 00:00:00,2026,91.58,Academic Warning,None,Graduated
+S00636,Jamie,Hayes,Female,Sophomore,MAJ019,2.49,2024-09-24 00:00:00,2028,89.24,Academic Warning,None,Active
+S00637,Morgan,Parker,Female, Senior ,MAJ009,3.32,2022-08-27 00:00:00,2026,80.12,Good,Partial,Active
+S00638,Blake,Carter,Non-Binary,Freshman,MAJ005,2.83,2025-10-16 00:00:00,2029,83.85,Good,Partial,Active
+S00639,Alex,Price,Male,Junior,MAJ001,3.17,2023-09-20 00:00:00,2027,78.98,Good,None,Graduated
+S00640,Parker,Price,Male,Senior,MAJ008,2.84,2022-09-06 00:00:00,2026,93.4,Good,Full,Graduated
+S00641,Morgan,Ward,Non-Binary,Sophomore,MAJ008,3.22,2024-08-02 00:00:00,2028,84.91,Good,None,Active
+S00642,Alex,Reed,Male,Senior,MAJ023,2.9,2022-09-28 00:00:00,2026,68.78,Good,Partial,Active
+S00643,Jamie,Reed,Male,Senior,MAJ024,3.41,2022-09-23 00:00:00,2026,88.62,Good,None,Active
+S00644,Jordan,Mitchell,Male,Sophomore,MAJ010,3.41,2024-10-28 00:00:00,2028,90.93,Good,None,Active
+S00645,Drew,Foster,Male,Freshman,MAJ022,2.06,2025-09-06 00:00:00,2029,97.25,Academic Warning,None,Active
+S00646,Riley,Mitchell,Male,Junior,MAJ005,3.73,2023-09-15 00:00:00,2027,86.79,Honors,None,Active
+S00647,Morgan,Price,Female,Junior,MAJ017,3.97,2023-10-09 00:00:00,2027,88.77,Honors,Partial,Active
+S00648,Morgan,Wilson,Non-Binary,Senior,MAJ023,2.19,2022-08-16 00:00:00,2026,86.31,Academic Warning,Partial,Active
+S00649,Blake, Price ,Non-Binary,Sophomore,MAJ004,2.62,2024-10-18 00:00:00,2028,95.13,Good,Partial,Active
+S00650,Avery,Price,Non-Binary,Sophomore,MAJ012,3.07,2024-08-13 00:00:00,2028,88.41,Good,None,Active
+S00651,Casey,Collins,Non-Binary,Freshman,MAJ006,3.3,2025-08-15 00:00:00,2029,77.11,Good,Partial,Active
+S00652,Avery,Cooper,Male,Sophomore,MAJ020,2.78,2024-09-01 00:00:00,2028,74.08,Good,None,Active
+S00653,Parker,Parker,Non-Binary,Junior,MAJ004,3.59,2023-10-21 00:00:00,2027,100.0,Good,Partial,Active
+S00654,Riley,Mitchell,Non-Binary,Senior,MAJ013,3.76,2022-10-16 00:00:00,2026,78.74,Honors,Partial,Active
+S00655,Parker,Brooks,Male,Freshman,MAJ013,3.42,2025-10-05 00:00:00,2029,99.1,Good,Partial,Active
+S00656,Cameron,Hayes,Non-Binary,Senior,MAJ019,3.34,2022-10-13 00:00:00,2026,85.03,Good,Partial,Active
+S00657,Morgan,Mitchell,Male,Freshman,MAJ016,3.38,2025-10-10 00:00:00,2029,98.75,Good,Partial,Active
+S00658,Blake,Collins,Male,Sophomore,MAJ002,3.37,2024-10-19 00:00:00,2028,79.7,Good,None,Active
+S00659,Reese,Morgan,Female,Freshman,MAJ022,3.35,2025-10-08 00:00:00,2029,86.49,Good,Partial,Graduated
+S00660,Jordan,Parker,Female,Junior,MAJ008,2.8,2023-09-04 00:00:00,2027,89.32,Good,None,Graduated
+S00661,Alex,Morgan,Male,Sophomore,MAJ006,2.72,2024-10-25 00:00:00,2028,100.0,Good,Full,Active
+S00662,Jordan,Hayes,Male,Junior,MAJ018,2.88,2023-09-08 00:00:00,2027,91.09,Good,None,Active
+S00663,Taylor,Reed,Female,Junior,MAJ020,3.41,2023-08-02 00:00:00,2027,86.45,,Partial,Active
+S00664,Drew,Collins,Non-Binary,Sophomore,MAJ010,2.71,2024-09-18 00:00:00,2028,86.78,Good,None,Graduated
+S00665,Taylor,Foster,,Junior,MAJ016,2.89,2023-09-21 00:00:00,2027,92.81,Good,Partial,Active
+S00666,Sam,Hayes,Non-Binary,Sophomore,MAJ013,2.88,2024-09-12 00:00:00,2028,87.36,Good,None,Active
+S00667,Casey,Mitchell,Male,Freshman,MAJ016,3.04,2025-09-05 00:00:00,2029,88.54,Good,None,Active
+S00668,Reese,Wilson,Male,Senior,MAJ014,3.12,2022-09-16 00:00:00,2026,96.71,Good,None,Active
+S00669,Quinn,Collins,Male,Sophomore,MAJ003,3.27,2024-08-25 00:00:00,2028,100.0,Good,None,Active
+S00670,Alex,Reed,Male,Freshman,MAJ014,3.8,2025-08-14 00:00:00,2029,77.85,Honors,Full,Active
+S00671,Jamie,Turner,Non-Binary,Freshman,MAJ019,3.53,2025-09-27 00:00:00,2029,76.14,Good,None,Active
+S00672,Morgan,Reed,Non-Binary,Sophomore,MAJ005,2.91,2024-10-22 00:00:00,2028,88.07,Good,None,Active
+S00673,Casey,Bennett,Female,Junior,MAJ015,2.7,2023-08-06 00:00:00,2027,83.74,Good,None,Active
+S00674,Drew,Brooks,Non-Binary,Sophomore,MAJ005,3.18,2024-10-16 00:00:00,2028,74.82,Good,None,Active
+S00675,Avery,Morgan,Female,Freshman,MAJ009,3.12,2025-08-10 00:00:00,2029,91.18,Good,None,Active
+S00676,Morgan,Carter,Female,Junior,MAJ022,2.66,2023-08-16 00:00:00,2027,91.87,Good,None,Active
+S00677,Drew,Mitchell,Male,Senior,MAJ001,3.53,2022-10-26 00:00:00,2026,69.0,Good,None,Active
+S00678,Taylor,Morgan,Male,Junior, MAJ016 ,3.59,2023-09-03 00:00:00,2027,69.54,Good,None,Active
+S00679,Casey,Price,Male,Senior,MAJ005,2.83,2022-08-04 00:00:00,2026,95.25,Good,Full,Active
+S00680, Drew ,Parker,Non-Binary,Sophomore,MAJ014,2.88,2024-08-07 00:00:00,2028,73.46,Good,None,Active
+S00681,Morgan, Collins ,Male,Junior,MAJ011,3.6,2023-10-10 00:00:00,2027,84.25,Good,Full,Active
+S00682,Jamie,Cooper,Non-Binary,Junior,MAJ001,4.0,2023-10-04 00:00:00,2027,77.67,Honors,None,Active
+S00683,Blake,Morgan,Non-Binary,Freshman,MAJ022,3.87,2025-08-04 00:00:00,2029,89.73, Honors ,None,Active
+S00684,Quinn,Brooks,Non-Binary,Freshman,MAJ004,,2025-08-13 00:00:00,2029,100.0,Good,Partial,Active
+S00685,Quinn,Turner,Male,Freshman,MAJ008,2.25,2025-10-20 00:00:00,2029,89.88,Academic Warning,None,Active
+S00686,Drew,Carter,Non-Binary,Freshman,MAJ004,3.4,2025-10-11 00:00:00,2029,100.0,Good,Full,Withdrawn
+S00687,Alex,Mitchell,Non-Binary,Junior,MAJ012,2.85,2023-08-23 00:00:00,2027,92.41,Good,None,Active
+S00688,Riley,Reed,Non-Binary,Sophomore,MAJ003,2.79,2024-09-26 00:00:00,2028,90.31,Good,Full,Active
+S00689,Cameron,Mitchell,Non-Binary,Freshman,MAJ003,3.15,2025-08-09 00:00:00,2029,74.4,Good,Full, Active 
+S00690,Casey,Reed,Non-Binary,Sophomore,MAJ005,2.9,2024-09-07 00:00:00,2028,82.66,Good,None,Active
+S00691,Drew, Brooks ,Non-Binary,Sophomore,MAJ007,,2024-10-06 00:00:00,2028,93.7,Good,,Active
+S00692,Casey,Reed,Male,Sophomore,MAJ007,3.39,2024-09-01 00:00:00,2028,98.03,Good,Partial,Active
+S00693,Blake,Morgan,Non-Binary,Junior,MAJ009,3.45,2023-09-25 00:00:00,2027,96.98,Good,Partial,Active
+S00694,Avery,Price,Male,Freshman,MAJ006,3.34,2025-08-17 00:00:00,2029,80.76,Good,Partial,Active
+S00695,Casey,Mitchell,Male,Freshman,MAJ008,3.0,2025-10-11 00:00:00,2029,82.08,Good,None,Active
+S00696,Reese,Wilson,Female,Freshman,MAJ017,2.82,2025-08-07 00:00:00,2029,81.49,Good,None,Active
+S00697,Sam,Price,Male,FRESHMAN,MAJ005,2.19,2025-10-16 00:00:00,2029,72.53,Academic Warning,None,Active
+S00698,Riley,Parker,Non-Binary,Sophomore,MAJ004,3.47,2024-10-03 00:00:00,2028,100.0,Good,None,Graduated
+S00699,Blake,Cooper,Female,Junior,MAJ021,3.86,2023-09-26 00:00:00,2027,90.96,Honors,Partial,Active
+S00700,Blake,Bennett,Male,Junior,MAJ001,3.06,2023-10-02 00:00:00,2027,86.64,Good,Partial,Active
+S00701,Jordan,Price,Male,Freshman,MAJ005,3.53,2025-08-07 00:00:00,2029,100.0,Good,Full,Active
+S00702,Avery,Bennett,Female,Junior,MAJ004,2.34,2023-08-17 00:00:00,2027,79.76,,Partial,Active
+S00703,Avery,Turner,Non-Binary,Senior,MAJ002,2.51,2022-09-24 00:00:00,2026,94.12,Good,None,Active
+S00704,Drew,Turner,Non-Binary,Sophomore,MAJ017,3.25,2024-09-04 00:00:00,2028,86.67,Good,None,Active
+S00705,Riley,Hayes,Female,Sophomore,MAJ018,3.3,2024-10-20 00:00:00,2028,97.22,Good,None,Active
+S00706,Riley,Price,Male,Sophomore,MAJ016,3.05,2024-09-25 00:00:00,2028,86.31,Good,Partial,Active
+S00707,Morgan,Foster,Non-Binary,Sophomore,MAJ016,2.47,2024-08-13 00:00:00,2028,75.9,Academic Warning,Partial,Graduated
+S00708,Drew,Collins,Male,Sophomore,MAJ014,2.86,2024-08-24 00:00:00,2028,89.14,Good,None,Active
+S00709,Taylor,Cooper,Male,Freshman,MAJ021,2.11,2025-08-10 00:00:00,2029,93.11,Academic Warning,Full,Active
+S00710,Quinn,Price,Non-Binary,Sophomore,MAJ003,2.9,2024-09-18 00:00:00,2028,,Good,None,Active
+S00711,Jordan,Morgan,,Junior,MAJ009,3.2,2023-09-05 00:00:00,2027,77.48,Good,None,Active
+S00712,Morgan,Brooks,Male,Junior,MAJ001,2.81,2023-08-19 00:00:00,2027,93.61,Good,None,Graduated
+S00713,Jamie,Mitchell,Male,Junior,MAJ011,2.67,2023-08-16 00:00:00,2027,100.0,Good,Partial,Active
+S00714,Blake, Carter ,Non-Binary,Junior,MAJ006,3.95,2023-10-10 00:00:00,2027,72.38,Honors,None,Active
+S00715,Quinn,Morgan,Male,Sophomore,MAJ015,2.66,2024-09-27 00:00:00,2028,100.0,Good,None,Graduated
+S00716,Quinn,Parker,Non-Binary,Freshman,MAJ016,3.41,2025-10-28 00:00:00,2029,94.45,Good,Partial,Active
+S00717,Cameron,Morgan,Male,Senior,MAJ021,3.98,2022-10-02 00:00:00,2026,87.54,Honors,None,Active
+S00718,Jamie,Parker,Female,Sophomore,MAJ012,2.9,2024-08-22 00:00:00,2028,79.3,Good,Partial,Active
+S00719,Parker,Foster,Non-Binary,Sophomore,MAJ019,3.61,2024-08-08 00:00:00,2028,84.09,Good,None,Active
+S00720,Riley,Carter,Male,Freshman,MAJ012,2.81,2025-10-24 00:00:00,2029,88.03,Good,None,Active
+S00721,Avery,Bennett,Non-Binary,Freshman,MAJ023,3.14,2025-08-25 00:00:00,2029,88.02,Good,None,Active
+S00722,Sam,Foster,Female,Sophomore,MAJ019,2.39,2024-10-20 00:00:00,2028,89.4,Academic Warning,Full,Active
+S00723,Casey,Ward,Male,Freshman,MAJ023,3.48,2025-09-22 00:00:00,2029,79.3,Good,Full,Active
+S00724,Cameron,Mitchell,Male,Junior,MAJ017,3.71,2023-08-11 00:00:00,2027,83.06,Honors,None,Active
+S00725,Taylor,Mitchell,Non-Binary,Junior,MAJ004,3.86,2023-09-20 00:00:00,2027,76.62,Honors,None,Active
+S00726,Morgan,Hayes,Male,Senior,MAJ011,3.14,2022-08-25 00:00:00,2026,71.41,Good,Partial,Active
+S00727,Morgan,Foster,Female,Junior,MAJ006,4.75,2023-09-01 00:00:00,2027,87.62,Good,None,Active
+S00728,Drew,Morgan,Male,Sophomore,MAJ015,3.53,2024-08-24 00:00:00,2028,73.69,Good,None,Active
+S00729,Casey,Reed,Male,Junior,MAJ015,2.28,2023-10-24 00:00:00,2027,84.07,Academic Warning,Full,Active
+S00730,Cameron,Foster,Non-Binary,Junior,MAJ001,3.08,2023-10-02 00:00:00,2027,72.12,Good,None,Active
+S00731,Jamie,Foster,Male,Freshman,MAJ024,2.89,2025-08-15 00:00:00,2029,92.38,Good,Partial,Active
+S00732,Casey,Hayes,Non-Binary,Sophomore,MAJ014,2.87,2024-09-28 00:00:00,2028,93.65,Good,None,Active
+S00733,Cameron,Parker,Male,Senior,MAJ014,3.3,2022-10-23 00:00:00,2026,100.0,Good,None,Active
+S00734,Avery,Carter,Female,Senior,MAJ005,2.8,2022-08-17 00:00:00,2026,80.13,Good,Full,Active
+S00735,Alex,Parker,Non-Binary,Junior,MAJ004,3.09,2023-09-11 00:00:00,2027,70.08,Good,None,Active
+S00736,Sam,Mitchell,Male,Freshman,MAJ020,3.02,2025-10-10 00:00:00,2029,96.47,Good,None,Graduated
+S00737,Quinn, Morgan ,Non-Binary,Junior,MAJ016,2.89,2023-09-13 00:00:00,2027,91.58,Good,Full,Active
+S00738,Avery,Brooks,Female,Freshman,MAJ024,2.81,2025-08-11 00:00:00,2029,87.8,Good,Full,Active
+S00739,Cameron,Reed,Non-Binary,Freshman,MAJ008,2.95,2025-10-28 00:00:00,2029,76.9,Good,Partial,Active
+S00740,Taylor,Bennett,Male,Freshman,MAJ021,3.67,2025-10-11 00:00:00,2029,81.79,Good,None,Active
+S00741,Parker,Reed,Non-Binary,Junior,MAJ009,2.94,2023-08-28 00:00:00,2027,99.21,Good,None,Active
+S00742,Blake, Wilson ,Male,Senior,MAJ023,3.52,2022-08-21 00:00:00,2026,89.65,Good,Full,Graduated
+S00743,Avery,Reed,Non-Binary,Sophomore,MAJ012,3.19,06-08-2024 00:00,2028,83.44,Good,None,Active
+S00744,Quinn,Mitchell,Male,Junior,MAJ002,3.16,2023-09-10 00:00:00,2027,93.83,Good,None,Graduated
+S00745,Blake,Turner,Male,Senior,MAJ019,4.0,2022-08-25 00:00:00,2026,90.0,Honors,None,Active
+S00746,Parker,Foster,Male,Freshman,MAJ004,3.16,2025-10-19 00:00:00,2029,87.46,Good,Partial,Active
+S00747,Alex,Mitchell,Female,Freshman,MAJ011,2.67,25/10/2025 00:00,2029,93.04,Good,None,Active
+S00748,Jamie,Hayes,Male,Junior,MAJ007,3.56,2023-08-28 00:00:00,2027,84.13,Good,None,Active
+S00749,Morgan,Morgan,Male,Freshman,MAJ012,3.65,2025-08-09 00:00:00,2029,75.39,Good,Full,Active
+S00750,Morgan,Ward,Female,Junior,MAJ002,2.84,2023-08-06 00:00:00,2027,88.32,Good,Full,Withdrawn
+S00751,Drew,Turner,Male,Senior,MAJ022,4.0,2022-09-08 00:00:00,2026,83.14,Honors,None,Active
+S00752,Reese,Bennett,Non-Binary,Junior,MAJ010,3.63,2023-09-13 00:00:00,2027,93.14,Good,Partial,Active
+S00753,Avery,Hayes,Non-Binary,Junior,MAJ022,3.19,2023-08-17 00:00:00,2027,89.38,Good,None,Active
+S00754,Blake,Parker,Non-Binary,Senior,MAJ019,3.23,2022-10-13 00:00:00,2026,74.92,Good,Full,Active
+S00755,Quinn,Hayes,Female,Sophomore,MAJ021,2.73,2024-08-10 00:00:00,2028,70.72,Good,None,Graduated
+S00756,Casey,Collins,Female,Senior,MAJ015,2.96,2022-09-10 00:00:00,2026,75.96,Good,Partial,Active
+S00757,Taylor,Collins,Non-Binary,Junior,MAJ018,3.51,2023-09-03 00:00:00,2027,83.39,Good,Partial,Active
+S00758,Blake,Turner,Non-Binary,Senior,MAJ010,3.27,2022-08-13 00:00:00,2026,67.88,Good,None,Active
+S00759,Parker,Cooper,Non-Binary,Freshman,MAJ007,2.79,2025-08-15 00:00:00,2029,85.05,Good,None,Active
+S00760,Jamie,Ward,Female,Junior,MAJ013,2.32,2023-10-24 00:00:00,2027,92.88,Academic Warning,None,Active
+S00761,Riley,Carter,Non-Binary,Sophomore,MAJ019,2.74,2024-10-13 00:00:00,2028,84.92,Good,Partial,Graduated
+S00762, Taylor ,Bennett,Non-Binary,Junior,MAJ020,4.0,2023-09-02 00:00:00,2027,99.65,Honors,Partial,Graduated
+S00763,Sam,Price,Female,Junior,MAJ010,2.21,2023-08-28 00:00:00,2027,100.0,Academic Warning,None,Active
+S00764,Casey,Brooks,Non-Binary,Freshman,MAJ011,2.98,2025-09-10 00:00:00,2029,100.0,Good,Partial,Active
+S00765,Morgan,Morgan,Non-Binary,Freshman,MAJ018,2.29,2025-09-01 00:00:00,2029,100.0,Academic Warning,None,Active
+S00766,Alex,Foster,Male,Junior,MAJ014,2.14,2023-08-07 00:00:00,2027,90.36,Academic Warning,,Active
+S00767,Jordan,Foster,Non-Binary,Sophomore,MAJ009,2.79,08-08-2024 00:00,2028,91.07,Good,Full,Active
+S00768,Reese,Price,Female,Junior,MAJ016,3.89,2023-08-06 00:00:00,2027,77.69,Honors,None,Active
+S00769,Reese,Morgan,Non-Binary,Freshman,MAJ010,3.24,2025-10-27 00:00:00,2029,79.39,Good,Partial,Active
+S00770,Jordan,Bennett,Female,Freshman,MAJ013,2.79,2025-08-22 00:00:00,2029,90.79,Good,None,Active
+S00771,Parker,Ward,Non-Binary,Junior,MAJ010,3.5,2023-08-15 00:00:00,2027,91.48,Good,Partial,Active
+S00772,Quinn,Brooks,Male,Freshman,MAJ003,2.69,2025-09-13 00:00:00,2029,87.1,Good,Partial,Active
+S00773,Jordan,Brooks,Male,Senior,MAJ020,2.89,2022/08/04 00:00:00,2026,83.74,Good,partial,Active
+S00774,Avery,Parker,Non-Binary,Junior,MAJ021,2.24,2023-08-20 00:00:00,2027,99.55,Academic Warning,None,Active
+S00775,Avery,Carter,Male,Senior,MAJ017,3.2,2022-10-23 00:00:00,2026,93.49,Good,Partial,Active
+S00776,Cameron,Foster,Male,Junior,MAJ002,3.79,2023-09-17 00:00:00,2027,80.95,Honors,None,Active
+S00777,Parker,Foster,Male,Senior,MAJ019,3.48,2022-10-24 00:00:00,2026,90.78,Good,Partial,Active
+S00778,Parker,Parker,Non-Binary,Freshman,MAJ007,3.66,2025-09-07 00:00:00,2029,94.2,Good,None,Active
+S00779,Jordan,Turner,Female,Junior,MAJ020,4.0,2023-10-14 00:00:00,2027,82.4,Honors,None,Active
+S00780,Sam,Parker,Female,Junior,MAJ010,3.33,2023-10-07 00:00:00,2027,81.04,Good,Partial,Active
+S00781,Casey,Reed,Non-Binary,Freshman,MAJ006,3.6,09/25/2025 00:00,2029,87.87,Good,None,Active
+S00782,Jamie,Foster,Non-Binary,Sophomore,MAJ011,3.33,2024-08-27 00:00:00,2028,69.73,Good,None,Active
+S00783,Sam,Collins,Male,Sophomore,MAJ008,3.35,2024-08-21 00:00:00,2028,81.52,Good,None,Active
+S00784,Reese,Reed,Male,Sophomore,MAJ024,3.0,2024-09-26 00:00:00,2028,88.88,Good,,Graduated
+S00785,Avery,Brooks,Non-Binary,Freshman,MAJ006,3.46,2025-10-22 00:00:00,2029,90.14,Good,None,Active
+S00786,Sam,Mitchell,Male,Freshman, MAJ016 ,2.23,2025-08-05 00:00:00,2029,75.29,Academic Warning,None,Active
+S00787,Sam,Reed,Female,Senior,MAJ006,2.07,2022-10-20 00:00:00,2026,91.75,,None,Active
+S00788,Quinn,Brooks,Non-Binary, Senior ,MAJ002,3.64,2022-09-23 00:00:00,2026,87.02,Good,None,Active
+S00789,Morgan,Mitchell,Male,Sophomore,MAJ002,3.77,2024-09-07 00:00:00,2028,82.32,Honors,None,Active
+S00790,Alex,Ward,Female,Sophomore,MAJ021,3.31,2024-08-15 00:00:00,2028,81.24,Good,None,Active
+S00791,Taylor,Parker,Male,Senior,MAJ019,3.34,2022-09-24 00:00:00,2026,97.54,Good,Partial,Active
+S00792,Quinn,Price,Female, Sophomore ,MAJ006,3.61,2024-10-22 00:00:00,2028,80.06,Good,Full,Active
+S00793,Cameron,Turner,Non-Binary,Freshman,MAJ012,2.61,2025-08-01 00:00:00,2029,90.51,Good,None,Active
+S00794,Reese,Carter,Male,Senior,MAJ016,2.51,02-09-2022 00:00,2026,90.09,Good,none,Active
+S00795,Alex,Foster,,Junior,MAJ005,2.86,2023-10-07 00:00:00,2027,96.26,Good,None,Active
+S00796,Riley,Ward,Male,Sophomore,MAJ005,4.0,2024-10-04 00:00:00,2028,83.69,Honors,None,Active
+S00797,Parker,Reed,Non-Binary,Freshman,MAJ011,3.47,2025-08-07 00:00:00,2029,90.81,Good,None,Active
+S00798,Jamie,Ward,Male,Sophomore,MAJ024,2.98,2024-10-08 00:00:00,2028,93.07,Good,None,Active
+S00799,Avery,Collins,Female,Senior,MAJ004,3.57,2022-08-01 00:00:00,2026,87.34,Good,None,Active
+S00800,Alex,Carter,Male,Freshman,MAJ013,2.75,2025-09-06 00:00:00,2029,85.56,Good,,Graduated
+S00801,Jamie,Turner,Male,Junior,MAJ014,4.0,2023-10-12 00:00:00,2027,83.56,Honors,None,Active
+S00802,Sam,Ward,Non-Binary,Junior,MAJ003,3.73,2023-08-25 00:00:00,2027,71.76,Honors,Partial,Active
+S00803,Quinn,Cooper,Non-Binary,Freshman,MAJ018,3.48,2025-09-04 00:00:00,2029,91.29,Good,None,Active
+S00804,Drew,Collins,Female,Junior,MAJ011,3.54,2023-08-05 00:00:00,2027,90.01,Good,Partial,Active
+S00805,Cameron,Wilson,Non-Binary,Senior,MAJ007,3.11,2022-10-11 00:00:00,2026,96.7,Good,Partial,Graduated
+S00806,Alex,Carter,Male,Sophomore,MAJ003,3.47,2024-08-12 00:00:00,2028,-8.0,Good,None,Active
+S00807,Riley,Foster,Non-Binary,Sophomore,MAJ019,2.74,2024-08-17 00:00:00,2028,91.67,Good,None,Active
+S00808,Riley,Reed,Non-Binary,Senior,MAJ007,2.95,2022-08-26 00:00:00,2026,93.13,Good,None,Active
+S00809,Morgan,Foster,Female,Junior,MAJ006,2.65,2023-10-06 00:00:00,2027,91.8,Good,Full,Active
+S00810,Reese,Turner,Non-Binary,Sophomore,MAJ004,3.29,2024-09-26 00:00:00,2028,69.1,Good,Full,Active
+S00811,Jamie,Parker,Female,Sophomore,MAJ012,2.32,2024-10-22 00:00:00,2028,85.46,Academic Warning,None,Graduated
+S00812,Drew,Carter,Non-Binary,Junior,MAJ008,2.83,2023-10-15 00:00:00,2027,90.28,Good,None,Active
+S00813,Casey,Bennett,Female,Sophomore,MAJ011,2.97,2024-10-04 00:00:00,2028,91.74,Good,Partial,Active
+S00814,Riley,Collins,Non-Binary,Senior,MAJ001,3.48,2022-10-02 00:00:00,2026,,Good,None,Active
+S00815,Blake,Ward,Non-Binary,Senior,MAJ018,2.05,2022-08-25 00:00:00,2026,71.68,Academic Warning,None,Active
+S00816,Cameron,Foster,Non-Binary,Junior,MAJ007,3.64,2023-09-07 00:00:00,2027,95.21,Good,None,Active
+S00817,Quinn,Cooper,Non-Binary, Sophomore ,MAJ013,3.5,2024-09-14 00:00:00,2028,,Good,Partial,Graduated
+S00818,Parker,Morgan,Non-Binary,Senior,MAJ018,3.18,2022-10-13 00:00:00,2026,86.8,Good,Partial,Active
+S00819,Blake,Reed,Female,Freshman,MAJ024,3.3,2025-08-23 00:00:00,2029,88.27,Good,None,Graduated
+S00820,Casey,Price,Female,Freshman,MAJ021,3.21,2025-08-14 00:00:00,2029,84.62,Good,Partial,Active
+S00821,Cameron,Bennett,Male,Sophomore,MAJ013,2.61,2024-09-18 00:00:00,2028,98.9,,None,Active
+S00822,Avery,Bennett,Male,Freshman,MAJ023,3.14,2025-09-05 00:00:00,2029,83.27,good,None,Active
+S00823,Alex,Carter,Non-Binary,Freshman,MAJ002,4.0,2025-08-05 00:00:00,2029,98.28,Honors,Partial,Active
+S00824,Taylor,Carter,Female,Sophomore,MAJ017,2.87,2024-10-26 00:00:00,2028,93.54,Good,none,Active
+S00825,Parker,Cooper,Male,Senior, MAJ005 ,3.38,2022-10-06 00:00:00,2026,76.93,Good,None,Active
+S00826,Cameron,Mitchell,Female,Senior,MAJ021,2.6,2022-08-14 00:00:00,2026,79.48,Good,Partial,Active
+S00827, Morgan ,Turner,Non-Binary,Senior,MAJ008,3.71,2022-09-14 00:00:00,2026,66.26,Honors,Full,Active
+S00828,Alex,Foster,Male,Freshman,MAJ006,2.65,2025-10-12 00:00:00,2029,83.11,Good,None,Active
+S00829,Taylor,Turner,Non-Binary,Junior,MAJ010,3.09,2023-10-28 00:00:00,2027,79.84,Good,Full,Active
+S00830,Jordan,Reed,Non-Binary,Sophomore,MAJ003,2.86,2024-08-08 00:00:00,2028,89.5,Good,None,Active
+S00831,Jordan,Hayes,Non-Binary,Senior,MAJ019,3.54,2022-10-26 00:00:00,2026,87.5,Good,None,Active
+S00832,Avery, Ward ,Female,Senior,MAJ009,1.85,2022-09-15 00:00:00,2026,75.92,Probation,None,Active
+S00833,Cameron,Mitchell,Male,Junior,MAJ004,2.3,2023-09-06 00:00:00,2027,84.19,Academic Warning,None,Graduated
+S00834,Jamie,Ward,Non-Binary,Junior,MAJ014,3.5,2023-09-02 00:00:00,2027,76.34,Good,Partial,Active
+S00835,Sam,Brooks,Non-Binary,Junior,MAJ012,2.98,2023-10-01 00:00:00,2027,85.41,Good,None,Active
+S00836,Reese,Ward,Male,Junior,MAJ007,2.62,2023-09-05 00:00:00,2027,78.76,Good,Partial,Active
+S00837,Jamie,Carter,Non-Binary,Sophomore,MAJ013,3.79,2024-08-19 00:00:00,2028,100.0,Honors,Partial,Active
+S00838,Taylor,Brooks,Non-Binary,Sophomore,MAJ002,2.53,2024-08-16 00:00:00,2028,79.08,Good,None,Active
+S00839,Jordan,Wilson,Non-Binary,Freshman,MAJ021,2.46,2025-08-27 00:00:00,2029,95.82,Academic Warning,None,Withdrawn
+S00840,Morgan,Hayes,Male,Senior,MAJ005,3.41,2022-10-21 00:00:00,2026,70.92,Good,None,Active
+S00841,Alex,Hayes,Male,Senior,MAJ016,3.54,2022-08-02 00:00:00,2026,89.71,Good,None,Active
+S00842,Jamie,Ward,Non-Binary,Sophomore,MAJ020,2.81,2024-08-13 00:00:00,2028,95.13,,Partial,Active
+S00843,Avery,Price,Male,Sophomore,MAJ003,3.57,2024-08-10 00:00:00,2028,75.91,Good,Full,Active
+S00844,Avery,Hayes,Female,Junior,MAJ003,2.06,2023-08-18 00:00:00,2027,78.67,Academic Warning,Partial,Graduated
+S00845,Blake,Hayes,Male,Sophomore,MAJ012,3.14,2024-09-09 00:00:00,2028,81.79,Good,None,Active
+S00846,Cameron,Collins,Non-Binary,Junior,MAJ014,2.41,2023-10-08 00:00:00,2027,89.53,Academic Warning,Partial,Active
+S00847,Riley,Hayes,Non-Binary,Freshman,MAJ001,3.56,2025-08-11 00:00:00,2029,95.79,Good,None,Active
+S00848,Alex,Bennett,Female,Senior,MAJ007,,2022-10-04 00:00:00,2026,100.0,Good,Partial,Active
+S00849,Casey,Parker,Female,Junior,MAJ015,,2023-08-20 00:00:00,2027,93.29,Good,None,Graduated
+S00850,Reese,Parker,, Junior ,MAJ024,3.16,2023-10-04 00:00:00,2027,91.4,Good,Partial,Active
+S00851,Taylor,Bennett,Non-Binary,Senior,MAJ003,3.57,2022-10-19 00:00:00,2026,86.15,Good,Partial,Active
+S00852,Taylor,Brooks,Male,Freshman,MAJ017,2.48,2025-09-22 00:00:00,2029,72.32,Academic Warning,Full,Active
+S00853,Casey,Ward,Male,Senior,MAJ014,3.65,2022-10-22 00:00:00,2026,100.0,Good,Partial,Active
+S00854,Jordan,Brooks,Female,Freshman,MAJ018,3.11,2025-09-13 00:00:00,2029,64.94,Good,None,Active
+S00855,Casey,Wilson,Male,Senior,MAJ008,4.0,2022-08-16 00:00:00,2026,75.82,Honors,Full,Active
+S00856,Sam,Collins,,Sophomore,MAJ016,4.0,2024-08-18 00:00:00,2028,86.16,Honors,Partial,Active
+S00857,Blake, Collins ,Non-Binary,Junior,MAJ001,2.73,2023-09-04 00:00:00,2027,90.52,Good,None,Active
+S00858,Quinn,Collins,Female,Junior,MAJ009,2.21,2023-09-05 00:00:00,2027,77.72,Academic Warning,Partial,Active
+S00859,Cameron, Brooks ,Female,Freshman,MAJ023,3.1,2025-10-11 00:00:00,2029,79.26,Good,Full,Active
+S00860,Quinn,Collins,Male,Junior,MAJ011,4.0,2023-09-13 00:00:00,2027,93.69,Honors,Partial,Active
+S00861,Avery,Parker,Female,Senior,MAJ017,2.65,2022-09-23 00:00:00,2026,75.67,Good,Partial,Active
+S00862,Blake,Mitchell,Male,Junior,MAJ014,2.43,2023-10-10 00:00:00,2027,84.48,Academic Warning,None,Active
+S00863,Jordan,Mitchell,Non-Binary,Senior, MAJ004 ,4.0,2022-09-03 00:00:00,2026,86.43,Honors,Partial,Active
+S00864,Morgan,Wilson,Non-Binary,Sophomore,MAJ012,2.51,2024-08-13 00:00:00,2028,95.22,Good,Partial,Active
+S00865,Jordan,Hayes,Non-Binary,Sophomore,MAJ005,2.43,2024-09-16 00:00:00,2028,80.55,Academic Warning,None,Active
+S00866,Taylor,Morgan,Female,Junior,MAJ005,2.92,2023-08-24 00:00:00,2027,100.0,Good,Full,Active
+S00867,Quinn,Reed,Non-Binary,Sophomore,MAJ002,3.02,2024-09-16 00:00:00,2028,83.56,Good,None,Active
+S00868,Alex,Morgan,Male,Sophomore,MAJ001,2.58,2024-08-11 00:00:00,2028,97.76,Good,Partial,Active
+S00869,Quinn,Hayes,Non-Binary,Freshman,MAJ010,2.58,2025-10-15 00:00:00,2029,78.66,Good,Full, Active 
+S00870,Jamie,Foster,Female,Junior,MAJ013,3.87,2023-08-02 00:00:00,2027,90.56,Honors,Partial,Active
+S00871,Blake,Cooper,Non-Binary,Freshman,MAJ006,2.4,2025-08-08 00:00:00,2029,,Academic Warning,Partial,Active
+S00872,Alex,Cooper,Male,Freshman,MAJ017,3.12,2025-08-15 00:00:00,2029,72.46,Good,Partial,Active
+S00873,Reese,Carter,Female,Freshman,MAJ004,3.46,2025-09-20 00:00:00,2029,96.93,Good,Partial,Active
+S00874,Cameron,Mitchell,Non-Binary,Senior,MAJ021,3.86,13-10-2022 00:00,2026,75.04,Honors,None,Graduated
+S00875,Taylor,Mitchell,Female,Junior,MAJ015,2.53,2023-08-19 00:00:00,2027,97.28,Good,None,Active
+S00876,Quinn,Bennett,Female,Sophomore,MAJ005,2.92,2024-10-12 00:00:00,2028,92.91,Good,None,Active
+S00877,Alex,Wilson,Female,Senior,MAJ015,2.91,2022-10-20 00:00:00,2026,90.42,Good,None,Active
+S00878,Jordan,Morgan,Female,Senior,MAJ022,2.85,2022-08-03 00:00:00,2026,69.82,Good,Partial,Active
+S00879,Jamie,Ward,Male, Sophomore ,MAJ024,4.0,2024-10-05 00:00:00,2028,86.73,Honors,None,Active
+S00880,Cameron,Parker,Female,Junior,MAJ008,3.34,2023-10-23 00:00:00,2027,99.63,Good,None,Active
+S00881, Jordan ,Hayes,Male,Sophomore,MAJ009,3.66,2024-09-14 00:00:00,2028,69.79,Good,None,Active
+S00882,Avery,Carter,Non-Binary,Freshman,MAJ001,3.01,2025-09-28 00:00:00,2029,94.9,Good,Partial,Active
+S00883,Quinn,Hayes,Non-Binary,Freshman,MAJ023,2.54,2025-08-09 00:00:00,2029,,Good,None,Active
+S00884,Reese,Cooper,Male,Freshman,MAJ006,3.02,2025-09-06 00:00:00,2029,96.52,Good,None,Graduated
+S00885,Riley,Brooks,Female,Freshman, MAJ020 ,1.92,2025-09-09 00:00:00,2029,85.33,Probation,None,Active
+S00886,Alex,Carter,Non-Binary,Junior,MAJ004,2.93,2023-08-18 00:00:00,2027,79.06,Good,None,Active
+S00887,Jordan,Carter,Female,Sophomore,MAJ009,3.29,2024-10-15 00:00:00,2028,97.43,Good,None,Active
+S00888,Sam,Cooper,Male,Freshman,MAJ003,3.29,2025-08-25 00:00:00,2029,97.26,Good,None,Active
+S00889, Cameron ,Price,Female,Freshman,MAJ004,3.12,2025-09-08 00:00:00,2029,78.68,Good,None,Active
+S00890,Cameron,Wilson,Female,Freshman,MAJ006,3.1,2025-10-15 00:00:00,2029,81.87,Good,None,Active
+S00891,Morgan,Hayes,Male,Sophomore,MAJ006,3.8,2024-09-07 00:00:00,2028,92.66,Honors,None,Active
+S00892,Casey,Wilson,Female,Junior, MAJ023 ,3.25,2023-09-15 00:00:00,2027,95.07,Good,None,Active
+S00893,Casey,Foster,Female,Freshman,MAJ001,2.15,2025-10-20 00:00:00,2029,89.05,Academic Warning,Full,Active
+S00894,Morgan,Carter,Male,Junior,MAJ019,3.55,2023-10-16 00:00:00,2027,91.65,Good,Partial,Active
+S00895,Drew,Brooks,Female,Sophomore,MAJ017,2.6,2024-10-14 00:00:00,2028,98.62,Good,Partial,Active
+S00896,Parker,Parker,Non-Binary,Sophomore,MAJ006,1.89,2024-08-19 00:00:00,2028,,Probation,Full,Active
+S00897,Drew,Turner,Non-Binary,Freshman,MAJ005,2.7,2025-08-14 00:00:00,2029,80.07,Good,None,Active
+S00898,Reese,Carter,Male,Senior,MAJ003,4.0,2022-09-08 00:00:00,2026,92.93,Honors,None,Active
+S00899,Cameron,Parker,Female,Junior,MAJ008,2.92,2023-09-10 00:00:00,2027,85.29,Good,None,Withdrawn
+S00900,Sam,Brooks,Female,Freshman,MAJ004,3.77,2025-10-15 00:00:00,2029,81.68,Honors,Partial,Active
+S00901,Drew,Collins,Female,Freshman,MAJ012,3.36,2025-10-13 00:00:00,2029,92.65, Good ,None,Active
+S00902,Jamie,Hayes,Female,Junior,MAJ014,3.28,2023-10-03 00:00:00,2027,62.97,,None,Active
+S00903,Casey,Bennett,Male,Junior,MAJ001,3.13,2023-10-20 00:00:00,2027,94.95,Good,None,Active
+S00904,Jordan,Foster,,Senior,MAJ004,3.14,2022-10-02 00:00:00,2026,90.6,Good,None,Graduated
+S00905,Alex,Carter,Male,Sophomore,MAJ021,2.33,2024-09-15 00:00:00,2028,85.64,Academic Warning,Partial,Active
+S00906,Avery,Turner,Female,Freshman,MAJ011,3.99,2025-10-23 00:00:00,2029,81.06,Honors,Partial,Active
+S00907,Avery,Carter,Non-Binary,Sophomore,MAJ023,3.34,2024-09-24 00:00:00,2028,80.83,Good, Full ,Active
+S00908,Morgan,Ward,Non-Binary,Senior,MAJ015,3.11,2022-08-11 00:00:00,2026,80.72,Good,None,Active
+S00909,Casey,Morgan,Female,Junior,MAJ006,3.84,2023-09-12 00:00:00,2027,74.19,Honors,none,Active
+S00910,Drew,Turner,Non-Binary,Senior,MAJ022,3.21,2022-10-27 00:00:00,2026,85.7,Good,None,Active
+S00911,Quinn,Hayes,Non-Binary,Junior,MAJ011,3.37,2023-08-07 00:00:00,2027,-8.0,Good,Full,Active
+S00912, Blake ,Wilson,Male,Freshman,MAJ020,2.98,2025-08-04 00:00:00,2029,91.07,Good,None,Active
+S00913,Taylor,Price,Female,Freshman,MAJ018,3.67,2025-10-21 00:00:00,2029,78.74,Good,None,Active
+S00914,Blake,Wilson,Male,Junior,MAJ005,1.61,2023-09-14 00:00:00,2027,100.0,Probation,None,Active
+S00915,Jordan,Morgan,Female,Sophomore,MAJ021,3.44,2024-10-21 00:00:00,2028,86.64,Good,None,Active
+S00916,Quinn,Mitchell,Male,Junior,MAJ009,3.21,2023-10-22 00:00:00,2027,65.87,Good,Partial,Active
+S00917,Casey,Foster,Female,Sophomore,MAJ003,3.13,2024-09-06 00:00:00,2028,97.44,Good,Partial,Active
+S00918,Casey,Ward,Female,Sophomore,MAJ011,2.58,2024-08-12 00:00:00,2028,84.95,Good,None,Graduated
+S00919,Taylor,Turner,Non-Binary,Junior,MAJ021,2.75,2023-09-06 00:00:00,2027,81.84,Good,Full,Active
+S00920,Sam,Ward,Female,Junior,MAJ012,3.07,2023-08-08 00:00:00,2027,88.14,Good,None,Withdrawn
+S00921,Drew,Brooks,Male,Junior,MAJ009,3.08,2023-08-07 00:00:00,2027,87.0,Good,None,Active
+S00922,Riley,Wilson,,Sophomore,MAJ004,2.58,2024-09-18 00:00:00,2028,97.7, Good ,Full,Active
+S00923,Alex,Bennett,Male,Freshman,MAJ011,3.06,2025-08-15 00:00:00,2029,76.25,Good,Full,Active
+S00924,Avery,Reed,Male,Senior,MAJ004,3.1,2022-10-23 00:00:00,2026,88.08,Good,None,Graduated
+S00925,Quinn,Foster,Non-Binary,Senior,MAJ019,3.19,2022-08-26 00:00:00,2026,75.83,Good,None,Graduated
+S00926,Jamie,Carter,Non-Binary,sophomore,MAJ006,3.27,2024-09-02 00:00:00,2028,82.53,Good,None,Active
+S00927,Cameron, Foster ,Female,Sophomore,MAJ019,2.83,2024-09-12 00:00:00,2028,94.92,Good,None,Active
+S00928,Parker,Reed,Female,Junior,MAJ004,3.46,2023-09-07 00:00:00,2027,93.74,Good,None,Active
+S00929,Sam,Carter,Non-Binary,Sophomore,MAJ017,3.72,2024-09-07 00:00:00,2028,79.02,Honors,None,Active
+S00930,Alex,Cooper,Non-Binary,Junior,MAJ002,2.96,2023-09-13 00:00:00,2027,88.8,Good,None,Active
+S00931,Riley,Morgan,Male,Sophomore,MAJ004,3.02,2024-09-12 00:00:00,2028,81.9,Good,None,Active
+S00932,Morgan,Turner,Male, Junior ,MAJ022,2.81,2023-10-14 00:00:00,2027,85.61,Good,Partial,Active
+S00933,Blake,Bennett,Non-Binary,Senior,MAJ007,2.38,2022-09-05 00:00:00,2026,91.49,Academic Warning,Partial,Active
+S00934,Casey,Collins,Non-Binary,Freshman,MAJ008,2.77,2025-09-03 00:00:00,2029,85.02,Good,Full,Active
+S00935,Alex, Bennett ,Non-Binary,Sophomore,MAJ007,3.83,2024-09-14 00:00:00,2028,87.28,Honors,None,Active
+S00936,Blake,Wilson,Female,Junior,MAJ022,2.96,2023-08-27 00:00:00,2027,89.26,Good,None,Active
+S00937,Reese,Brooks,Non-Binary,Freshman,MAJ016,2.76,2025-09-16 00:00:00,2029,90.28,Good,None,Active
+S00938,Alex,Wilson,Male,Freshman,MAJ011,3.28,2025-09-21 00:00:00,2029,88.61,Good,Partial,Active
+S00939,Blake,Brooks,Male,Junior,MAJ003,3.04,2023-08-16 00:00:00,2027,84.28,Good,Full,Active
+S00940,Quinn,Brooks,Male,Freshman,MAJ006,2.42,2025-08-20 00:00:00,2029,85.81,Academic Warning,Partial,Active
+S00941,Reese,Brooks,Non-Binary,Junior,MAJ008,2.46,2023-10-16 00:00:00,2027,100.0,Academic Warning,Full,Active
+S00942,Jamie,Foster,Female,Sophomore,MAJ017,2.81,2024-09-06 00:00:00,2028,84.37,Good,None,Active
+S00943,Jamie,Wilson,Male,Sophomore,MAJ018,3.6,2024-08-02 00:00:00,2028,94.03,Good,None,Active
+S00944,Riley,Morgan,Male,Senior,MAJ014,4.0,2022-09-17 00:00:00,2026,91.21,Honors,Partial,Active
+S00945,Sam,Wilson,Female,Freshman,MAJ009,2.85,2025-10-25 00:00:00,2029,80.52,Good,None,Active
+S00946,Reese,Hayes,Male,Sophomore,MAJ015,3.61,2024-09-22 00:00:00,2028,82.85,Good,Partial,Active
+S00947,Riley,Price,Female,Junior,MAJ007,2.6,2023-08-05 00:00:00,2027,86.11,Good,None,Active
+S00948,Riley,Cooper,Female,Sophomore,MAJ011,3.68,2024-08-07 00:00:00,2028,89.9,Good,None,Active
+S00949,Blake,Reed,Non-Binary,Freshman,MAJ017,3.04,2025-10-27 00:00:00,2029,97.42,Good,Full,Active
+S00950,Jamie,Ward,Female,Junior,MAJ011,3.84,2023-09-15 00:00:00,2027,81.76,Honors,Full,Active
+S00951,Alex,Collins,Male,Freshman,MAJ006,3.71,2025-09-23 00:00:00,2029,83.46,Honors,None,Active
+S00952,Parker,Reed,Male,Senior,MAJ010,3.03,2022-08-23 00:00:00,2026,90.1,Good,None,Active
+S00953,Taylor, Price ,Non-Binary,Freshman,MAJ015,2.61,2025-08-23 00:00:00,2029,80.75,Good,None,Active
+S00954,Jordan,Bennett,Non-Binary,Freshman,MAJ004,2.84,2025-08-03 00:00:00,2029,77.48,Good,None,Active
+S00955,Morgan,Carter,Female,Sophomore,MAJ010,2.91,2024-10-17 00:00:00,2028,82.9,Good,None,Active
+S00956,Alex,Carter,Male,Senior,MAJ023,2.51,2022-10-01 00:00:00,2026,87.53,Good,Partial,Active
+S00957,Morgan,Foster,Female,Senior,MAJ001,3.07,2022-08-22 00:00:00,2026,75.82,Good,None,Active
+S00958,Casey,Foster,Male,Senior,MAJ012,3.74,06/09/2022 00:00,2026,87.99,Honors,Partial,Active
+S00959,Avery,Foster,Female,Junior,MAJ016,3.69,2023-08-27 00:00:00,2027,92.48,Good,None,Active
+S00960,Morgan,Brooks,Female,Freshman,MAJ021,2.93,2025-10-01 00:00:00,2029,84.41,Good,,Active
+S00961,Avery,Price,Non-Binary,Freshman,MAJ015,3.29,2025-09-12 00:00:00,2029,87.38,Good,Partial,Active
+S00962,Jordan,Wilson,Male,Junior,MAJ021,2.05,2023-09-14 00:00:00,2027,83.65,Academic Warning, None ,Active
+S00963,Riley,Carter,Male,Freshman,MAJ008,2.02,2025-08-17 00:00:00,2029,85.93,Academic Warning,None,Active
+S00964,Avery,Turner,Female,Junior,MAJ012,2.82,2023-08-11 00:00:00,2027,94.82,Good,None,Active
+S00965,Jamie,Brooks,Non-Binary,Sophomore,MAJ008,2.18,2024-09-08 00:00:00,2028,97.84,Academic Warning,None,Active
+S00966,Morgan,Price,Female,Senior,MAJ003,,2022-09-22 00:00:00,2026,78.15,Good,None,Active
+S00967,Sam,Carter,Male, Junior ,MAJ001,3.18,2023-09-17 00:00:00,2027,83.29,Good,Partial,Active
+S00968,Cameron,Turner,Non-Binary,Freshman,MAJ005,2.76,2025-08-24 00:00:00,2029,100.0,Good,Full,Graduated
+S00969,Morgan, Mitchell ,Female,Freshman,MAJ022,3.91,2025-10-28 00:00:00,2029,76.94,Honors,Full,Active
+S00970,Jamie,Collins,Male,Senior,MAJ012,2.66,2022-10-25 00:00:00,2026,99.84,Good,None,Active
+S00971,Sam,Bennett,Male,Senior,MAJ019,3.58,2022-09-22 00:00:00,2026,77.7,Good,Partial,Active
+S00972,Casey,Wilson,Male,Sophomore,MAJ011,-0.4,2024-08-04 00:00:00,2028,77.68,Good,None,Active
+S00973,Taylor,Morgan,Female,Junior,MAJ010,3.31,2023-10-02 00:00:00,2027,78.5,Good,Partial,Active
+S00974,Taylor,Bennett,Non-Binary, Freshman ,MAJ015,3.15,2025-10-11 00:00:00,2029,85.89,Good,None,Active
+S00975,Jordan,Hayes,Non-Binary,Freshman,MAJ010,3.61,2025-09-26 00:00:00,2029,89.82,Good,None,Active
+S00976,Avery,Brooks,Non-Binary,Sophomore,MAJ003,3.35,2024-09-26 00:00:00,2028,85.85,Good,Partial, Active 
+S00977,Alex,Bennett,,Senior,MAJ007,2.39,2022-09-15 00:00:00,2026,80.56,Academic Warning,None,Active
+S00978, Alex ,Wilson,Non-Binary,Sophomore,MAJ006,2.43,2024-10-28 00:00:00,2028,88.32,Academic Warning,,Graduated
+S00979,Cameron,Wilson,Male,Freshman,MAJ008,2.69,2025-10-13 00:00:00,2029,89.91,Good,None,Active
+S00980,Sam,Reed,Non-Binary,Junior,MAJ021,3.65,2023-10-19 00:00:00,2027,79.65,Good,None,Active
+S00981,Alex,Bennett,Male,Freshman,MAJ004,2.83,2025-09-19 00:00:00,2029,90.25,Good,Full,Active
+S00982,Casey,Mitchell,Female,Sophomore,MAJ021,3.36,2024-08-19 00:00:00,2028,69.63,Good,None,Active
+S00983,Jamie,Foster,Female,Sophomore,MAJ008,2.08,2024-10-11 00:00:00,2028,79.12,Academic Warning,None,Active
+S00984,Cameron,Mitchell,Female,Senior,MAJ009,3.02,2022-10-08 00:00:00,2026,85.83,Good,None,Active
+S00985,Blake,Turner,Female,Junior,MAJ018,2.6,2023-09-04 00:00:00,2027,77.49,GOOD,None,Active
+S00986,Drew,Hayes,Male,Sophomore,MAJ001,2.94,2024-10-17 00:00:00,2028,82.7,Good,Full,Active
+S00987,Parker,Morgan,Male,Junior,MAJ006,3.11,2023-09-19 00:00:00,2027,95.27,Good,None,Active
+S00988,Jordan,Turner,Non-Binary,Senior,MAJ021,3.51,2022-08-11 00:00:00,2026,96.59,Good,None,Active
+S00989,Taylor,Foster,Male,Junior,MAJ024,2.76,2023-09-14 00:00:00,2027,88.4,Good,None,Active
+S00990,Jordan,Price,Non-Binary,Senior,MAJ020,2.74,2022-08-10 00:00:00,2026,71.97,Good,None,Active
+S00991,Quinn,Parker,Non-Binary,Junior,MAJ022,3.72,2023-10-03 00:00:00,2027,83.8,Honors,Partial,Active
+S00992,Casey,Carter,Non-Binary,Junior, MAJ018 ,3.87,2023-10-16 00:00:00,2027,90.35,Honors,None,Active
+S00993,Reese,Brooks,Non-Binary,Freshman,MAJ020,3.47,2025-09-14 00:00:00,2029,86.11,Good,Partial,Active
+S00994,Casey,Foster,Non-Binary,Sophomore,MAJ024,2.55,2024-09-22 00:00:00,2028,89.29,Good,,Active
+S00995,Jamie,Reed,Female,Freshman,MAJ009,3.75,2025-10-16 00:00:00,2029,94.22,Honors,None,Graduated
+S00996,Drew,Brooks,Non-Binary,Junior,MAJ024,2.7,2023-10-26 00:00:00,2027,73.06,Good,Partial,Active
+S00997,Parker,Turner,Non-Binary,Sophomore,MAJ009,2.35,2024-08-17 00:00:00,2028,93.95,Academic Warning,None,Active
+S00998,Jamie,Hayes,Male,Freshman,MAJ007,3.45,2025-09-14 00:00:00,2029,86.89,Good,None,Active
+S00999,Morgan,Price,Male,Freshman,MAJ007,2.17,2025-09-27 00:00:00,2029,78.38,Academic Warning,None,Active
+S01000,Morgan,Bennett,Female,Junior,MAJ009,2.86,2023-08-05 00:00:00,2027,74.6,Good,None,Active
+S01001,Drew,Collins,Non-Binary,Senior,MAJ009,3.4,2022-09-14 00:00:00,2026,92.97,Good,Partial,Active
+S01002,Taylor,Morgan,Male,Freshman,MAJ021,2.57,2025-09-22 00:00:00,2029,73.93,Good,None,Active
+S01003,Jamie,Collins,Female,Freshman,MAJ001,3.23,2025-08-28 00:00:00,2029,96.63,Good,,Active
+S01004,Jordan,Cooper,Male,Sophomore,MAJ022,3.4,2024-09-22 00:00:00,2028,86.73,Good,Partial,Active
+S01005,Jamie,Price,Female,Senior,MAJ022,2.66,2022-08-04 00:00:00,2026,82.46,Good,None,Active
+S01006,Sam, Price ,Non-Binary,Freshman,MAJ008,3.21,2025-10-09 00:00:00,2029,97.66,Good,None,Active
+S01007,Quinn,Ward,Male,Junior,MAJ012,3.38,2023-09-27 00:00:00,2027,92.09,Good,None,Active
+S01008,Morgan,Cooper,Male,Junior,MAJ009,3.06,2023-08-05 00:00:00,2027,74.63,Good,None,Active
+S01009,Cameron,Brooks,Non-Binary,Sophomore,MAJ018,3.06,2024-08-16 00:00:00,2028,82.74,Good,None,Active
+S01010,Avery,Bennett,Male,Freshman,MAJ004,2.9,2025-10-08 00:00:00,2029,83.67,Good,Full,Active
+S01011,Riley,Collins,Non-Binary,Senior,MAJ014,3.38,2022-09-27 00:00:00,2026,82.79,Good,None,Active
+S01012,Alex,Price,Non-Binary,Senior,MAJ006,3.46,2022-10-26 00:00:00,2026,94.45,Good,Full,Active
+S01013,Morgan,Brooks,,Senior,MAJ016,2.83,2022-09-10 00:00:00,2026,89.76,Good,Partial,Active
+S01014,Sam,Carter,,Senior,MAJ023,2.55,2022-08-28 00:00:00,2026,83.14,Good,None,Active
+S01015,Blake,Cooper,Male,Senior,MAJ021,3.24,2022-09-03 00:00:00,2026,89.01,Good,Full,Active
+S01016,Reese,Cooper,Female,Sophomore,MAJ016,1.8,2024-09-21 00:00:00,2028,88.14,Probation,None,Active
+S01017,Quinn,Morgan,Male,Junior,MAJ016,3.08,2023-08-27 00:00:00,2027,86.74,Good,Partial,Active
+S01018,Blake,Price,Male,Junior,MAJ016,3.48,2023-10-14 00:00:00,2027,68.94,Good,Partial,Active
+S01019,Jamie,Brooks,Non-Binary,Senior,MAJ022,3.04,2022-08-12 00:00:00,2026,84.23,Good,None,Active
+S01020,Riley,Collins,Non-Binary,Junior,MAJ023,3.05,2023-08-25 00:00:00,2027,93.15,Good,None,Active
+S01021,Quinn,Hayes,Female,Junior,MAJ020,3.1,2023-08-13 00:00:00,2027,84.36,Good,,Active
+S01022,Jordan,Wilson,Female,Junior,MAJ014,2.85,2023-10-23 00:00:00,2027,93.78,Good,Full,Active
+S01023,Reese,Foster,Non-Binary,Junior,MAJ019,2.42,2023-09-26 00:00:00,2027,86.94,Academic Warning,FULL,Active
+S01024,Taylor,Brooks,Female,Senior,MAJ020,3.65,2022-10-19 00:00:00,2026,96.35,Good,Partial,Active
+S01025,Cameron,Mitchell,Female,Freshman,MAJ007,3.75,2025-09-13 00:00:00,2029,94.13,Honors, Full ,Graduated
+S01026,Alex,Cooper,Non-Binary,Freshman,MAJ021,3.0,2025-10-20 00:00:00,2029,86.17,Good,Partial,Graduated
+S01027,Morgan,Brooks,Non-Binary,Senior,MAJ016,3.98,2022-08-02 00:00:00,2026,85.13,Honors,None,Active
+S01028,Jordan,Mitchell,Female,Sophomore,MAJ012,3.43,2024-10-04 00:00:00,2028,90.68,good,None,Active
+S01029,Blake,Collins,Non-Binary,Senior,MAJ001,4.0,2022-09-04 00:00:00,2026,89.8,Honors,None,Active
+S01030,Reese,Ward,Male,Senior,MAJ023,2.75,2022-09-24 00:00:00,2026,81.77,Good,None,Active
+S01031,Parker,Parker,Male,Senior,MAJ002,2.34,2022-10-22 00:00:00,2026,78.43,Academic Warning,None,Active
+S01032,Alex,Brooks,Male,Senior,MAJ009,3.62,2022-08-20 00:00:00,2026,84.6,Good,None,Active
+S01033,Sam,Collins,Female,Junior,MAJ017,2.86,2023-08-16 00:00:00,2027,86.26,Good,None,Active
+S01034,Sam,Parker,Non-Binary,Junior,MAJ009,3.88,2023-09-23 00:00:00,2027,80.02,Honors,None,Active
+S01035,Avery,Morgan,Female,Freshman,MAJ022,2.59,2025-09-08 00:00:00,2029,84.02,Good,None,Active
+S01036,Sam,Ward,Non-Binary,Junior,MAJ012,2.16,2023-10-24 00:00:00,2027,91.65,Academic Warning,Partial,Active
+S01037,Cameron,Brooks,Male,Junior,MAJ011,2.72,2023-10-12 00:00:00,2027,83.57,Good,None,Graduated
+S01038,Taylor,Brooks,Female,Freshman,MAJ001,2.66,2025-10-16 00:00:00,2029,69.76,Good,Full,Active
+S01039,Riley,Turner,Non-Binary,Freshman,MAJ005,2.68,2025-09-05 00:00:00,2029,85.96,Good,None,Active
+S01040,Drew,Price,Male,Senior,MAJ006,3.16,2022-10-12 00:00:00,2026,81.84,Good,Full,Active
+S01041,Parker,Price,Male,Senior,MAJ016,2.23,2022-10-11 00:00:00,2026,87.7,Academic Warning,None,Active
+S01042,Drew,Ward,Female,Junior,MAJ010,2.3,2023-10-28 00:00:00,2027,100.0,Academic Warning,Full,Active
+S01043,Morgan,Wilson,Female,Sophomore,MAJ020,2.62,2024-08-06 00:00:00,2028,98.2,Good,None,Active
+S01044,Cameron,Carter,Male,Junior,MAJ019,2.65,2023-08-15 00:00:00,2027,90.89,Good,None,Active
+S01045,Drew,Carter,Non-Binary,Sophomore,MAJ006,2.5,2024-08-04 00:00:00,2028,79.85,,None,Active
+S01046,Reese,Wilson,Non-Binary,Sophomore,MAJ019,3.27,2024-10-27 00:00:00,2028,83.12,Good,None,Graduated
+S01047,Parker, Morgan ,Non-Binary,Junior,MAJ016,3.5,2023-10-06 00:00:00,2027,91.38,Good,None,Active
+S01048,Sam,Carter,Male,Junior,MAJ019,2.54,2023-08-10 00:00:00,2027,88.5,Good,Partial,Active
+S01049,Parker,Cooper,Female,Sophomore,MAJ008,3.47,2024-09-05 00:00:00,2028,82.12,Good,None,Active
+S01050,Drew,Collins,Non-Binary,Junior,MAJ006,3.83,2023-09-20 00:00:00,2027,89.91,Honors,Partial,Active
+S01051,Parker,Collins,Male,Freshman,MAJ020,2.82,2025-10-24 00:00:00,2029,85.26,Good,Full,Active
+S01052,Reese,Morgan,Non-Binary,Freshman,MAJ021,3.42,2025-09-11 00:00:00,2029,75.57,Good,Partial,Active
+S01053,Parker,Bennett,Female,Junior,MAJ016,2.53,2023-09-09 00:00:00,2027,80.54,Good,None,Graduated
+S01054,Jordan,Morgan,Female,Senior,MAJ006,2.16,2022-08-13 00:00:00,2026,80.54,Academic Warning,Partial,Active
+S01055,Sam,Wilson,Female,Junior,MAJ014,3.08,2023-09-16 00:00:00,2027,78.32,Good,Partial,Active
+S01056,Blake,Hayes,Non-Binary,Senior,MAJ013,2.98,2022-08-12 00:00:00,2026,83.2,Good,Partial,Active
+S01057,Drew,Collins,Male,Junior,MAJ016,3.08,2023-09-09 00:00:00,2027,90.71,Good,None,Active
+S01058,Quinn,Mitchell,Non-Binary,Junior,MAJ002,4.0,2023-08-14 00:00:00,2027,85.33,Honors,Partial,Active
+S01059,Drew,Hayes,Female,Junior,MAJ017,2.32,2023-10-22 00:00:00,2027,91.71,Academic Warning,Partial,Graduated
+S01060,Sam,Reed,Female,Junior,MAJ022,2.55,2023-09-15 00:00:00,2027,83.27,Good,None,Graduated
+S01061,Taylor,Wilson,Non-Binary,Sophomore,MAJ013,3.12,2024-09-27 00:00:00,2028,81.05,Good,None,Active
+S01062,Avery,Carter,Female,Junior,MAJ021,2.64,2023-10-04 00:00:00,2027,87.8,Good,None,Active
+S01063,Jamie,Foster,Male,Sophomore,MAJ009,2.83,2024-09-09 00:00:00,2028,89.92,Good,None,Active
+S01064,Jamie,Hayes,Male,Freshman,MAJ001,2.52,2025-08-26 00:00:00,2029,79.59,Good,None,Active
+S01065,Blake,Turner,Male,Freshman,MAJ023,2.01,2025-09-19 00:00:00,2029,82.25,Academic Warning,Partial,Active
+S01066,Quinn,Brooks,Male,sophomore,MAJ012,2.79,2024-08-07 00:00:00,2028,72.02,Good,None,Active
+S01067,Reese,Hayes,Female,Junior,MAJ010,2.66,2023-09-18 00:00:00,2027,96.4,Good,None,Active
+S01068,Sam,Collins,Male,Freshman,MAJ014,2.7,2025-10-13 00:00:00,2029,68.96,Good,Partial,Graduated
+S01069,Drew,Brooks,Non-Binary,Junior,MAJ015,,2023-10-12 00:00:00,2027,91.96,Good,Partial,Graduated
+S01070,Quinn,Brooks,Female,Junior,MAJ012,2.98,2023-08-05 00:00:00,2027,86.03,Good,None,Active
+S01071,Morgan, Price ,Female,Freshman,MAJ014,2.98,2025-08-16 00:00:00,2029,82.58,Good,Partial,Active
+S01072,Sam,Price,Non-Binary,Sophomore,MAJ011,3.78,2024-08-03 00:00:00,2028,75.05,Honors,None,Active
+S01073,Alex,Carter,Female,Sophomore,MAJ001,3.98,2024-08-24 00:00:00,2045,75.54,Honors,Partial,Graduated
+S01074,Reese,Collins,Non-Binary,Sophomore,MAJ017,2.74,2024-08-07 00:00:00,2028,,Good,None,Active
+S01075,Riley,Morgan,,Sophomore,MAJ013,,2024-10-28 00:00:00,2028,94.92,Academic Warning,Partial,Graduated
+S01076,Jamie,Foster,Non-Binary,Senior,MAJ003,3.65,2022-10-18 00:00:00,2026,88.44,Good,Full,Active
+S01077,Avery,Foster,Non-Binary,Sophomore,MAJ020,2.87,2024-10-22 00:00:00,2028,,Good,Full,Active
+S01078,Alex,Reed,Female,Freshman,MAJ014,2.29,2025-09-19 00:00:00,2029,100.0,Academic Warning,None,Active
+S01079,Cameron,Cooper,Male,Senior,MAJ016,2.87,2022-08-16 00:00:00,2026,73.7,Good,Partial,Active
+S01080,Cameron,Morgan,Female,Sophomore,MAJ017,2.63,2024-09-24 00:00:00,2028,100.0,Good,None,Active
+S01081,Morgan,Foster,Non-Binary,Freshman,MAJ022,2.32,2025-09-20 00:00:00,2029,76.58,Academic Warning,Partial,Active
+S01082,Blake,Brooks,Non-Binary,Sophomore,MAJ011,3.93,2024-10-13 00:00:00,2028,84.95,Honors,Full,Active
+S01083,Jamie,Mitchell,Male,Junior,MAJ003,2.83,2023-08-20 00:00:00,2027,82.67,Good,None,Active
+S01084,Drew,Wilson,Female,Freshman,MAJ007,,2025-08-06 00:00:00,2029,80.03,Good,Partial,Active
+S01085,Drew,Brooks,Female,Sophomore,MAJ007,3.59,2024-08-18 00:00:00,2028,87.38,Good,None,Active
+S01086,Riley,Hayes,Female,Senior,MAJ011,2.92,2022-08-27 00:00:00,2026,84.22,Good,Partial,Active
+S01087,Riley,Bennett,Female,Senior,MAJ009,2.77,2022-10-08 00:00:00,2026,107.0,Good,None,Active
+S01088,Riley,Ward,Male,Sophomore,MAJ007,2.93,2024-08-25 00:00:00,2028,89.95,Good,Partial,Active
+S01089,Jamie,Price,Non-Binary,Freshman,MAJ012,2.48,2025-10-22 00:00:00,2029,100.0,Academic Warning,None,Active
+S01090,Quinn,Collins,Female,Senior,MAJ003,3.48,2022-08-26 00:00:00,2026,89.06,Good,Partial,Active
+S01091,Reese,Reed,Female,Senior,MAJ022,2.67,2022-10-04 00:00:00,2026,84.02,Good,None,Active
+S01092,Riley,Wilson,Non-Binary,Freshman,MAJ024,2.19,2025-09-23 00:00:00,2029,92.44,Academic Warning,None,Active
+S01093,Jordan,Wilson,Non-Binary,Junior,MAJ008,3.32,2023-09-11 00:00:00,2027,100.0,Good,Partial,Active
+S01094, Cameron ,Ward,Female,Freshman,MAJ009,2.94,2025-08-27 00:00:00,2029,100.0,Good,Partial,Active
+S01095,Jordan,Brooks,Male,Junior,MAJ009,2.83,2023-10-25 00:00:00,2027,74.01,Good,None,Active
+S01096,Quinn,Ward,Non-Binary,Freshman,MAJ016,2.94,2025-09-26 00:00:00,2029,92.44,Good,None,Active
+S01097,Cameron,Cooper,Male,Sophomore,MAJ023,2.96,2024-10-26 00:00:00,2028,86.32,Good,Partial,Graduated
+S01098,Quinn,Morgan,Non-Binary,Sophomore,MAJ011,2.63,2024-10-03 00:00:00,2028,78.75,Good,None,Active
+S01099,Taylor,Bennett,Female,Senior,MAJ022,3.85,2022-09-25 00:00:00,2026,94.4,Honors,None,Graduated
+S01100,Parker,Morgan,Non-Binary,Freshman,MAJ003,3.78,2025-10-26 00:00:00,2029,93.74,Honors,Partial,Active
+S01101,Cameron,Cooper,Non-Binary,Sophomore,MAJ001,2.69,2024-10-18 00:00:00,2028,77.53,Good,,Active
+S01102, Riley ,Morgan,Male,Sophomore,MAJ008,2.94,2024-10-20 00:00:00,2028,91.07,Good, Full ,Active
+S01103,Morgan,Cooper,Non-Binary,Sophomore,MAJ017,3.45,2024-10-26 00:00:00,2028,98.81,Good,Partial,Active
+S01104,Quinn,Ward,Non-Binary,Sophomore,MAJ003,3.17,2024-09-25 00:00:00,2028,73.84,Good,None,Active
+S01105,Riley,Bennett,Non-Binary,Freshman,MAJ011,3.59,2025-10-24 00:00:00,2029,82.04,Good,Partial,Active
+S01106,Morgan,Carter,Non-Binary,Junior,MAJ010,2.74,2023-10-10 00:00:00,2027,98.42,Good,None,Active
+S01107,Alex,Cooper,Non-Binary,Freshman,MAJ011,3.76,2025-10-09 00:00:00,2029,70.95,Honors,None,Active
+S01108,Avery,Carter,Non-Binary,Junior,MAJ003,3.3,2023-08-27 00:00:00,2027,84.05,Good,None,Active
+S01109,Alex,Ward,Non-Binary,Sophomore,MAJ023,4.0,2024-08-15 00:00:00,2028,82.83,Honors,None,Active
+S01110,Morgan,Ward,Non-Binary,Sophomore,MAJ007,,2024-10-19 00:00:00,2028,75.83,Good,Partial,Graduated
+S01111,Reese, Foster ,Female,Junior,MAJ012,2.88,2023-09-10 00:00:00,2027,96.04,Good,None,Active
+S01112,Sam,Wilson,Non-Binary,Junior,MAJ021,4.0,2023-09-17 00:00:00,2027,98.29,Honors,Partial,Active
+S01113,Morgan,Price,Male,Junior,MAJ003,2.95,2023-09-04 00:00:00,2027,89.68,good,,Active
+S01114,Jordan,Morgan,Male,Sophomore,MAJ014,2.97,2024-08-16 00:00:00,2028,84.69,Good,None,Active
+S01115,Cameron,Foster,Non-Binary,Junior,MAJ016,3.92,2023-10-25 00:00:00,2027,92.04,Honors,None,Active
+S01116,Cameron,Collins,Non-Binary,Sophomore,MAJ019,2.38,2024-09-24 00:00:00,2028,95.79,Academic Warning,Full,Active
+S01117,Taylor,Collins,Non-Binary,Freshman,MAJ017,2.83,2025-09-05 00:00:00,2029,82.49,Good,Full,Active
+S01118,Jamie,Parker,Male,Junior,MAJ018,2.91,2023-09-02 00:00:00,2027,94.58,Good,Partial,Graduated
+S01119,Jordan,Foster,Male,Sophomore, MAJ024 ,2.73,2024-08-04 00:00:00,2028,80.43,Good,None,Active
+S01120,Jordan,Mitchell,Male,Junior,MAJ024,2.43,2023-09-10 00:00:00,2027,77.14,Academic Warning,None,Active
+S01121,Quinn,Foster,Male,Freshman,MAJ009,2.99,2025-08-10 00:00:00,2029,88.84,Good,Full,Active
+S01122,Drew,Morgan,Female,Senior,MAJ011,2.52,2022-10-12 00:00:00,2026,79.68,Good,None,Active
+S01123,Casey,Foster,Male,Sophomore,MAJ009,2.76,2024-09-26 00:00:00,2028,78.58, Good ,None,Active
+S01124,Taylor,Ward,Female,Senior,MAJ024,2.42,2022-10-21 00:00:00,2026,91.21,Academic Warning,None,Active
+S01125,Reese,Turner,Male,Sophomore,MAJ023,3.22,2024-08-26 00:00:00,2028,88.94,Good,Partial,Active
+S01126,Blake,Bennett,Male,Sophomore,MAJ018,3.75,2024-10-02 00:00:00,2028,88.87,Honors,Full,Graduated
+S01127,Sam,Carter,Female,Junior,MAJ002,3.19,2023-10-01 00:00:00,2027,94.98,Good,,Active
+S01128,Avery,Hayes,Female,Junior,MAJ008,2.89,2023-10-18 00:00:00,2027,94.52,Good,None,Graduated
+S01129,Quinn,Morgan,Non-Binary,Junior,MAJ022,3.77,2023-10-07 00:00:00,2027,78.77,Honors,Partial,Active
+S01130,Sam,Cooper,Non-Binary,Freshman,MAJ003,3.3,2025-08-01 00:00:00,2029,87.66,Good,None,Active
+S01131,Reese,Cooper,Non-Binary,Senior,MAJ007,2.65,2022-09-03 00:00:00,2026,82.48,Good,Partial,Active
+S01132,Alex,Collins,Female,Sophomore,MAJ007,2.95,2024-09-14 00:00:00,2028,84.66,Good,None,Active
+S01133,Cameron,Brooks,Female,Junior,MAJ007,3.07,2023-08-04 00:00:00,2027,87.55,Good,None,Active
+S01134, Quinn ,Carter,Female,Freshman,MAJ014,2.72,2025-09-14 00:00:00,2029,82.66,Good,Partial,Active
+S01135,Taylor,Morgan,Non-Binary,Senior,MAJ021,3.4,2022-08-10 00:00:00,2026,85.27,Good,None,Active
+S01136,Riley,Brooks,Male,Sophomore,MAJ010,3.6,2024-08-02 00:00:00,2028,100.0,Good,None,Active
+S01137,Drew,Reed,Non-Binary,Junior,MAJ001,2.22,2023-09-04 00:00:00,2027,76.29,Academic Warning,,Active
+S01138,Jordan,Collins,Female,Junior,MAJ020,3.29,2023-09-21 00:00:00,2027,82.13,Good,None,Graduated
+S01139,Parker,Hayes,Female,Sophomore,MAJ007,2.83,2024-08-25 00:00:00,2028,88.0,Good,None,Active
+S01140,Cameron,Collins,Female,Sophomore,MAJ006,3.12,2024-10-17 00:00:00,2028,96.97,Good,None,Graduated
+S01141,Taylor,Ward,Female,Sophomore,MAJ003,2.43,2024-10-14 00:00:00,2028,79.64,Academic Warning,Full,Active
+S01142,Reese,Collins,Non-Binary,Freshman,MAJ019,3.7,2025-09-21 00:00:00,2029,80.39,Honors,Full,Active
+S01143,Drew,Brooks,Non-Binary,Senior,MAJ006,4.0,2022-09-27 00:00:00,2026,82.05,Honors,Partial,Withdrawn
+S01144,Morgan,Foster,Non-Binary,Senior,MAJ020,2.6,2022-09-02 00:00:00,2026,100.0,Good,None,Active
+S01145,Jordan,Bennett,Non-Binary,Freshman,MAJ013,2.46,2025-08-27 00:00:00,2029,90.07,Academic Warning,None,Active
+S01146,Cameron,Parker,Non-Binary,Sophomore,MAJ003,2.91,2024-10-26 00:00:00,2028,85.74,Good,None,Active
+S01147,Casey,Ward,Non-Binary,Sophomore,MAJ024,3.2,2024-09-09 00:00:00,2028,82.29,Good,None,Withdrawn
+S01148,Drew,Foster,Male,Sophomore,MAJ008,2.78,2024-08-23 00:00:00,2028,95.81,Good,None,Graduated
+S01149,Alex,Cooper,Female,JUNIOR,MAJ013,2.52,2023-10-06 00:00:00,2027,73.31,Good,None,Graduated
+S01150,Quinn,Bennett,Non-Binary,Junior,MAJ011,2.73,2023-08-26 00:00:00,2027,86.35,Good,Partial,Active
+S01151,Blake,Price,Non-Binary,Junior,MAJ021,2.43,2023-09-22 00:00:00,2027,70.22,Academic Warning,None,Graduated
+S01152,Parker,Mitchell,Male,Sophomore,MAJ002,4.0,2024-08-27 00:00:00,2028,78.84,Honors,Partial,Active
+S01153,Drew,Mitchell,Female,Freshman,MAJ024,2.96,2025-09-01 00:00:00,2029,96.02,Good,None,Active
+S01154,Blake,Turner,Male,Sophomore,MAJ008,3.67,2024-08-03 00:00:00,2028,87.52,Good,Partial,Active
+S01155,Morgan,Parker,Male,Senior,MAJ019,4.0,2022-09-02 00:00:00,2026,85.1,Honors,None,Graduated
+S01156,Morgan,Morgan,Female,Junior,MAJ010,2.23,2023-10-13 00:00:00,2027,92.01,Academic Warning,None,Active
+S01157,Taylor,Reed,Female,Junior,MAJ024,2.44,2023-10-24 00:00:00,2027,100.0,Academic Warning,None,Active
+S01158,Jordan,Foster,Female,Junior,MAJ006,2.37,2023-10-03 00:00:00,2027,69.84,Academic Warning,None,Graduated
+S01159,Blake,Reed,,Senior,MAJ011,1.96,2022-09-07 00:00:00,2026,86.4,Probation,Partial,Active
+S01160,Sam,Reed,Non-Binary,Senior,MAJ023,3.12,2022-09-22 00:00:00,2026,80.53,Good,None,Active
+S01161,Sam,Hayes,Non-Binary,Senior,MAJ019,2.24,2022-08-28 00:00:00,2026,85.39,Academic Warning,Full,Active
+S01162,Casey,Carter,Non-Binary,Senior,MAJ011,3.17,2022-10-15 00:00:00,2026,80.09,Good,None,Active
+S01163,Jamie,Parker,Female,Freshman,MAJ021,2.53,2025-09-14 00:00:00,2029,82.0,Good,None,Active
+S01164,Riley,Carter,Non-Binary,Sophomore,MAJ012,2.64,2024-08-24 00:00:00,2028,65.81,Good,None,Active
+S01165,Blake,Parker,Female,Senior,MAJ020,2.98,2022-08-11 00:00:00,2026,86.76,Good,None,Active
+S01166,Drew,Bennett,Female,Freshman,MAJ017,3.91,2025-10-26 00:00:00,2029,92.53,Honors,Partial,Active
+S01167,Jordan, Collins ,Female,Sophomore, MAJ024 ,2.47,2024-09-27 00:00:00,2028,89.83,Academic Warning,None,Active
+S01168,Jordan,Ward,Non-Binary,Senior, MAJ007 ,3.62,2022-10-15 00:00:00,2026,80.19,Good,Partial,Active
+S01169,Jordan,Morgan,Female,Junior,MAJ006,3.2,2023-09-11 00:00:00,2027,94.8,Good,Full,Active
+S01170,Alex,Cooper,Male,Senior,MAJ015,3.38,2022-08-10 00:00:00,2026,100.0,Good,Partial,Active
+S01171,Alex,Reed,Female,Freshman,MAJ014,3.15,2025-09-28 00:00:00,2029,98.8,Good,None,Active
+S01172,Morgan,Price,Non-Binary,Junior,MAJ006,3.19,2023-10-20 00:00:00,2027,82.45,Good,None,Active
+S01173,Blake,Foster,Non-Binary,Senior,MAJ003,2.87,2022-08-11 00:00:00,2026,100.0,Good,Partial,Active
+S01174,Avery,Mitchell,Non-Binary,Freshman,MAJ007,2.49,2025-08-04 00:00:00,2029,90.39,Academic Warning,None,Active
+S01175,Quinn,Price,Female,Freshman,MAJ002,3.46,2025-10-05 00:00:00,2029,77.62,Good,Partial,Active
+S01176,Jamie,Foster,Male,Sophomore,MAJ009,2.88,2024-08-08 00:00:00,2028,75.08,Good,None,Active
+S01177,Parker,Bennett,Non-Binary,Freshman,MAJ007,2.85,2025-10-25 00:00:00,2029,88.32,,None,Active
+S01178,Taylor,Wilson,Male,Junior,MAJ015,2.85,2023-09-20 00:00:00,2027,100.0,Good,None,Active
+S01179,Parker,Hayes,Non-Binary,Freshman,MAJ014,2.94,2025-08-02 00:00:00,2029,92.88,Good,None,Active
+S01180,Alex,Bennett,Male,Junior,MAJ009,3.5,2023-08-07 00:00:00,2027,80.72,Good,Partial,Active
+S01181,Morgan,Hayes,Male,Freshman,MAJ008,2.78,2025-10-23 00:00:00,2029,93.19,Good,Full,Active
+S01182,Parker,Foster,,Sophomore,MAJ022,3.95,2024-10-10 00:00:00,2028,69.04,Honors,None,Active
+S01183,Quinn,Cooper,Female,Sophomore,MAJ008,2.23,2024-09-08 00:00:00,2028,,,Full,Active
+S01184,Drew,Foster,Female,Junior,MAJ019,3.02,2023-08-16 00:00:00,2027,96.77,Good,Partial,Graduated
+S01185,Jamie,Bennett,Female,Sophomore,MAJ001,3.93,06-09-2024 00:00,2028,80.55,Honors,Partial,Active
+S01186,Riley,Morgan,Non-Binary,Freshman,MAJ006,1.97,2025-08-05 00:00:00,2029,78.84,Probation,None,Active
+S01187,Quinn,Mitchell,Female,Junior,MAJ010,3.38,08/07/2023 00:00,2027,87.14,Good,None,Active
+S01188,Jamie,Wilson,Male,Senior,MAJ024,2.46,2022-10-08 00:00:00,2026,100.0,Academic Warning,None,Active
+S01189,Blake,Carter,Female,Senior,MAJ007,2.26,2022-10-05 00:00:00,2026,82.77,Academic Warning,None,Active
+S01190,Blake,Parker,Male,Freshman,MAJ008,,2025-09-08 00:00:00,2029,79.93,Good,None,Active
+S01191,Avery,Ward,Non-Binary,Freshman,MAJ021,2.86,2025-09-23 00:00:00,2029,85.96,Good,None,Active
+S01192,Quinn,Parker,Female,Senior,MAJ022,3.68,2022-10-13 00:00:00,2026,76.13,Good,Partial,Active
+S01193,Sam,Parker,Female,Sophomore,MAJ002,3.76,2024-10-19 00:00:00,2028,78.12,Honors,None,Active
+S01194,Riley,Parker,Female,Senior, MAJ009 ,2.84,2022-10-26 00:00:00,2026,90.49,Good,None,Active
+S01195,Parker,Cooper,Male,Junior,MAJ012,3.46,2023-08-24 00:00:00,2027,82.04,Good,None,Active
+S01196,Jordan,Wilson,Non-Binary,Junior,MAJ021,2.62,2023-09-25 00:00:00,2027,82.21,Good,Full,Active
+S01197,Avery,Collins,Female,Sophomore,MAJ021,2.67,2024-09-23 00:00:00,2028,86.19,Good,None,Active
+S01198,Drew,Collins,Male,Junior,MAJ023,2.35,2023-10-13 00:00:00,2027,86.64,Academic Warning,Partial,Active
+S01199,Morgan,Parker,Female,Junior,MAJ018,3.6,2023-09-28 00:00:00,2027,93.45,Good,None,Active
+S01200,Cameron,Foster,Female,Sophomore,MAJ001,3.05,2024-09-09 00:00:00,2028,94.37,Good,None,Active
+S01201,Drew,Reed,Male,Freshman, MAJ021 ,3.35,2025-08-19 00:00:00,2029,76.69,Good,None,Active
+S01202,Drew,Collins,Male,Sophomore,MAJ002,2.98,2024-09-12 00:00:00,2028,94.59,Good,Partial,Active
+S01203,Taylor,Collins,Female,Sophomore,MAJ003,3.34,2024-09-21 00:00:00,2028,76.51,Good,None,Graduated
+S01204,Avery,Reed,Non-Binary,Sophomore,MAJ001,3.46,03-10-2024 00:00,2028,72.15, Good ,Partial,Graduated
+S01205,Jordan,Mitchell,Female,Freshman,MAJ017,3.24,2025-10-07 00:00:00,2029,95.42,Good,None,Active
+S01206,Jamie,Price,Non-Binary,Sophomore,MAJ013,3.54,2024-09-07 00:00:00,2028,95.22,Good,Partial,Withdrawn
+S01207,Quinn,Turner,Non-Binary,Senior,MAJ004,2.86,2022-10-09 00:00:00,2026,82.83,Good,None,Active
+S01208,Quinn,Bennett,Male,Senior,MAJ003,3.91,10/25/2022 00:00,2026,81.19,Honors,Partial,Active
+S01209,Quinn,Wilson,Male,Junior,MAJ020,2.9,2023-08-08 00:00:00,2027,88.05,Good,Partial,Active
+S01210,Parker,Ward,Non-Binary,Freshman,MAJ004,2.92,2025-09-24 00:00:00,2029,89.59,Good,Partial,Active
+S01211,Reese,Parker,Male,Freshman,MAJ003,2.23,2025-10-14 00:00:00,2029,91.25,Academic Warning,None,Active
+S01212,Riley,Wilson,Non-Binary,Junior,MAJ013,2.98,2023-08-10 00:00:00,2027,80.44,Good,Full,Active
+S01213,Reese,Mitchell,Male,Senior,MAJ008,3.56,2022-08-14 00:00:00,2026,84.16,Good,None,Active
+S01214,Jamie,Reed,Male,Junior,MAJ014,2.78,2023-09-19 00:00:00,2027,75.53,Good,None,Active
+S01215,Taylor,Mitchell,Non-Binary,Senior,MAJ014,3.48,2022-10-26 00:00:00,2026,90.4,Good, Partial ,Active
+S01216,Cameron,Parker,Male,Senior,MAJ007,3.61,2022-08-18 00:00:00,2026,86.85,Good,None,Active
+S01217,Drew,Hayes,Male,Sophomore,MAJ021,3.66,2024-08-06 00:00:00,2028,69.04,Good,None,Active
+S01218,Jamie,Foster,Male,Freshman,MAJ023,2.44,2025-08-06 00:00:00,2029,93.35,Academic Warning,None,Graduated
+S01219,Morgan,Parker,Male,Sophomore,MAJ011,2.12,2024-10-17 00:00:00,2028,89.45,Academic Warning,None,Active
+S01220,Taylor,Mitchell,Male,Junior,MAJ024,2.37,2023-09-06 00:00:00,2027,87.84,Academic Warning,Full,Active
+S01221,Jamie,Carter,Male,Sophomore,MAJ023,2.75,2024/08/05 00:00:00,2028,96.68,Good,Partial,Active
+S01222,Sam,Collins,Female,Senior,MAJ001,3.72,19-10-2022 00:00,2026,91.42,Honors,Full,Active
+S01223,Sam,Collins,Male,Junior,MAJ010,2.69,2023-08-01 00:00:00,2027,90.38,Good,Full,Active
+S01224,Parker,Ward,Female,Senior,MAJ007,3.7,2022-10-11 00:00:00,2026,88.74,Honors,Full,Active
+S01225,Parker,Morgan,Non-Binary,Sophomore,MAJ020,2.69,2024-08-10 00:00:00,2028,83.57,Good,Partial,Graduated
+S01226,Reese,Turner,Male,Sophomore,MAJ022,2.79,2024-09-20 00:00:00,2028,100.0,Good,Partial,Active
+S01227,Taylor,Cooper,Non-Binary,Sophomore,MAJ015,3.25,2024-10-14 00:00:00,2028,78.1,Good,None,Graduated
+S01228,Parker,Carter,Male,Freshman,MAJ017,3.21,2025-10-02 00:00:00,2029,76.82,Good,None,Active
+S01229,Sam,Reed,Male,Sophomore,MAJ010,4.0,2024-10-03 00:00:00,2028,90.03,Honors,Partial,Active
+S01230,Drew,Bennett,Non-Binary,Freshman,MAJ017,3.4,2025-08-12 00:00:00,2029,78.56,Good,None, Active 
+S01231,Riley,Bennett,Male,Junior,MAJ018,3.12,2023-08-09 00:00:00,2027,77.47,Good,None,Active
+S01232,Sam,Turner,Non-Binary,Freshman,MAJ021,3.29,2025-10-15 00:00:00,2029,85.57,Good,None,Active
+S01233,Cameron,Morgan,Female,Senior,MAJ023,3.08,2022-09-04 00:00:00,2026,83.78,Good,Partial,Active
+S01234,Drew,Collins,Male,Junior,MAJ015,2.22,2023-08-03 00:00:00,2027,85.32,Academic Warning,None,Active
+S01235,Taylor,Collins,Male,Senior,MAJ015,3.42,2022-08-06 00:00:00,2026,98.78,Good,Partial,Active
+S01236,Jordan,Reed,Non-Binary,Freshman,MAJ022,2.67,2025-09-06 00:00:00,2029,84.71,Good,None,Active
+S01237,Taylor,Collins,Male,Junior,MAJ012,3.15,2023-08-07 00:00:00,2027,81.15,Good,Partial,Graduated
+S01238,Drew,Turner,Female,Junior,MAJ015,3.73,2023-10-26 00:00:00,2027,74.35,Honors,None,Active
+S01239,Jordan,Bennett,Non-Binary,Junior,MAJ019,2.97,2023-09-15 00:00:00,2027,89.41,Good,None,Active
+S01240,Quinn,Parker,Female,Senior,MAJ009,3.2,2022-09-08 00:00:00,2026,85.63,Good,None,Active
+S01241,Alex,Mitchell,Female,Freshman,MAJ003,2.82,2025-10-22 00:00:00,2029,84.85,Good,None,Graduated
+S01242,Reese,Price,Non-Binary,Freshman,MAJ022,3.26,2025-08-24 00:00:00,2029,87.74,Good,None,Active
+S01243,Riley,Mitchell,Non-Binary,Freshman,MAJ024,3.29,2025-10-07 00:00:00,2029,86.65, Good ,Partial,Graduated
+S01244,Cameron,Carter,Female,Sophomore,MAJ008,3.21,2024-08-04 00:00:00,2028,98.38,Good,None,Active
+S01245,Riley,Morgan,Male,Sophomore,MAJ014,4.0,2024-08-15 00:00:00,2028,76.36,Honors,None,Active
+S01246,Parker,Mitchell,Female,Sophomore,MAJ002,2.26,2024-08-07 00:00:00,2028,85.47,Academic Warning,None,Active
+S01247,Jordan,Turner,Non-Binary,Sophomore,MAJ002,3.76,2024-10-06 00:00:00,2028,84.47,Honors,None,Active
+S01248,Sam,Turner,Male,Sophomore,MAJ004,2.68,2024-10-25 00:00:00,2028,80.6, Good ,Partial,Active
+S01249,Blake,Turner,Male,Junior,MAJ010,2.83,2023-10-16 00:00:00,2027,98.0,Good,None,Active
+S01250,Drew,Bennett,Non-Binary,Senior,MAJ009,2.17,2022-10-24 00:00:00,2026,80.81,Academic Warning,None,Active
+S01251,Morgan,Morgan,Non-Binary,Senior,MAJ020,3.85,2022-08-10 00:00:00,2026,85.59,Honors,None,Active
+S01252,Jordan,Morgan,Female,Freshman,MAJ004,3.23,2025-09-16 00:00:00,2029,87.5,Good,None,Active
+S01253,Alex,Parker,Non-Binary,Freshman,MAJ019,2.44,2025-10-15 00:00:00,2029,70.26,Academic Warning,,Active
+S01254,Sam,Ward,Female,Sophomore,MAJ008,2.82,2024-10-26 00:00:00,2028,96.16,Good,Full,Active
+S01255,Alex,Parker,Non-Binary,Sophomore,MAJ001,3.48,2024-09-11 00:00:00,2028,87.27,Good,None,Active
+S01256,Sam,Parker,Non-Binary,Senior,MAJ012,3.12,2022-10-24 00:00:00,2026,77.58,Good,None,Active
+S01257,Taylor,Collins,Non-Binary,Junior,MAJ011,2.98,2023-08-03 00:00:00,2027,78.95,Good,Partial,Active
+S01258,Sam,Wilson,Female,Freshman,MAJ008,3.77,2025-08-03 00:00:00,2029,79.86,Honors,None,Active
+S01259,Morgan,Parker,Non-Binary,Senior,MAJ002,3.22,2022-08-14 00:00:00,2026,89.06,Good,Partial,Active
+S01260,Morgan,Bennett,Female,Junior,MAJ018,3.32,2023-10-08 00:00:00,2027,90.72,Good,None,Active
+S01261,Morgan,Brooks,Male,Senior,MAJ020,3.85,08/12/2022 00:00,2026,94.89,Honors,None,Active
+S01262,Avery,Foster,Non-Binary,Sophomore,MAJ004,3.16,2024-09-25 00:00:00,2028,86.31,Good,None,Graduated
+S01263,Quinn,Bennett,Male,Sophomore,MAJ017,4.0,2024-08-25 00:00:00,2028,78.59,Honors,Full,Active
+S01264,Avery,Turner,Female,Junior,MAJ004,3.03,2023-09-13 00:00:00,2027,85.26,Good,None,Active
+S01265,Parker,Collins,Female,Sophomore,MAJ002,2.04,2024-09-05 00:00:00,2028,77.03,Academic Warning,Partial,Active
+S01266,Alex,Morgan,Non-Binary,Senior,MAJ003,4.0,2022-10-24 00:00:00,2026,96.36,Honors,None,Active
+S01267,Cameron,Turner,Male,Sophomore,MAJ022,2.37,2024-09-16 00:00:00,2028,76.44,Academic Warning,None,Withdrawn
+S01268,Blake,Morgan,Female,Freshman,MAJ001,4.0,2025-09-19 00:00:00,2029,75.25,Honors,None,Active
+S01269,Quinn,Cooper,Non-Binary,Senior,MAJ006,2.13,2022-09-17 00:00:00,2026,78.81,Academic Warning,Partial,Active
+S01270,Alex,Hayes,Male,Sophomore,MAJ012,2.68,2024-09-24 00:00:00,2028,80.14, Good ,None,Active
+S01271,Riley,Hayes,Non-Binary,senior,MAJ013,3.08,2022-10-01 00:00:00,2026,91.83,Good,Partial,Active
+S01272,Drew,Hayes,Female,Sophomore,MAJ016,2.69,2024-09-08 00:00:00,2028,99.94,GOOD,Partial,Graduated
+S01273,Alex,Carter,Female,Senior,MAJ019,2.62,23-10-2022 00:00,2026,95.84,Good,Full,Active
+S01274,Blake,Carter,Non-Binary,Junior,MAJ010,3.76,2023-08-14 00:00:00,2027,79.75,Honors,None,Active
+S01275,Avery,Reed,Non-Binary,Junior,MAJ001,3.16,2023-09-19 00:00:00,2027,99.36,Good,None,Active
+S01276,Jamie,Price,Female,Senior,MAJ009,2.27,2022-08-21 00:00:00,2026,83.64,Academic Warning,None,Active
+S01277,Casey,Turner,Female,Senior,MAJ007,3.75,2022-10-13 00:00:00,2026,88.57,Honors,Partial,Active
+S01278,Drew,Morgan,Female,Freshman,MAJ015,2.5,2025-08-25 00:00:00,2029,65.13,Academic Warning,Partial,Active
+S01279,Jamie,Bennett,Female,Junior,MAJ014,3.75,2023-08-12 00:00:00,2027,94.86,Honors,None,Active
+S01280,Avery,Carter,Male,Sophomore,MAJ009,2.89,2024-10-27 00:00:00,2028,80.61,Good,NONE,Active
+S01281,Quinn,Ward,Female,Junior,MAJ019,3.37,2023-09-28 00:00:00,2027,81.12,Good,None,Active
+S01282,Reese,Hayes,Female,Junior,MAJ024,2.93,2023-08-10 00:00:00,2027,94.51,Good,None,Active
+S01283,Alex,Foster,Female,Freshman,MAJ013,2.91,2025-09-16 00:00:00,2029,73.93,Good,Partial,Active
+S01284,Quinn,Morgan,Non-Binary,Freshman,MAJ006,3.25,2025-10-26 00:00:00,2029,76.2,Good,Full,Active
+S01285,Alex,Bennett,Non-Binary,Junior,MAJ003,3.56,2023-10-25 00:00:00,2027,88.58,Good,None,Active
+S01286,Parker,Bennett,Male,Junior,MAJ008,3.01,2023-09-22 00:00:00,2027,84.14,Good,Full,Withdrawn
+S01287,Riley,Hayes,Male,Senior,MAJ009,3.39,2022-09-20 00:00:00,2026,93.01,Good, None ,Active
+S01288,Jordan,Morgan,Male,Sophomore,MAJ015,3.09,2024-10-13 00:00:00,2028,82.11,Good,Partial,Graduated
+S01289,Parker,Carter,Non-Binary,Freshman,MAJ011,3.33,2025-09-23 00:00:00,2029,82.41,Good,,Active
+S01290,Sam,Hayes,Male,Sophomore,MAJ013,2.51,2024-10-14 00:00:00,2028,69.31,Good,Partial,Active
+S01291,Reese,Mitchell,Female,Junior,MAJ005,2.98,2023-10-12 00:00:00,2027,82.79,Good,Partial,Graduated
+S01292,Sam,Collins,Female,Junior,MAJ005,2.77,2023-10-16 00:00:00,2027,92.93,Good,None,Active
+S01293,Cameron,Cooper,Male,Freshman,MAJ015,3.09,2025-10-28 00:00:00,2029,83.23,Good,Partial, Active 
+S01294,Parker,Parker,Non-Binary,Sophomore,MAJ017,3.93,2024-08-28 00:00:00,2028,81.96,Honors,None,Active
+S01295,Avery,Morgan,Female,Senior,MAJ003,2.67,2022-09-26 00:00:00,2026,92.38,Good,None,Active
+S01296, Reese ,Collins,Female,Senior,MAJ001,2.32,2022-09-04 00:00:00,2026,96.56,Academic Warning,None,Active
+S01297,Taylor,Ward,Non-Binary,Freshman,MAJ013,3.21,2025-10-03 00:00:00,2029,84.36,Good,None,Withdrawn
+S01298, Blake ,Cooper,Male,Freshman,MAJ014,3.28,2025-09-25 00:00:00,2029,80.86,Good,None,Active
+S01299,Blake,Hayes,Female,Junior,MAJ001,3.08,2023-10-05 00:00:00,2027,,Good,Full,Active
+S01300,Quinn,Turner,Male,Sophomore,MAJ001,2.13,2024-08-19 00:00:00,2028,79.52,Academic Warning,Partial,Active
+S01301,Cameron,Cooper,Non-Binary,Junior,MAJ004,2.96,2023-10-24 00:00:00,2027,77.21,Good,Partial,Active
+S01302,Reese,Bennett,Female,Senior,MAJ016,2.34,2022-08-09 00:00:00,2026,85.3,Academic Warning,None,Active
+S01303,Jamie,Foster,Female,Freshman,MAJ015,3.18,2025-10-04 00:00:00,2029,78.75,Good,None,Active
+S01304,Cameron,Foster,Non-Binary,Sophomore,MAJ018,3.54,2024-08-10 00:00:00,2028,82.89, Good ,None,Active
+S01305,Cameron,Mitchell,Male,Senior,MAJ020,3.9,2022-10-26 00:00:00,2026,65.66,Honors,None,Active
+S01306,Jordan,Bennett,Female,Junior,MAJ010,3.13,2023-10-28 00:00:00,2027,97.05,Good,None,Active
+S01307,Reese,Parker,Male,Senior,MAJ009,3.49,2022-10-15 00:00:00,2026,90.03,Good,None,Active
+S01308,Reese,Ward,Non-Binary,Junior,MAJ023,,2023-08-20 00:00:00,2027,95.66,Good,None,Active
+S01309,Casey,Price,Non-Binary,Junior,MAJ018,2.69,2023-10-16 00:00:00,2027,75.22,Good,Partial,Active
+S01310,Cameron,Morgan,Male,Sophomore,MAJ018,3.17,2024-08-27 00:00:00,2028,84.1,Good,Partial,Active
+S01311,Morgan,Turner,Non-Binary,Senior,MAJ015,3.49,2022-08-28 00:00:00,2026,89.57,Good,Partial,Active
+S01312,Casey,Price,Non-Binary,Junior,MAJ006,2.95,2023-08-01 00:00:00,2027,70.16,Good,None,Active
+S01313,Riley,Ward,Male, Junior ,MAJ013,2.65,2023-09-03 00:00:00,2027,89.84,Good,None,Active
+S01314,Morgan,Turner,,Junior, MAJ014 ,3.19,2023-09-04 00:00:00,2027,80.46,Good,None,Active
+S01315,Quinn,Morgan,Non-Binary,Junior,MAJ020,4.0,2023-09-15 00:00:00,2027,87.67,Honors,Partial,Active
+S01316,Drew,Brooks,Female,Sophomore,MAJ013,2.09,2024-08-07 00:00:00,2028,76.7,,Partial,Active
+S01317,Riley,Turner,Non-Binary,Junior,MAJ021,3.02,22/08/2023 00:00,2027,100.0,Good,Partial,Active
+S01318,Cameron,Hayes,Female,Sophomore,MAJ014,2.3,2024-08-04 00:00:00,2028,79.45,Academic Warning,None,Active
+S01319,Jordan,Reed,Non-Binary,Senior,MAJ019,2.61,2022-09-19 00:00:00,2026,100.0,Good,None,Active
+S01320,Morgan,Morgan,Female,Junior,MAJ015,2.64,2023-08-13 00:00:00,2027,85.39,Good,NONE,Active
+S01321,Sam,Turner,Male,Senior,MAJ002,3.27,2022-10-26 00:00:00,2026,,Good,Partial,Active
+S01322,Reese,Hayes,Male,Sophomore,MAJ006,3.09,2024-09-21 00:00:00,2028,95.02,Good,Partial,Active
+S01323,Jordan,Carter,Male,Freshman,MAJ022,2.8,2025-10-22 00:00:00,2029,92.29,Good,Full,Active
+S01324,Parker,Collins,Male,Junior,MAJ005,2.13,2023-10-24 00:00:00,2027,83.98,Academic Warning,None,Active
+S01325,Sam,Turner,Male,Sophomore,MAJ017,2.68,2024-09-19 00:00:00,2018,80.59,Good,None,Active
+S01326,Reese,Ward,Non-Binary,Junior, MAJ011 ,3.41,2023-08-13 00:00:00,2027,100.0,Good,Partial,Active
+S01327,Avery,Ward,Non-Binary,Junior,MAJ001,3.47,2023-09-03 00:00:00,2027,87.43,Good,None,Active
+S01328,Quinn,Hayes,Female,Junior,MAJ015,3.61,2023-08-22 00:00:00,2027,85.81, Good ,Full,Active
+S01329,Taylor,Morgan,Non-Binary,Junior,MAJ013,4.0,26/09/2023 00:00,2027,100.0,Honors,None,Active
+S01330,Sam,Wilson,Female,Junior,MAJ006,3.2,2023-10-09 00:00:00,2027,90.0,Good,Partial,Active
+S01331,Avery,Brooks,Male,Senior,MAJ020,3.04,2022-10-06 00:00:00,2026,76.38,Good,None,Graduated
+S01332,Casey,Morgan,Non-Binary,Freshman,MAJ008,3.15,22-09-2025 00:00,2029,85.46,Good,None,Active
+S01333,Riley,Reed,Male,Sophomore,MAJ013,3.55,2024-10-18 00:00:00,2028,80.67,Good,None,Active
+S01334,Alex,Parker,Female,Junior,MAJ020,2.88,2023-08-05 00:00:00,2027,75.37,Good,None,Active
+S01335,Parker,Reed,Female,Senior,MAJ015,2.2,2022-10-12 00:00:00,2026,88.7,Academic Warning,None,Active
+S01336,Avery,Brooks,Male,Sophomore,MAJ006,4.0,2024-09-21 00:00:00,2028,90.42,Honors,Full,Active
+S01337,Casey,Hayes,Male,Freshman,MAJ023,2.27,2025-10-05 00:00:00,2029,100.0,Academic Warning,None,Active
+S01338,Sam,Turner,Non-Binary,Junior,MAJ014,3.29,2023-08-23 00:00:00,2027,89.38,Good, None ,Active
+S01339,Parker,Wilson,Male,Senior,MAJ005,3.4,2022-08-11 00:00:00,2026,85.19,Good,Full,Active
+S01340,Parker,Parker,Female,Freshman,MAJ009,2.94,04/09/2025 00:00,2029,79.56,Good,None,Active
+S01341,Riley,Hayes,Female,Sophomore,MAJ010,3.94,2024-09-11 00:00:00,2028,71.42,Honors,,Active
+S01342,Casey,Morgan,Female,Senior,MAJ020,3.58,2022-09-08 00:00:00,2026,93.23,,None,Active
+S01343,Taylor,Reed,Non-Binary,Senior,MAJ008,2.84,2022-09-19 00:00:00,2026,78.08,Good,Partial,Active
+S01344,Jamie,Foster,Male,Junior,MAJ005,3.9,2023-10-09 00:00:00,2027,92.44,Honors,Partial,Graduated
+S01345,Quinn,Bennett,Female,Freshman,MAJ017,3.7,2025-09-26 00:00:00,2029,66.84,Good,Partial,Graduated
+S01346,Parker,Cooper,Male,Junior,MAJ007,2.8,2023-09-19 00:00:00,2027,89.54,Good,None,Active
+S01347,Taylor,Hayes,Female,Junior,MAJ006,1.55,2023-08-13 00:00:00,2027,96.73,Probation,None, Active 
+S01348,Sam,Mitchell,Non-Binary,Senior,MAJ020,2.64,2022-08-22 00:00:00,2026,81.38,Good,Partial,Active
+S01349,Riley,Ward,Male,Freshman,MAJ021,2.73,2025-10-10 00:00:00,2029,73.76,Good,None,Active
+S01350,Blake,Cooper,Female,Senior,MAJ015,,2022-09-21 00:00:00,2026,100.0,Good,Partial,Graduated
+S01351,Riley,Price,Female,Sophomore,MAJ022,3.65,2024-10-03 00:00:00,2028,78.3,Good,None,Active
+S01352,Parker,Morgan,Female,Freshman,MAJ010,2.92,2025-10-10 00:00:00,2029,81.43,Good,None,Active
+S01353,Cameron,Hayes,Non-Binary,Senior,MAJ023,3.58,2022-10-05 00:00:00,2026,86.79,Good,None,Active
+S01354,Blake,Reed,Non-Binary,Senior,MAJ006,4.0,2022-08-13 00:00:00,2026,73.14,Honors,None,Active
+S01355,Alex,Turner,Male,Senior,MAJ009,1.97,2022-10-18 00:00:00,2026,72.24,Probation,Partial,Active
+S01356,Blake,Price,Non-Binary,Junior,MAJ002,2.01,2023-10-20 00:00:00,2027,91.61,Academic Warning,None,Active
+S01357,Blake,Cooper,Non-Binary,Freshman,MAJ017,2.6,2025-08-06 00:00:00,2029,90.87,Good,None,Active
+S01358,Alex,Bennett,Male,Junior,MAJ013,2.51,2023-09-06 00:00:00,2027,82.53,Good,None,Active
+S01359,Morgan,Price,Non-Binary,Senior,MAJ009,3.47,2022-08-10 00:00:00,2026,85.04,Good,None,Active
+S01360,Jamie,Hayes,Non-Binary,Freshman,MAJ002,2.83,2025-09-07 00:00:00,2029,100.0,Good,Full,Graduated
+S01361,Avery,Price,Female,senior,MAJ016,2.62,2022-09-20 00:00:00,2026,93.48,Good,Partial,Active
+S01362,Drew,Mitchell,Male,Freshman,MAJ013,2.23,2025-09-04 00:00:00,2029,75.41,Academic Warning,None,Graduated
+S01363,Riley,Morgan,Female,Freshman,MAJ024,2.84,2025-09-16 00:00:00,2029,89.49,Good,None,Active
+S01364,Cameron,Carter,Male,Senior,MAJ018,2.38,2022-08-05 00:00:00,2026,92.11,Academic Warning,Partial,Active
+S01365,Riley,Brooks,Male,Sophomore,MAJ024,3.03,2024-09-06 00:00:00,2028,70.21,Good,None,Active
+S01366,Sam,Price,Male,Senior,MAJ007,3.0,2022-08-05 00:00:00,2026,87.24,Good,None,Active
+S01367,Reese,Turner,Female,Sophomore,MAJ003,3.03,2024-08-07 00:00:00,2028,75.75,Good,None,Active
+S01368,Riley,Cooper,Female,Sophomore,MAJ009,3.35,2024-08-22 00:00:00,2028,79.99,Good,None,Active
+S01369,Casey,Carter,,Junior,MAJ011,3.92,2023-09-18 00:00:00,2027,87.95,Honors,None,Active
+S01370,Quinn,Ward,Male,Freshman,MAJ022,3.16,2025-10-24 00:00:00,2029,94.18,Good,Full,Active
+S01371,Jordan,Carter,Female,Sophomore,MAJ017,3.83,2024-08-05 00:00:00,2028,92.37,Honors,None,Active
+S01372,Alex,Hayes,Male,Junior,MAJ004,3.32,2023-09-20 00:00:00,2027,99.77,Good,Partial,Active
+S01373,Drew,Carter,Male,Sophomore,MAJ016,3.09,2024-08-20 00:00:00,2028,84.71,Good,None,Active
+S01374,Quinn,Carter,Male,Freshman,MAJ008,3.4,2025/10/08 00:00:00,2029,,Good,Partial,Active
+S01375,Quinn,Ward,Female,Sophomore,MAJ024,3.85,2024-10-24 00:00:00,2028,78.88,Honors,None,Active
+S01376,Parker,Hayes,Non-Binary,Senior,MAJ007,3.7,2022-08-08 00:00:00,2026,100.0,Honors,None,Active
+S01377,Morgan,Cooper,Female,Sophomore,MAJ024,2.51,2024-09-01 00:00:00,2028,71.7,Good,Partial,Active
+S01378,Cameron,Reed,Male,Freshman,MAJ003,2.75,2025-10-21 00:00:00,2029,67.0,,Full,Active
+S01379,Alex,Reed,Male,Sophomore,MAJ007,2.93,2024-10-02 00:00:00,2028,85.49,Good,None,Active
+S01380,Riley,Turner,Male,Sophomore,MAJ012,2.98,2024-08-11 00:00:00,2028,91.43,Good,Full,Active
+S01381,Sam,Turner,Male,Freshman,MAJ021,3.63,2025-08-10 00:00:00,2029,90.58,Good,None,Graduated
+S01382,Taylor,Brooks,Male,Freshman,MAJ002,4.0,2025-09-11 00:00:00,2029,86.15,Honors,None,Active
+S01383,Avery,Ward,Female,Freshman,MAJ023,2.86,2025-09-12 00:00:00,2029,82.63,Good,Partial, Active 
+S01384,Avery,Foster,Male,Senior,MAJ016,3.36,2022-08-21 00:00:00,2026,77.47,Good,None,Active
+S01385,Jordan,Wilson,Non-Binary,Freshman,MAJ015,3.23,2025-10-20 00:00:00,2029,95.21,Good,None,Active
+S01386,Sam,Price,Female,Senior,MAJ022,2.73,2022-08-23 00:00:00,2026,95.55,Good,None,Active
+S01387,Parker,Mitchell,Male,Senior,MAJ004,2.81,2022-10-16 00:00:00,2026,92.61,Good,Full,Active
+S01388,Alex,Wilson,Female,Junior,MAJ021,4.0,2023-09-18 00:00:00,2027,82.03,Honors,Partial,Graduated
+S01389,Reese,Cooper,Non-Binary,Junior,MAJ012,2.67,2023-09-12 00:00:00,2027,85.71,Good,None,Active
+S01390,Jordan,Collins,Male,Senior,MAJ013,3.59,2022-10-17 00:00:00,2026,75.54,Good,Partial,Active
+S01391,Taylor,Brooks,Female,Sophomore,MAJ014,2.64,2024-10-02 00:00:00,2028,89.06,Good,Partial,Active
+S01392,Cameron,Collins,Non-Binary,Junior,MAJ010,2.1,2023-10-28 00:00:00,2027,78.01,Academic Warning,None,Active
+S01393,Avery,Bennett,Non-Binary,Sophomore,MAJ019,3.06,2024-09-13 00:00:00,2028,97.54,Good,Partial,Active
+S01394,Parker,Parker,Non-Binary,Freshman,MAJ024,3.56,2025-10-01 00:00:00,2029,81.42,Good,Partial,Active
+S01395,Jamie,Turner,Non-Binary,Sophomore,MAJ020,2.5,2024-09-10 00:00:00,2028,80.38,Academic Warning,Partial,Active
+S01396,Jordan,Wilson,Female,Sophomore,MAJ023,3.61,2024-08-18 00:00:00,2028,71.59,Good,None,Active
+S01397,Blake,Brooks,Female,Freshman,MAJ018,1.93,2025-09-28 00:00:00,2029,78.32,Probation,Partial,Active
+S01398,Reese,Parker,Non-Binary,freshman,MAJ002,2.45,2025-08-01 00:00:00,2029,90.66,Academic Warning,Partial,Active
+S01399,Riley,Carter,Non-Binary,Senior,MAJ003,3.26,2022-10-09 00:00:00,2026,80.92,Good,,Active
+S01400,Riley,Morgan,Non-Binary,Junior,MAJ023,2.97,2023-08-27 00:00:00,2027,100.0,Good,None,Active
+S01401,Casey,Morgan,Non-Binary,Sophomore,MAJ004,2.73,2024-10-28 00:00:00,2028,100.0,Good,Partial,Active
+S01402,Jamie,Turner,Male,Freshman,MAJ001,2.3,2025-10-09 00:00:00,2029,96.09,Academic Warning,Partial,Active
+S01403,Reese,Collins,Female,Junior,MAJ004,2.57,2023-09-09 00:00:00,2027,85.98,Good,None,Active
+S01404,Cameron,Wilson,Male,Senior,MAJ023,2.97,2022-08-24 00:00:00,2026,73.95,,Partial,Active
+S01405,Jordan,Collins,Female,Senior,MAJ004,3.1,2022-09-06 00:00:00,2026,78.88,Good,Partial,Active
+S01406,Jamie,Wilson,Non-Binary,Junior,MAJ024,3.66,2023-09-01 00:00:00,2027,92.99,Good,None,Graduated
+S01407,Sam,Foster,Female,Senior,MAJ017,3.17,2022-08-05 00:00:00,2026,81.59,Good,None,Active
+S01408,Cameron,Carter,Non-Binary,Senior,MAJ003,3.81,2022-10-05 00:00:00,2026,85.5,Honors,Partial,Active
+S01409,Cameron,Bennett,Female,Junior,MAJ002,3.29,2023-08-27 00:00:00,2027,86.95,Good,None,Active
+S01410,Taylor,Parker,Female,Senior,MAJ002,3.92,05-09-2022 00:00,2026,95.64,Honors,Full,Active
+S01411, Alex ,Ward,Female,Senior,MAJ019,2.64,2022-10-24 00:00:00,2026,83.9,Good,Partial,Active
+S01412,Taylor,Collins,Non-Binary,Freshman,MAJ003,2.22,2025-09-27 00:00:00,2029,82.64,Academic Warning,None,Active
+S01413,Alex,Reed,Non-Binary,Freshman,MAJ001,3.24,2025-09-21 00:00:00,2029,95.72,Good,None,Active
+S01414,Avery,Brooks,Female,Freshman,MAJ016,3.24,2025-10-27 00:00:00,2029,80.63,Good,None,Active
+S01415,Morgan,Bennett,Male,Freshman,MAJ004,1.97,2025-08-12 00:00:00,2029,91.17,Probation,Partial,Active
+S01416,Cameron,Hayes,Non-Binary,Senior,MAJ021,3.03,2022-08-16 00:00:00,2026,97.35,Good,None,Active
+S01417,Casey,Mitchell,Female,Freshman,MAJ008,2.91,2025-10-11 00:00:00,2029,71.26,Good,None,Graduated
+S01418,Blake,Morgan,Non-Binary,Senior,MAJ015,3.07,2022-08-06 00:00:00,2026,85.11,Good,None,Active
+S01419,Cameron,Wilson,Non-Binary,Freshman,MAJ009,3.85,10-10-2025 00:00,2029,73.77,Honors,Partial,Active
+S01420,Casey,Cooper,Male,Senior,MAJ021,2.49,2022-10-12 00:00:00,2026,98.29,Academic Warning,Full,Active
+S01421,Jordan,Ward,Female,Junior,MAJ001,4.75,2023-08-25 00:00:00,2027,93.66,Honors,Partial,Active
+S01422,Jamie,Ward,Male,Sophomore,MAJ016,2.05,2024-08-04 00:00:00,2028,85.8,Academic Warning,None,Graduated
+S01423,Jordan,Mitchell,Female,Sophomore,MAJ005,2.49,2024-08-25 00:00:00,2028,71.4,Academic Warning,None,Active
+S01424,Jamie,Bennett,Non-Binary,Sophomore,MAJ018,3.45,2024-10-11 00:00:00,2028,89.89,,None,Graduated
+S01425,Cameron,Bennett,Non-Binary,Senior,MAJ019,2.95,2022-09-18 00:00:00,2026,87.84,Good,None,Active
+S01426,Cameron,Carter,Non-Binary,Senior,MAJ011,4.0,2022-10-14 00:00:00,2026,86.16,Honors,None,Active
+S01427,Morgan,Turner,Female,Senior,MAJ020,3.91,2022-08-12 00:00:00,2026,92.8,Honors,None,Withdrawn
+S01428,Avery,Collins,Female,Freshman,MAJ012,2.66,2025-08-02 00:00:00,2029,98.81,Good,Full,Active
+S01429,Quinn,Price,Female,Senior,MAJ008,3.15,2022-09-15 00:00:00,2026,83.29,Good,None,Active
+S01430,Blake,Bennett,Female,Senior,MAJ012,3.6,2022-08-27 00:00:00,2026,88.82,Good,None,Active
+S01431,Jamie,Turner,Female,Freshman,MAJ023,3.02,2025-09-24 00:00:00,2029,85.83,Good,None,Graduated
+S01432,Jamie,Carter,Non-Binary,Sophomore,MAJ023,3.69,2024-10-03 00:00:00,2028,71.85,Good,None,Active
+S01433,Taylor,Mitchell,Female,Freshman,MAJ005,2.83,2025-08-08 00:00:00,2029,88.8,Good,None,Active
+S01434,Taylor,Ward,Female,Senior,MAJ004,3.21,2022-09-24 00:00:00,2026,93.28,Good,None,Active
+S01435,Drew,Bennett,,Senior,MAJ014,3.93,2022-09-15 00:00:00,2026,78.39,Honors,Partial,Active
+S01436,Taylor,Morgan,Non-Binary,Sophomore,MAJ004,1.88,2024-08-20 00:00:00,2028,80.61,Probation,Partial,Active
+S01437,Reese,Bennett,Non-Binary,Freshman,MAJ023,,2025-09-18 00:00:00,2029,75.77,Good,Partial,Active
+S01438,Casey,Turner,Female,Junior,MAJ009,3.03,2023-09-06 00:00:00,2027,86.76,Good,None,Active
+S01439,Taylor,Turner,Female,Sophomore,MAJ008,2.7,2024-09-20 00:00:00,2028,79.88,good,None,Active
+S01440,Avery,Foster,Female,Senior,MAJ019,2.84,2022-10-15 00:00:00,2026,73.86, Good ,None, Active 
+S01441,Cameron,Wilson,Female,Sophomore,MAJ019,2.65,2024-09-21 00:00:00,2028,87.67,Good,None,Active
+S01442,Riley,Foster,Male,Freshman,MAJ002,3.7,2025-08-08 00:00:00,2029,94.0,Good,None,Active
+S01443,Parker,Morgan,Male,Freshman,MAJ008,3.23,2025-08-18 00:00:00,2029,75.31,Good,None,Graduated
+S01444,Jordan,Foster,Non-Binary,Freshman,MAJ006,2.75,2025-08-19 00:00:00,2029,86.15,Good,Full,Active
+S01445,Jordan,Brooks,Female,Freshman,MAJ015,3.2,2025-09-25 00:00:00,2029,78.74,Good,None,Active
+S01446,Quinn,Bennett,Non-Binary,Freshman,MAJ009,3.58,2025-09-05 00:00:00,2029,80.16,Good,Partial,Active
+S01447,Jamie,Reed,Female,Sophomore,MAJ012,2.73,2024-10-26 00:00:00,2028,74.63,Good,Partial,Active
+S01448,Drew,Foster,Female,Senior,MAJ007,3.61,2022-09-06 00:00:00,2026,88.21,Good,,Active
+S01449, Jordan ,Turner,Female,Senior,MAJ023,3.62,2022-08-26 00:00:00,2026,82.34,Good,Partial,Active
+S01450,Avery,Reed,Non-Binary,Junior,MAJ014,3.2,2023-10-21 00:00:00,2027,93.56,Good,None,Active
+S01451,Taylor,Mitchell,Male,Sophomore,MAJ019,3.46,2024-09-20 00:00:00,2028,90.21,Good,Partial,Active
+S01452,Quinn,Hayes,Male,Senior,MAJ019,3.28,2022-08-07 00:00:00,2026,90.95,Good,Full,Active
+S01453,Parker,Hayes,Male,Senior,MAJ011,3.3,2022-08-26 00:00:00,2026,95.38,Good,None,Active
+S01454,Reese,Ward,Female,Sophomore,MAJ016,3.62,2024-09-04 00:00:00,2028,83.59,Good,None,Active
+S01455, Jordan ,Brooks,Non-Binary,Sophomore,MAJ011,2.52,2024-09-12 00:00:00,2028,78.62,Good,None,Active
+S01456,Casey,Collins,Male,Senior,MAJ018,3.37,2022-09-21 00:00:00,2026,,Good,Full,Graduated
+S01457,Drew,Morgan,Male,Senior,MAJ006,3.37,2022-09-13 00:00:00,2026,75.26,Good,None,Active
+S01458,Drew,Mitchell,Non-Binary,Junior,MAJ008,2.77,2023-10-11 00:00:00,2027,91.37,Good,None, Active 
+S01459,Casey,Cooper,Non-Binary,Junior,MAJ018,3.99,2023-08-20 00:00:00,2027,80.62,Honors,Full,Active
+S01460,Jamie,Price,Non-Binary,Senior,MAJ021,2.68,2022-08-05 00:00:00,2026,87.04,Good,Partial,Active
+S01461,Cameron,Price,Female,Freshman,MAJ005,3.01,2025-08-13 00:00:00,2029,91.02,Good, Partial ,Active
+S01462,Drew,Hayes,Non-Binary,Sophomore,MAJ022,2.88,2024-09-04 00:00:00,2028,85.09,Good,None,Active
+S01463,Blake,Bennett,Male,Senior,MAJ014,3.39,2022-08-13 00:00:00,2026,81.42,Good,None,Active
+S01464,Drew,Parker,Non-Binary,Senior,MAJ002,3.05,2022-10-16 00:00:00,2026,70.68,Good,none,Active
+S01465,Drew,Wilson,Non-Binary,Junior,MAJ014,3.37,2023-08-11 00:00:00,2027,76.84,Good,None,Withdrawn
+S01466,Alex,Cooper,Male,Senior,MAJ014,2.53,2022-09-16 00:00:00,2026,78.63,Good,None,Active
+S01467,Quinn,Hayes,Male,Freshman,MAJ003,3.35,2025-09-09 00:00:00,2029,77.69,Good,Partial,Active
+S01468,Cameron,Carter,Male,Freshman,MAJ001,3.81,15/10/2025 00:00,2029,81.3,Honors,Partial,Active
+S01469,Casey,Wilson,Female,Junior,MAJ016,2.76,2023-08-14 00:00:00,2027,85.32,Good,None,Active
+S01470,Riley,Bennett,Male,Freshman,MAJ019,4.0,2025-09-18 00:00:00,2029,84.79,Honors,Partial,Active
+S01471,Riley,Cooper,Non-Binary,Junior,MAJ003,3.13,2023-10-13 00:00:00,2027,92.49,Good,Partial,Active
+S01472,Morgan,Carter,Non-Binary,Senior,MAJ020,2.81,2022-10-19 00:00:00,2026,85.78,Good,Partial,Active
+S01473,Jamie,Turner,Non-Binary,Senior,MAJ012,3.32,2022-10-11 00:00:00,2026,89.44,Good,None,Graduated
+S01474,Drew,Price,Male,Senior,MAJ017,3.13,2022-08-26 00:00:00,2026,99.99,Good,Full,Active
+S01475,Alex,Collins,Female,Junior,MAJ012,2.75,2023-10-15 00:00:00,2027,88.45,Good,Partial,Active
+S01476,Jamie,Parker,Male,Freshman,MAJ003,2.8,2025-10-18 00:00:00,2029,62.06,Good,Partial,Active
+S01477,Morgan,Parker,Non-Binary,Freshman,MAJ018,2.84,2025-10-01 00:00:00,2029,84.3,Good,None,Active
+S01478,Casey,Reed,Female,Sophomore,MAJ016,3.03,2024-10-16 00:00:00,2028,85.72,Good,Partial,Active
+S01479,Riley,Price,Non-Binary,Sophomore,MAJ014,2.9,2024-09-17 00:00:00,2028,95.9,Good,Full,Active
+S01480,Drew,Bennett,Male,Senior,MAJ017,2.63,2022-08-18 00:00:00,2026,93.64,Good,None,Active
+S01481,Reese,Hayes,Non-Binary,Sophomore,MAJ016,3.17,2024-10-14 00:00:00,2028,93.21,Good,Partial,Active
+S01482,Blake,Price,Female,Senior,MAJ017,3.13,2022-08-26 00:00:00,2026,90.29,,Partial,Active
+S01483,Blake,Bennett,Female,Freshman,MAJ015,3.58,2025-09-24 00:00:00,2029,83.06,Good,Partial,Graduated
+S01484,Drew,Reed,Non-Binary,Freshman,MAJ006,2.8,2025-08-22 00:00:00,2029,75.87,Good,None,Active
+S01485,Drew,Reed,Male,Freshman,MAJ021,2.97,2025-08-07 00:00:00,2029,100.0,Good,Partial,Graduated
+S01486,Quinn,Cooper,Male,Sophomore,MAJ008,2.6,2024-09-27 00:00:00,2028,80.59,Good,Partial,Active
+S01487,Riley,Ward,Female,Sophomore,MAJ009,3.98,2024-10-10 00:00:00,2028,79.13,Honors,None,Active
+S01488,Blake,Ward,Male,Sophomore,MAJ017,3.38,2024-10-08 00:00:00,2028,80.17,Good,None,Graduated
+S01489,Alex,Wilson,Male,Freshman,MAJ005,3.11,2025-10-27 00:00:00,2029,75.78,Good,Partial,Active
+S01490,Parker,Bennett,Female,Freshman,MAJ015,3.17,2025-10-13 00:00:00,2029,84.93,Good,None,Active
+S01491,Quinn,Cooper,Non-Binary,Senior,MAJ021,2.12,2022-09-05 00:00:00,2026,93.4,Academic Warning,Full,Active
+S01492,Cameron,Cooper,Male,Junior,MAJ009,3.57,2023-10-06 00:00:00,2027,77.58,Good,None,Active
+S01493,Avery,Carter,Non-Binary,Senior,MAJ017,2.96,2022-10-26 00:00:00,2026,82.13,Good,None,Active
+S01494,Reese,Reed,Female,Senior,MAJ006,2.84,2022-09-07 00:00:00,2026,74.1,Good,None,Active
+S01495,Quinn,Foster,Female,Freshman,MAJ015,3.45,2025-08-20 00:00:00,2029,80.79,Good,Partial,Graduated
+S01496,Cameron,Morgan,Non-Binary,Freshman,MAJ008,2.22,2025-10-05 00:00:00,2029,78.6,Academic Warning,Full,Active
+S01497,Taylor,Parker,Non-Binary,Senior,MAJ005,2.95,2022-08-10 00:00:00,2026,80.04,Good,None,Active
+S01498,Quinn,Ward,Male,Junior,MAJ007,1.96,2023-09-22 00:00:00,2027,87.26,Probation,None,Active
+S01499,Alex,Hayes,Non-Binary,Freshman,MAJ017,3.19,2025-08-04 00:00:00,2029,100.0,Good,NONE,Active
+S01500,Casey,Brooks,Female,Freshman,MAJ008,4.0,2025-08-03 00:00:00,2029,91.4,Honors,None,Active
+S01117,Taylor,Collins,Non-Binary,Freshman,MAJ017,2.83,2025-09-05 00:00:00,2029,82.49,Good,Full,Active
+S01369,Casey,Carter,Male,Junior,MAJ011,3.92,2023-09-18 00:00:00,2027,87.95,Honors,None,Active
+S00423,Reese,Wilson,Female,Senior,MAJ019,3.78,2022-08-19 00:00:00,2026,-8.0,Honors,None,Active
+S00414,Cameron,Collins,Female,Senior,MAJ010,2.09,2022-09-22 00:00:00,2026,83.48,Academic Warning,None,Active
+S00452,Drew,Brooks,Female,Senior,MAJ023,3.23,2022-09-28 00:00:00,2026,89.65,Good,Partial,Active
+S00862,Blake,Mitchell,Male,Junior,MAJ014,2.43,2023-10-10 00:00:00,2027,84.48,Academic Warning,None,Active
+S01064,Jamie,Hayes,Male,Freshman,MAJ001,2.52,2025-08-26 00:00:00,2029,79.59, Good ,None,Active
+S00742,Blake,Wilson,Male,Senior,MAJ023,3.52,2022-08-21 00:00:00,2026,89.65,Good,Full,Graduated
+S01273,Alex,Carter,Female,Senior,MAJ019,2.62,2022-10-23 00:00:00,2026,95.84,Good,Full,Active
+S00260,Parker,Carter,Female,Junior,MAJ009,3.27,2023-09-12 00:00:00,2027,83.87,Good,Partial,Active
+S00889,Cameron,Price,Female,Freshman,MAJ004,3.12,2025-09-08 00:00:00,2029,78.68,Good,None,Active
+S01433,Taylor,Mitchell,Female,Freshman,MAJ005,2.83,2025-08-08 00:00:00,2029,88.8,Good,None,Active
+S00713,Jamie,Mitchell,Male,Junior,MAJ011,2.67,2023-08-16 00:00:00,2027,100.0,Good,Partial,Active
+S01383,Avery,Ward,Female,Freshman,MAJ023,2.86,2025-09-12 00:00:00,2029,82.63,Good,Partial,Active
+S00071,Riley,Mitchell,Non-Binary,Junior,MAJ011,2.37,2023-10-13 00:00:00,2027,76.14,Academic Warning,None,Active
+S00579,Drew,Mitchell,Male,Junior,MAJ010,3.55,2023-08-22 00:00:00,2027,79.98,Good,Partial,Active
+S01147,Casey,Ward,Non-Binary,Sophomore,MAJ024,3.2,2024-09-09 00:00:00,2028,82.29,Good,None,Withdrawn
+S00383,Reese,Parker,Female,Junior,MAJ005,4.0,2023-08-03 00:00:00,2027,81.21,Honors,Full,Active
+S00584,Jordan,Wilson,Non-Binary,Sophomore,MAJ007,2.88,2024-10-03 00:00:00,2028,93.66,Good,Partial,Active
+S00967,Sam,Carter,Male, Junior ,MAJ001,3.18,2023-09-17 00:00:00,2027,83.29,Good,Partial,Active
+S01174,Avery,Mitchell,Non-Binary,Freshman,MAJ007,2.49,2025-08-04 00:00:00,2029,90.39,Academic Warning,None,Active
+S00176,Drew,Morgan,Non-Binary,Sophomore,MAJ006,2.57,2024-09-12 00:00:00,2028,75.0,Good,None,Active
+S01085,Drew,Brooks,Female,Sophomore,MAJ007,3.59,2024-08-18 00:00:00,2028,87.38,Good,None,Active

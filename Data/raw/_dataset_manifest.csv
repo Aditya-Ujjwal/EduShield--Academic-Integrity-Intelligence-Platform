@@ -1,0 +1,15 @@
+table_name,clean_rows,raw_rows,clean_columns,raw_columns,raw_duplicate_rows,raw_missing_cells
+academic_terms,5,7,6,6,1,0
+departments,10,11,3,3,1,0
+majors,24,25,3,3,1,0
+instructors,100,101,7,7,1,6
+students,1500,1523,13,13,15,150
+courses,90,91,8,8,1,3
+course_offerings,261,263,8,8,2,10
+assignments,800,812,20,20,8,64
+submissions,15000,15234,32,32,150,3350
+detector_tools,5,6,8,8,1,1
+ai_detector_results,75000,75944,11,11,750,11882
+student_behavior_events,10037,10177,10,10,100,2632
+integrity_cases,1375,1397,23,23,13,2573
+student_integrity_history,7500,7586,13,13,75,341

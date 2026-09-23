@@ -1,0 +1,15 @@
+table_name,total_rows,duplicate_rows,duplicate_percentage
+academic_terms,7,1,14.286
+departments,11,1,9.091
+majors,25,1,4.0
+instructors,101,1,0.99
+students,1523,15,0.985
+courses,91,1,1.099
+course_offerings,263,2,0.76
+assignments,812,8,0.985
+submissions,15234,151,0.991
+detector_tools,6,1,16.667
+ai_detector_results,75944,752,0.99
+student_behavior_events,10177,100,0.983
+integrity_cases,1397,13,0.931
+student_integrity_history,7586,75,0.989

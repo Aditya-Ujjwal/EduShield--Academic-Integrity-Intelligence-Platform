@@ -1,0 +1,101 @@
+instructor_id,instructor_name,department_id,academic_rank,years_experience,teaching_load,ai_policy_adoption
+INS0001,Sam Carter,DEP09,Not Recorded,11.0,5,Medium
+INS0002,Taylor Turner,DEP01,Lecturer,16.0,1,Low
+INS0003,Cameron Morgan,DEP07,Lecturer,1.0,2,Medium
+INS0004,Avery Foster,DEP02,Lecturer,13.0,1,Low
+INS0005,Sam Turner,DEP06,Professor,6.0,1,Medium
+INS0006,Casey Ward,DEP09,Lecturer,8.0,0,High
+INS0007,Riley Brooks,DEP03,Assistant Professor,14.0,4,High
+INS0008,Riley Carter,DEP03,Lecturer,11.0,5,Low
+INS0009,Reese Mitchell,DEP09,Associate Professor,4.0,1,High
+INS0010,Avery Carter,DEP06,Professor,6.0,1,Medium
+INS0011,Reese Hayes,DEP04,Associate Professor,4.0,1,Low
+INS0012,Jordan Morgan,DEP08,Assistant Professor,9.0,3,High
+INS0013,Reese Parker,DEP07,Lecturer,5.0,2,Not Recorded
+INS0014,Sam Price,DEP10,Associate Professor,4.0,4,Medium
+INS0015,Morgan Hayes,DEP06,Associate Professor,19.0,1,Medium
+INS0016,Taylor Reed,DEP01,Assistant Professor,14.0,0,Medium
+INS0017,Casey Cooper,DEP02,Assistant Professor,17.0,0,High
+INS0018,Quinn Morgan,DEP04,Assistant Professor,8.0,1,High
+INS0019,Cameron Brooks,DEP09,Lecturer,9.0,0,High
+INS0020,Parker Cooper,DEP09,Associate Professor,1.0,2,High
+INS0021,Cameron Cooper,DEP08,Professor,12.0,1,Medium
+INS0022,Morgan Turner,DEP05,Associate Professor,9.0,8,Medium
+INS0023,Parker Bennett,DEP08,Associate Professor,4.0,2,High
+INS0024,Taylor Reed,DEP06,Professor,6.0,4,High
+INS0025,Reese Carter,DEP06,Assistant Professor,12.0,4,High
+INS0026,Cameron Foster,DEP01,Lecturer,15.0,0,Medium
+INS0027,Drew Reed,DEP07,Associate Professor,16.0,0,High
+INS0028,Alex Hayes,DEP08,Lecturer,10.0,3,High
+INS0029,Quinn Hayes,DEP07,Associate Professor,13.0,3,Medium
+INS0030,Taylor Collins,DEP01,Lecturer,9.0,3,High
+INS0031,Quinn Wilson,DEP02,Lecturer,14.0,1,High
+INS0032,Avery Foster,DEP01,Assistant Professor,21.0,3,Medium
+INS0033,Taylor Reed,DEP03,Lecturer,3.0,5,Medium
+INS0034,Alex Carter,DEP02,Associate Professor,12.0,3,Medium
+INS0035,Morgan Cooper,DEP02,Lecturer,4.0,0,High
+INS0036,Reese Carter,DEP01,Assistant Professor,6.0,1,High
+INS0037,Avery Wilson,DEP08,Associate Professor,16.0,2,High
+INS0038,Cameron Parker,DEP09,Assistant Professor,16.0,2,Medium
+INS0039,Sam Hayes,DEP06,Associate Professor,10.0,0,High
+INS0040,Drew Carter,DEP10,Assistant Professor,7.0,3,Low
+INS0041,Alex Foster,DEP07,Assistant Professor,6.0,2,Medium
+INS0042,Jordan Turner,DEP09,Lecturer,14.0,4,Low
+INS0043,Alex Price,DEP03,Associate Professor,6.0,4,Medium
+INS0044,Casey Hayes,DEP04,Professor,15.0,4,Medium
+INS0045,Jamie Cooper,DEP10,Professor,20.0,6,High
+INS0046,Quinn Bennett,DEP10,Assistant Professor,12.0,3,Low
+INS0047,Cameron Mitchell,DEP04,Not Recorded,8.0,3,Medium
+INS0048,Jamie Morgan,DEP06,Lecturer,21.0,2,Medium
+INS0049,Riley Ward,DEP01,Lecturer,29.0,3,Low
+INS0050,Avery Collins,DEP05,Assistant Professor,10.0,4,Low
+INS0051,Drew Parker,DEP09,Lecturer,9.0,2,High
+INS0052,Reese Reed,DEP06,Lecturer,13.0,2,High
+INS0053,Avery Price,DEP07,Lecturer,3.0,1,High
+INS0054,Reese Parker,DEP08,Assistant Professor,10.5,0,Medium
+INS0055,Morgan Price,DEP03,Professor,14.0,2,Low
+INS0056,Alex Bennett,DEP05,Associate Professor,13.0,2,Medium
+INS0057,Jamie Turner,DEP08,Professor,8.0,7,Low
+INS0058,Morgan Morgan,DEP02,Lecturer,29.0,1,Low
+INS0059,Parker Collins,DEP05,Assistant Professor,10.5,3,High
+INS0060,Jordan Price,DEP09,Assistant Professor,22.0,1,Medium
+INS0061,Sam Price,DEP04,Assistant Professor,12.0,2,Low
+INS0062,Blake Foster,DEP03,Assistant Professor,6.0,6,Medium
+INS0063,Parker Carter,DEP09,Professor,8.0,4,Medium
+INS0064,Riley Cooper,DEP02,Associate Professor,12.0,0,High
+INS0065,Riley Parker,DEP04,Associate Professor,6.0,3,Low
+INS0066,Sam Brooks,DEP08,Professor,1.0,3,High
+INS0067,Blake Carter,DEP07,Lecturer,10.0,1,Medium
+INS0068,Parker Carter,DEP02,Lecturer,12.0,0,Medium
+INS0069,Casey Wilson,DEP10,Associate Professor,18.0,7,High
+INS0070,Riley Brooks,DEP01,Assistant Professor,5.0,1,High
+INS0071,Jamie Brooks,DEP06,Lecturer,8.0,4,Medium
+INS0072,Sam Carter,DEP02,Assistant Professor,1.0,0,Low
+INS0073,Jordan Turner,DEP09,Assistant Professor,10.0,5,Medium
+INS0074,Morgan Turner,DEP04,Associate Professor,16.0,0,High
+INS0075,Reese Brooks,DEP08,Professor,12.0,5,High
+INS0076,Reese Morgan,DEP04,Lecturer,21.0,1,High
+INS0077,Alex Morgan,DEP02,Associate Professor,11.0,0,Medium
+INS0078,Casey Wilson,DEP01,Professor,8.0,1,High
+INS0079,Avery Morgan,DEP05,Lecturer,12.0,5,High
+INS0080,Jamie Cooper,DEP01,Assistant Professor,18.0,0,Low
+INS0081,Riley Foster,DEP01,Assistant Professor,11.0,2,Low
+INS0082,Casey Mitchell,DEP04,Lecturer,1.0,2,Medium
+INS0083,Morgan Hayes,DEP03,Lecturer,16.0,8,High
+INS0084,Blake Price,DEP02,Professor,1.0,2,High
+INS0085,Blake Cooper,DEP08,Assistant Professor,5.0,3,High
+INS0086,Quinn Wilson,DEP09,Professor,6.0,2,Not Recorded
+INS0087,Blake Mitchell,DEP08,Professor,15.0,3,Medium
+INS0088,Quinn Turner,DEP10,Lecturer,6.0,6,High
+INS0089,Reese Collins,DEP07,Assistant Professor,15.0,9,High
+INS0090,Drew Mitchell,DEP07,Associate Professor,12.0,2,Medium
+INS0091,Sam Parker,DEP08,Professor,20.0,2,Medium
+INS0092,Jordan Ward,DEP06,Associate Professor,15.0,3,Medium
+INS0093,Cameron Hayes,DEP10,Associate Professor,1.0,3,Low
+INS0094,Casey Wilson,DEP01,Associate Professor,13.0,1,Low
+INS0095,Cameron Mitchell,DEP04,Associate Professor,14.0,4,Medium
+INS0096,Avery Carter,DEP05,Professor,10.0,8,Low
+INS0097,Alex Turner,DEP01,Professor,1.0,7,Medium
+INS0098,Quinn Reed,DEP02,Assistant Professor,10.0,1,Medium
+INS0099,Sam Cooper,DEP03,Associate Professor,6.0,2,Medium
+INS0100,Reese Carter,DEP04,Associate Professor,11.0,4,Medium

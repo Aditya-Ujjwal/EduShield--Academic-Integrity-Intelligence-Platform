@@ -1,0 +1,14 @@
+table_name,column_name,values_before,valid_datetime_values,invalid_datetime_values,missing_values
+academic_terms,start_date,6,6,0,0
+academic_terms,end_date,6,6,0,0
+students,enrollment_date,1508,1508,0,0
+assignments,assignment_open_at,804,804,0,0
+assignments,submission_deadline,804,804,0,0
+submissions,submitted_at,15083,15083,0,0
+ai_detector_results,test_timestamp,75192,75192,0,0
+student_behavior_events,event_date,10077,10077,0,0
+integrity_cases,incident_date,1384,1384,0,0
+integrity_cases,case_open_date,1384,1384,0,0
+integrity_cases,appeal_date,1384,141,0,1243
+integrity_cases,case_closed_date,1384,1257,0,127
+student_integrity_history,snapshot_at,7511,7511,0,0

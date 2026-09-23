@@ -1,0 +1,91 @@
+course_id,course_code,course_name,department_id,subject_area,course_level,difficulty_level,credits
+CRS0001,CHEM101-01,Inorganic Chemistry,DEP04,Chemistry,Intermediate,Moderate,4
+CRS0002,PHY201-02,Classical Mechanics,DEP03,Physics,Intermediate,Moderate,4
+CRS0003,PHY401-03,Quantum Physics,DEP03,Physics,Advanced,Hard,3
+CRS0004,HIST405-04,Modern History,DEP08,History,Introductory,Hard,3
+CRS0005,PHY401-05,Classical Mechanics,DEP03,Physics,Advanced,Hard,3
+CRS0006,HIST101-06,Modern History,DEP08,History,Intermediate,Moderate,3
+CRS0007,BUS305-07,Organizational Behavior,DEP10,Business,Introductory,Easy,3
+CRS0008,HIST201-08,Modern History,DEP08,History,Advanced,Moderate,3
+CRS0009,CHEM405-09,Physical Chemistry,DEP04,Chemistry,Introductory,Easy,3
+CRS0010,BUS101-10,Financial Management,DEP10,Business,Introductory,Easy,3
+CRS0011,MATH405-11,Differential Equations,DEP02,Mathematics,Intermediate,Moderate,4
+CRS0012,BIO201-12,Microbiology,DEP05,Biology,Intermediate,Moderate,3
+CRS0013,BIO405-13,Genetics,DEP05,Biology,Introductory,Moderate,3
+CRS0014,PSY305-14,Behavioral Science,DEP07,Psychology,Introductory,Moderate,3
+CRS0015,CHEM401-15,Inorganic Chemistry,DEP04,Chemistry,Intermediate,Hard,4
+CRS0016,BIO301-16,Microbiology,DEP05,Biology,Intermediate,Hard,3
+CRS0017,PHY301-17,Modern Physics,DEP03,Physics,Intermediate,Moderate,3
+CRS0018,ECO305-18,Microeconomics,DEP06,Economics,Intermediate,Hard,3
+CRS0019,PSY405-19,Research Methods in Psychology,DEP07,Psychology,Intermediate,Moderate,3
+CRS0020,CS301-20,Data Structures,DEP01,Computer Science,Introductory,Easy,4
+CRS0021,ECO405-21,Macroeconomics II,DEP06,Economics,Intermediate,Easy,3
+CRS0022,PHY101-22,Thermodynamics II,DEP03,Physics,Introductory,Easy,3
+CRS0023,CHEM305-23,Organic Chemistry II,DEP04,Chemistry,Intermediate,Moderate,3
+CRS0024,CS305-24,Software Engineering II,DEP01,Computer Science,Intermediate,Moderate,3
+CRS0025,CS405-25,Cybersecurity Fundamentals II,DEP01,Computer Science,Introductory,Moderate,3
+CRS0026,PSY401-26,Research Methods in Psychology II,DEP07,Psychology,Advanced,Hard,3
+CRS0027,CHEM401-27,Physical Chemistry II,DEP04,Chemistry,Introductory,Easy,4
+CRS0028,ECO101-28,Microeconomics II,DEP06,Economics,Advanced,Hard,4
+CRS0029,BIO201-29,Genetics II,DEP05,Biology,Intermediate,Moderate,3
+CRS0030,CS305-30,Artificial Intelligence II,DEP01,Computer Science,Introductory,Moderate,3
+CRS0031,HIST401-31,Political History II,DEP08,History,Introductory,Moderate,3
+CRS0032,CS405-32,Cybersecurity Fundamentals II,DEP01,Computer Science,Advanced,Easy,3
+CRS0033,PSY401-33,Introduction to Psychology II,DEP07,Psychology,Intermediate,Hard,3
+CRS0034,PSY101-34,Social Psychology II,DEP07,Psychology,Introductory,Easy,3
+CRS0035,PHY405-35,Quantum Physics II,DEP03,Physics,Intermediate,Moderate,4
+CRS0036,CHEM101-36,Analytical Chemistry II,DEP04,Chemistry,Advanced,Hard,3
+CRS0037,BUS101-37,Organizational Behavior II,DEP10,Business,Introductory,Easy,3
+CRS0038,CS405-38,Computer Networks II,DEP01,Computer Science,Advanced,Hard,4
+CRS0039,HIST301-39,Modern History II,DEP08,History,Introductory,Easy,3
+CRS0040,MATH101-40,Differential Equations II,DEP02,Mathematics,Advanced,Moderate,3
+CRS0041,BUS301-41,Principles of Management II,DEP10,Business,Advanced,Moderate,4
+CRS0042,CHEM305-42,Physical Chemistry II,DEP04,Chemistry,Intermediate,Hard,4
+CRS0043,BUS305-43,Principles of Management II,DEP10,Business,Introductory,Moderate,4
+CRS0044,PHY305-44,Astrophysics II,DEP03,Physics,Intermediate,Moderate,3
+CRS0045,PHY301-45,Modern Physics II,DEP03,Physics,Intermediate,Moderate,3
+CRS0046,BUS301-46,Strategic Management II,DEP10,Business,Intermediate,Easy,3
+CRS0047,MATH405-47,Probability and Statistics II,DEP02,Mathematics,Intermediate,Hard,3
+CRS0048,ENG201-48,Academic Writing II,DEP09,English,Introductory,Moderate,3
+CRS0049,CHEM401-49,Inorganic Chemistry II,DEP04,Chemistry,Intermediate,Moderate,3
+CRS0050,HIST305-50,Cultural History II,DEP08,History,Introductory,Moderate,3
+CRS0051,PHY305-51,Thermodynamics II,DEP03,Physics,Intermediate,Moderate,3
+CRS0052,BIO401-52,Genetics II,DEP05,Biology,Introductory,Easy,3
+CRS0053,ENG201-53,Rhetoric and Composition II,DEP09,English,Introductory,Easy,3
+CRS0054,CS101-54,Data Analytics II,DEP01,Computer Science,Intermediate,Moderate,3
+CRS0055,HIST301-55,Modern History II,DEP08,History,Introductory,Moderate,3
+CRS0056,CS301-56,Web Application Development II,DEP01,Computer Science,Intermediate,Moderate,3
+CRS0057,ENG201-57,Literary Analysis II,DEP09,English,Introductory,Easy,4
+CRS0058,HIST401-58,Historical Research Methods II,DEP08,History,Intermediate,Moderate,3
+CRS0059,ENG405-59,Creative Writing II,DEP09,English,Introductory,Moderate,4
+CRS0060,BIO305-60,Genetics II,DEP05,Biology,Introductory,Easy,3
+CRS0061,PHY101-61,Modern Physics II,DEP03,Physics,Intermediate,Moderate,3
+CRS0062,PHY101-62,Astrophysics II,DEP03,Physics,Introductory,Easy,3
+CRS0063,HIST305-63,World History II,DEP08,History,Intermediate,Moderate,3
+CRS0064,BUS405-64,Financial Management II,DEP10,Business,Introductory,Moderate,4
+CRS0065,BUS405-65,Business Analytics II,DEP10,Business,Intermediate,Moderate,3
+CRS0066,CS301-66,Web Application Development II,DEP01,Computer Science,Introductory,Moderate,3
+CRS0067,PHY101-67,Astrophysics II,DEP03,Physics,Intermediate,Hard,3
+CRS0068,PSY405-68,Research Methods in Psychology II,DEP07,Psychology,Advanced,Hard,3
+CRS0069,HIST201-69,Modern History II,DEP08,History,Introductory,Moderate,3
+CRS0070,PSY101-70,Social Psychology II,DEP07,Psychology,Advanced,Moderate,4
+CRS0071,BUS301-71,Business Analytics II,DEP10,Business,Introductory,Easy,3
+CRS0072,ECO305-72,Macroeconomics II,DEP06,Economics,Intermediate,Hard,3
+CRS0073,ECO201-73,Development Economics II,DEP06,Economics,Intermediate,Moderate,4
+CRS0074,CS405-74,Computer Networks II,DEP01,Computer Science,Introductory,Easy,3
+CRS0075,BIO201-75,Genetics II,DEP05,Biology,Intermediate,Moderate,3
+CRS0076,ENG401-76,Academic Writing II,DEP09,English,Introductory,Moderate,4
+CRS0077,ECO401-77,Econometrics II,DEP06,Economics,Advanced,Moderate,3
+CRS0078,ECO301-78,Econometrics II,DEP06,Economics,Intermediate,Hard,3
+CRS0079,ENG305-79,Literary Analysis II,DEP09,English,Intermediate,Hard,4
+CRS0080,HIST405-80,World History II,DEP08,History,Introductory,Moderate,3
+CRS0081,BIO405-81,Genetics II,DEP05,Biology,Advanced,Hard,3
+CRS0082,PSY405-82,Social Psychology II,DEP07,Psychology,Intermediate,Moderate,4
+CRS0083,BUS401-83,Unknown Course,DEP10,Business,Introductory,Easy,3
+CRS0084,HIST401-84,Cultural History II,DEP08,History,Advanced,Hard,3
+CRS0085,ENG301-85,Creative Writing II,DEP09,English,Advanced,Moderate,4
+CRS0086,ENG301-86,Literary Analysis II,DEP09,English,Intermediate,Hard,3
+CRS0087,BIO305-87,Cell Biology II,DEP05,Biology,Intermediate,Hard,3
+CRS0088,BIO301-88,Microbiology II,DEP05,Biology,Intermediate,Moderate,3
+CRS0089,ECO405-89,Microeconomics II,DEP06,Economics,Advanced,Hard,3
+CRS0090,ENG301-90,Rhetoric and Composition II,DEP09,English,Intermediate,Moderate,3

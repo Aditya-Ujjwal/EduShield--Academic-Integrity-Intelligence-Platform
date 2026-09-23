@@ -1,0 +1,30 @@
+# EduShield - Full Project Requirements
+
+# Core data handling
+pandas
+numpy
+pyarrow
+openpyxl
+
+# Visualization / EDA
+matplotlib
+seaborn
+plotly
+
+# Jupyter / development
+jupyterlab
+notebook
+ipykernel
+
+# Database connectivity
+sqlalchemy
+pymysql
+python-dotenv
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Streamlit application
+streamlit

@@ -1,0 +1,26 @@
+major_id,major_name,department_id
+MAJ001, Computer Science ,DEP01
+MAJ002,Data Science,DEP01
+MAJ003,Information Technology,DEP01
+MAJ004,Mathematics,DEP02
+MAJ005,Statistics,DEP02
+MAJ006,Applied Mathematics,DEP02
+MAJ007,Physics,DEP03
+MAJ008,Astrophysics,DEP03
+MAJ009,Chemistry,DEP04
+MAJ010,Biochemistry,DEP04
+MAJ011,biology,DEP05
+MAJ012,Microbiology,DEP05
+MAJ013,Biotechnology,DEP05
+MAJ014,Economics,DEP06
+MAJ015,Applied Economics,DEP06
+MAJ016,Psychology,DEP07
+MAJ017,Behavioral Science, DEP07 
+MAJ018,History,DEP08
+MAJ019,Cultural Studies,DEP08
+MAJ020,English Literature,DEP09
+MAJ021,Creative Writing,DEP09
+MAJ022,Business Administration,DEP10
+MAJ023,Finance,DEP10
+MAJ024,Marketing,DEP10
+MAJ009,Chemistry,DEP04

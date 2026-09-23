@@ -1,0 +1,11 @@
+department_id,department_name,department_code
+DEP01,Computer Science,CS
+DEP02,Mathematics,MATH
+DEP03,Physics,PHY
+DEP04,CHEMISTRY,CHEM
+DEP05,Biology,BIO
+DEP06,Economics,ECO
+DEP07,Psychology,PSY
+DEP08,History,HIST
+DEP09,English,ENG
+DEP10,Business,BUS

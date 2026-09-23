@@ -1,0 +1,9 @@
+relationship,rows_after_join,original_rows
+students → majors,1500,1500
+course_offerings → courses,261,261
+course_offerings → academic_terms,261,261
+assignments → course_offerings,800,800
+submissions → assignments,14983,14983
+ai_detector_results → submissions,74561,74561
+behavior_events → submissions,9984,9984
+integrity_cases → submissions,1363,1363
