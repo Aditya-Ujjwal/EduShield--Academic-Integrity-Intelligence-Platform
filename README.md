@@ -418,15 +418,9 @@ The Streamlit application supports:
 
 ### Application screenshots
 
-#### Home Page
-
 ![EduShield Streamlit Home Page](Images/App_Images/Home_Page.png)
 
-#### Prediction Output
-
 ![EduShield Prediction Output](Images/App_Images/Prediction_Output.png)
-
-#### Values / Inputs
 
 ![EduShield App Inputs](Images/App_Images/Values.png)
 
