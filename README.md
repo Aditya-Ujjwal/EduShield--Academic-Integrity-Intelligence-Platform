@@ -523,7 +523,7 @@ Examines the historical integrity profile of the student population and the inve
 - Behavioral integrity events
 - Student integrity profile
 
-![Student Integrity Intelligence](Images/Dashboard_Images/Student_Integrity_Intelligence.png)
+![Student Integrity Intelligence](Images/Dashboard_Images/Last.png)
 
 > **Note:** The dashboard is based on synthetic data. Integrity scores, cases, flags, and statuses are analytical demonstration values and are not real disciplinary records.
 
