@@ -1,6 +1,0 @@
-tool_id,tool_name,vendor,model_version,baseline_false_positive_rate,baseline_false_negative_rate,calibration_score,active_status
-DET01,GPTZero,EduShield Synthetic Labs,EZ-GPTZ-3.2,0.075,0.135,0.89,True
-DET02,Copyleaks,EduShield Synthetic Labs,EZ-CPL-4.1,0.045,0.1,0.93,True
-DET03,Turnitin,EduShield Synthetic Labs,EZ-TUR-5.0,0.055,0.125,0.91,True
-DET04,Originality.ai,EduShield Synthetic Labs,EZ-ORI-2.8,0.03,0.155,0.92,True
-DET05,Winston AI,EduShield Synthetic Labs,EZ-WIN-3.0,0.065,0.115,0.9,True
