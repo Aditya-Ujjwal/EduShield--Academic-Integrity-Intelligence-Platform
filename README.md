@@ -424,7 +424,7 @@ The Streamlit application supports:
 
 #### Prediction Output
 
-![EduShield Prediction Output](Images/App_Images/Prediction_Output.png)
+![EduShield Prediction Output](Images/App_Images/Predict.png)
 
 #### Values / Inputs
 
@@ -461,7 +461,7 @@ High-level institutional overview of:
 - Detector evidence vs AI-generation rate
 - Department performance summary
 
-![Executive Overview](Images/Dashboard_Images/Executive_Overview.png)
+![Executive Overview](Images/Dashboard_Images/First.png)
 
 ---
 
