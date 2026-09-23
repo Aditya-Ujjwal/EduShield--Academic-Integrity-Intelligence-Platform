@@ -420,15 +420,10 @@ The Streamlit application supports:
 
 ![EduShield Streamlit Home Page](Images/App_Images/Home_Page.png)
 
-<<<<<<< HEAD
-#### Prediction Output
+![EduShield App Inputs](Images/App_Images/Values.png)
 
 ![EduShield Prediction Output](Images/App_Images/Predict.png)
-=======
-![EduShield Prediction Output](Images/App_Images/Prediction_Output.png)
->>>>>>> c26b6b8f650f3785a6f14709189948aade6b60d1
 
-![EduShield App Inputs](Images/App_Images/Values.png)
 
 ---
 
